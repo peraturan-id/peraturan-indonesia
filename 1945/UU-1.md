@@ -55,7 +55,7 @@ A. G. Pringgodigdo
 
 Di dalam menjalankan Undang-Undang tanggal 23-11-1945 Pemerintah telah memenuhi beberapa kesulitan jang ta' mudah dipetjahkan, oleh karena menurut faham kami:
 
-Undang-Undang itu tidak disertai "memorie van toelichting" jang lazim disertakan dalam tiap-tiap rentjana Undang-Undang atau dalam tiap-tiap Undang-Undang jang baru diumumkan. Hal demikian itu menjebabkan pembatja daari Undang-Undang tersebut tidak dapat mengetahui tudjuan dari UndangUndang itu, sehingga tergantung semata-mata pada susunan dan redactie dari Undang-Undang tersebut dalam menafsirkan isi Undang-Undang itu.
+Undang-Undang itu tidak disertai "*memorie van toelichting*" jang lazim disertakan dalam tiap-tiap rentjana Undang-Undang atau dalam tiap-tiap Undang-Undang jang baru diumumkan. Hal demikian itu menjebabkan pembatja daari Undang-Undang tersebut tidak dapat mengetahui tudjuan dari UndangUndang itu, sehingga tergantung semata-mata pada susunan dan redactie dari Undang-Undang tersebut dalam menafsirkan isi Undang-Undang itu.
 
 Begitu timbullah beberapa pertanjaan dari masing-masing daerah seperti:
 1. Apakah Kepala Daerah yang qualitatus qua memimpin Badan Perwakilan Rakjat dan badan sxecutief itu, djuga berkedudukan sebagai anggauta jang mempunjai suara (stem) dalam badan-badan tersebut?
@@ -87,7 +87,7 @@ Badan Pekerdja--begitulah surat tersebut--telah membitjarakan sifat mana hendakn
 Dari pada pengumuman-pengumuman dan surat-surat pengantar tersebut, dapat kita menarik kesimpulan sebagai berikut:
 1. bahwa Komite Nasional Indonesia mula-mula dibentuk sebagai pembantu pemerintah, dimasa kekuasaan sipil masih di tangan Djepang, pamong-Pradja, Polisi dan lain-lain alat-alat pemerintah masih di tangan Djepang;
 2. bahwa sebelum Djepang, Komite Nasional Indonesia-lah dalam prakteknja mengganti Pangreh Pradja dan polisi, di samping Pangreh Pradja dan Polisi jang telah sama melepaskan dirinja dari kekuasaan Djepang dan mendjadi pegawai Republik Indonesia.
-3. bahwa keadaan dualisme jang demikian itu sangat melemahkan kedudukan dan kekuasaan Pangreh Pradja dan polisi jang merupakan alat-alat Pemerintahan jang resmi, menurut faham kami sendiri, jang menjadi ukuran untuk dunia internationaal, apakah benar-benar bahwa local government de facto ada di tangan kita dengan beres (*running well*).
+3. bahwa keadaan dualisme jang demikian itu sangat melemahkan kedudukan dan kekuasaan Pangreh Pradja dan polisi jang merupakan alat-alat Pemerintahan jang resmi, menurut faham kami sendiri, jang menjadi ukuran untuk dunia internationaal, apakah benar-benar bahwa *local government de facto* ada di tangan kita dengan beres (*running well*).
 
 Berhubung dengan itu maka soal ini harus lekas dipetjahkan. Oleh karenanja Badan Pekerdja memajukan rantjangan Undang-Undang kepada Presiden untuk mengaturnja.
 
