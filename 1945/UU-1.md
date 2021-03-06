@@ -1,6 +1,4 @@
-# Undang-Undang Republik Indonesia Nomor 1 Tahun 1945
-  tentang
-  Peraturan Mengenai Kedudukan Komite Nasional Daerah
+# Undang-Undang Republik Indonesia Nomor 1 Tahun 1945 </br> tentang </br> Peraturan Mengenai Kedudukan Komite Nasional Daerah
 
 Kami Presiden Republik Indonesia,
 
