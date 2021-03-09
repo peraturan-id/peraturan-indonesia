@@ -184,4 +184,4 @@ Apabila kekurangan, Negeri nistjaya akan menjokong, djika Pemerintah Pusat menim
 
 ---
 
-Tautan: <https://peraturan.go.id/common/dokumen/ln/1945/uu1-1945.pdf>.
+Tautan: <https://peraturan.go.id/common/dokumen/ln/1945/uu1-1945.pdf>
