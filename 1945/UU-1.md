@@ -180,4 +180,8 @@ Baiklah soal jang sulit ini kita kupas dengan menafsirkan redaksi dan kehendak s
 
 #### Fatsal ke-lima.
 
-Apabila kekurangan, Negeri nistjaya akan menjokong, djika Pemerintah Pusat menimbang perlu. 
+Apabila kekurangan, Negeri nistjaya akan menjokong, djika Pemerintah Pusat menimbang perlu.
+
+---
+
+Tautan: <https://peraturan.go.id/common/dokumen/ln/1945/uu1-1945.pdf>.
