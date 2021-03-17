@@ -27,5 +27,5 @@ Tata cara penyalinan berkas peraturan dan perundangan mengikuti [kaidah penulisa
 
 ## Sanggahan (*disclaimer*)
 
-Repositori ini bukan merupakan situs resmi pemerintah atau lembaga terkait, sehingga tidak dapat dijadikan rujukan resmi bagi pengguna.</br>
+Repositori ini bukan merupakan luaran resmi pemerintah atau lembaga terkait, sehingga tidak dapat dijadikan rujukan resmi bagi pengguna.</br>
 Pengguna disarankan untuk mengambil rujukan dari situs resmi lembaga pemerintah yang mengeluarkan peraturan dan/atau perundangan yang berlaku.
