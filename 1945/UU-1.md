@@ -1,4 +1,4 @@
-# Undang-Undang Republik Indonesia Nomor 1 Tahun 1945 </br> tentang </br> Peraturan Mengenai Kedudukan Komite Nasional Daerah
+# Undang-Undang Republik Indonesia Nomor 1 Tahun 1945 tentang Peraturan Mengenai Kedudukan Komite Nasional Daerah
 
 Kami Presiden Republik Indonesia,
 
@@ -55,7 +55,7 @@ A. G. Pringgodigdo
 
 ---
 
-## Pendjelasan Undang-Undang Nomor 1 Tahun 1945
+# Penjelasan Undang-Undang Nomor 1 Tahun 1945
 
 Di dalam menjalankan Undang-Undang tanggal 23-11-1945 Pemerintah telah memenuhi beberapa kesulitan jang ta' mudah dipetjahkan, oleh karena menurut faham kami:
 
