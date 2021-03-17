@@ -17,12 +17,14 @@ Peraturan ini mulai belaku pada tanggal 17 Agustus 1945.
 
 Jakarta, tanggal 10 Oktober 1945,
 
-Presiden Republik Indonesia,
+Presiden Republik Indonesia, </br>
 Soekarno
+
+</br>
 
 Diumumkan pada tanggal 10 Oktober 1945
 
-Sekretaris Negara,
+Sekretaris Negara, </br>
 A.G. Pringgodigdo
 
 ---
@@ -33,9 +35,11 @@ Dalam Pasal II dari Aturan Peralihan Undang-Undang Dasar Negara Republik Indones
 
 Hendaknya semua penduduk memperhatikannya.
 
+</br>
+
 Jakarta, tanggal 10 Oktober 1945,
 
-Sekretaris Negara,
+Sekretaris Negara, </br>
 A.G. Pringgodigdo
 
 ---
