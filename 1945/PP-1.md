@@ -1,4 +1,4 @@
-# Peraturan Pemerintah Nomor 1 Tahun 1945 tentang dan Mulai Berlakunja Undang-Undang dan Peraturan Pemerintah.
+# Peraturan Pemerintah Nomor 1 Tahun 1945 tentang dan Mulai Berlakunja Undang-Undang dan Peraturan Pemerintah
 
 Kami, Presiden Republik Indonesia
 
@@ -34,4 +34,5 @@ Soekarno
 ---
 
 Sumber:
-* [Tautan 1](https://peraturan.go.id/common/dokumen/ln/1945/pp1-1945.pdf)
+* [Tautan 1](https://peraturan.go.id/peraturan/view.html?id=11e44c4e293fbfe0945c313231323131)
+* [Tautan 2](https://peraturan.go.id/common/dokumen/ln/1945/pp1-1945.pdf)
