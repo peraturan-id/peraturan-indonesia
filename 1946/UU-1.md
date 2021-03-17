@@ -209,6 +209,86 @@ Mungkin pula buat tiap-tiap daerah tentang suatu hal oleh Pemerintah daerah Jepa
 
 Di sini tidak akan dirundingkan sisteem manakah sebagai sisteem terlebih baik, akan tetapi sudah barang tentu, bahwa tidak baik menggunakan dua sisteem itu dalam peraturan-peraturan hukum pidana, yang bersama-sama berlaku dalam sesuatu daerah.
 
+Lagi pula peraturan tentang bagian umum (algemeene leerstukken) dari hukum pidana Hindia-Belanda dan Jepang tidak sama. Di dalam praktek peraturan bagian umum dari *Wetboek van Strafrecht voor Nederlandsch-Indie* harus dipakai jikalau pelanggaran mengenai peraturan Hindia-Belanda, sedang peraturan bagian umum dari *Gunsei Keizirei* harus dipergunakan, jikalau peraturan Jepang yang dilanggar.
+
+Dirasa tak perlu memberi keterangan panjang lebar, bahwa menyempurnakan peraturan-peraturan hukum Pidana Hindia-Belanda dan Jepang itu tidak memuaskan dan menimbulkan kesulitan bagi mereka yang harus menjalankan hukum pidana itu, lebih-lebih pegawai polisi yang bukan ahli hukum.
+
+Dari sebab itu tidak mengherankan, bahwa dari beberapa tempat dan pihak diusulkan supaya satu peraturan kriminil sajalah dipakai. Lebih tegas diusulkan oleh mereka supaya peraturan-peraturan hukum pidana Jepang dihapuskan.
+
+Memang tidak dapat disangkal, bahwa peraturan-peraturan hukum pidana Jepang, yang berlaku di tanah kita, bersifat *fascistisch*, lagi pula tidak merupakan peraturan yang bulat, kerap kali tidak jelas dan mengandung banyak bukti, bahwa peraturan-peraturan itu disusun dengan tergesa-gesa pada masa yang tak tenang, sedang *Gunsei Keizirei* kadang-kadang memaksa hakim menjatuhkan hukuman yang tidak seimbang dengan kesalahan pesakitan, oleh karena beberapa pasal tak memberi kesempatan kepada hakim memberi hukuman lebih enteng dari pada batas terlukis dalam pasal-pasal itu. Sebaliknya boleh dikatakan, bahwa peraturan kriminil Hindia-Belanda walaupun tidak sempurna, cukup lengkap dan pada umumnya tidan mengandung cacat-cacat seperti dimaksud diatas, sehingga peraturan-peraturan ini, sebelum dapat diselesaikan peraturan-peraturan hukum pidana nasional, boleh dipakai buat sementara waktu, sesudah peraturan-peraturan itu dirobah dan ditambah seperlunya.
+
+Berdasarkan pertimbangan-pertimbangan tersebut diatas dirasa perlu melenyapkan peraturan-peraturan kriminil Jepang, sehingga buat sementara waktu berlaku lagi peraturan-peraturan hukum pidana Hindia-Belanda yang ada pada tanggal 8 Maret 1942.
+
+Perlu kiranya diterangkan disini, bahwa yang akan tidak berlaku lagi itu, ialah peraturan-peraturan hukum pidana sahaja, yaitu *Gunsei Keizirei* dan peraturan-peraturan Jepang lain yang memuat "*materieel strafrecht*".
+
+Peraturan-peraturan Jepang yang bersifat lain terus berlaku.
+
+### II.
+
+Oleh karena Negara Republik Indonesia sekarang tidak dalam keadaan perang dengan Negara manapun, dan keadaan bahaya tidak dinyatakan oleh Presiden (lihatlah pasal 12 Undang-Undang Dasar), maka dianggap kurang tepat mengadakan peraturan-peraturan sebagai "*Verordeningen van het Militair Gezag*" yang dikeluarkan oleh panglima tertinggi bala tentara Hindia-Belanda.
+
+Dari sebab di dalam praktek disangsikan, apakah peraturan-peraturan itu masih berlaku atau tidak, maka sebaiknya dinyatakan, bahwa undang-undang itu dicabut. (lihat pasal 2 dari rencana).
+
+### III.
+
+Tidak perlu diterangkan, bahwa semua peraturan yang berlaku pada tanggal 8 Maret 1942, mestinya satu demi satu sedapat-dapat harus disesuaikan dengan keadaan sekarang. Hal ini sedapat-dapat dilaksanakan terhadap Kitab Undang-undang Hukum Pidana (*Wetboek van Strafrecht voor Nederlandsch-Indie*). Tetapi pekerjaan itu tidak mungkin sekaligus diselenggarakan terhadap semua Peraturan. Berhubung dengan itu, maka dengan pasal III, IV dan V dari rencana diberi petunjuk walaupun jauh dari pada sempurna kepada mereka yang harus menjalankan peraturan hukum pidana sehari-hari, jalan manakah yang harus ditempuh untuk menyesuaikan peraturan-peraturan lama dengan keadaan sekarang, sebelum peraturan-peraturan itu dapat dirobah atau diganti.
+
+### IV.
+
+Tentang bahasa, yang dipakai dalam perobahan-perobahan dalam Kitab Undang-undang Hukum Pidana, baik kiranya diberi keterangan sekedarnya. Karena kitab tersebut ditulis dalam bahasa Belanda, maka agar supaya tidak menimbulkan kekacauan dalam membacanya perobahan-perobahan itu, yang hanya mengenai satu atau dua perkataan atau sebagian dari pasal atau ayat, ditulis pula dalam bahasa Belanda.
+
+### V.
+
+Selain dari pada perobahan kecil-kecil ini, dirasa perlu juga merobah pasal 171 Kitab undang-undang hukum pidana seanteronya serta mengadakan beberapa aturan-aturan baru antara lain guna melindungi masyarakat kita pada zaman pancaroba ini.
+
+Oleh karena perobahan-perobahan dan tambahan-tambahan yang dimaksud ini sangat dipengaruhi keadaan sekarang dan kini belum dapat ditetapkan dengan pasti, apakah peraturan-peraturan itu seperti yang diusulkan sekarang, akan tetap dibutuhkan, juga buat kemudian hari, maka dianggap lebih tepat memberi tempat kepada pasalpasal tersebut di luar badan Kitab undang-undang hukum pidana. Pasal-pasal ini ditulis dalam bahasa Indonesia (lihat pasal IX, X, XI, XII, XIII dan XV).
+
+### VI.
+
+Hingga kini terjemahan nama: "*Wetboek van Strafrecht voor Nederlandsch-Indie*" dalam bahasa Indonesia tidak sama. Nama-nama yang dipakai ialah antara lain: "Kitab Undang-undang Hukum Siksa", "Kitab Undang-undang Hukum", "Kitab Undang-undang Hukum Pidana", dsb.
+
+Untuk mencapai persamaan dalam terjemahan nama tersebut, dipandang perlu menetapkan terjemahan resmi dengan undang-undang (lihat pasal 6).
+
+Istilah "hukum pidana" dalam arti "*strafrecht*" ialah istilah yang ditetapkan oleh Panitia Istilah dari Panitia Penyelenggara undang-Undang di Departemen Kehakiman pada zaman Jepang.
+
+## Penjelasan Sepasal demi Sepasal
+
+### Pasal I sampai VI
+
+Penjelasan telah diberikan dibagian penjelasan umum. Petunjuk-petunjuk dalam pasal I sampai V diatas dirasa perlu terhadap peraturan-peraturan hukum pidana yang belum dapat dirobah atau diganti sesuai dengan keadaan sekarang.
+
+### Pasal VII
+
+Tidak perlu diterangkan lagi.
+
+### Pasal VIII
+
+* No. 1 Pasal 105, 130, 132 dan 133 dihapuskan, (lihatlah No. 13, 19 dan 21).
+* No. 2 dan 3a tidak membutuhkan penjelasan.
+* No. 3b, dan No. 4 berhubung dengan kedudukan jaksa sekarang, maka pegawai inilah yang harus diberi kekuasaan yang dimaksud dalam pasal ini, sedangkan kewajiban Gouverneur-Generaal dulu patut diserahkan kepada Menteri Kehakiman.
+* No. 5, No. 6, No. 7, No. 8, tidak membutuhkan penjelasan
+* No. 9 Negeri Belanda, Suriname dan Curacao tidak masuk daerah Negara Indonesia.
+* No. 10 Namanya badan-badan politik yang dimaksud dalam pasal ini belum dapat disebut. Komite Nasional Indonesia antara lainnya juga masuk dalam pasal ini.
+* No. 11, No. 12, No. 13 tidak membutuhkan penjelasan.
+* No. 14 Pasal 105 dihapuskan, (lihatlah No. 13).
+* No. 15, No. 16 tidak membutuhkan penjelasan.
+* No. 17 Pasal 105 dihapuskan (lihatlah No. 13).
+* No. 18 tidak membutuhkan penjelasan.
+* No. 19 Pasal ini tidak sesuai dengan bentuk Negara kita sebagai Republik.
+* No. 20 tidak membutuhkan penjelasan.
+* No. 21 lihat penjelasan penjelasan 19.
+* No. 22 tidak membutuhkan penjelasan.
+* No. 23 lihat penjelasan No. 19 dan perobahan pasal 134 (No. 22).
+* No. 24 Pasal-pasal 135 dan 136 dihapuskan (lihatlah No. 23)
+* No. 25, No. 26 tidak membutuhkan penjelasan.
+* No. 27a, pasal 130 dihapuskan (lihatlah No. 19). </br>
+    B, pasal-pasal 132 dan 133 dihapuskan (lihatlah No. 21). </br>
+    C, pasal-pasal 135 dan 136 dihapuskan (lihatlah No. 23).
+* No. 28 tidak membutuhkan penjelasan.
+* No. 29 lihat penjelasan No. 10.
+* No. 30 Pasal-pasal ini dianggap tidak sesuai dengan azas Negara kita sebagai negara yang democratis.
+* No. 31 tidak membutuhkan penjelasan.
+
 
 ---
 
