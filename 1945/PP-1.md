@@ -20,6 +20,8 @@ Djikalau perlu, supaja penduduk selekas mungkin mengetahuinja maka pengumuman it
 
 Undang-undang dan peraturan presiden mulai berlaku pada hari diumumkan,ketjuali djika dalam Undang-Undang atau Peraturan Presiden itu ditetapkan lain.
 
+</br>
+
 Diumumkan, </br>
 Pada tanggal 10 Oktober 1945, </br>
 Sekretaris Negara, </br>
