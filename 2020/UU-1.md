@@ -107,5 +107,5 @@ Cukup jelas.
 
 Sumber:
 * [Tautan 1](https://peraturan.go.id/peraturan/view.html?id=959f44167a3b57ef2e6b669bc5a15b4a)
-* [Tautan 2](https://peraturan.go.id/common/dokumen/ln/2020/uu1-2020bt.pdf)
-* [Tautan 3](https://peraturan.go.id/common/dokumen/ln/2020/uu1-2020pjl.pdf)
+* [LN 67](https://peraturan.go.id/common/dokumen/ln/2020/uu1-2020bt.pdf)
+* [TLN 6476](https://peraturan.go.id/common/dokumen/ln/2020/uu1-2020pjl.pdf)
