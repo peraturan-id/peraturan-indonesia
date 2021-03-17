@@ -16,26 +16,26 @@ Dengan Persetujuan Badan Pekerdja Komite Nasional Pusat;
 
 Menetapkan Undang-Undang sebagai berikut:
 
-### Pasal 1
+## Pasal 1
 Komite Nasional Daerah diadakan -ketjuali di Daerah Surakarta dan Jogjakarta- di Keresidenan, di Kota berautonomi, Kabupaten dan lain-lain daerah jang dianggap perlu oleh Menteri Dalam Negeri.
 
-### Pasal 2
+## Pasal 2
 
 Komite Nasional Daerah mendjadi Badan Perwakilan Rakjat Daerah, jang bersama-sama dengan dan dipimpin oleh Kepala Daerah menjalankan pekerdjaan mengatur rumah-tangga daerahnja, asal tidak bertentangan dengan Peraturan Pemerintah Pusat dan Pemerintah Daerah jang lebih luas dari padanja.
 
-### Pasal 3
+## Pasal 3
 
 Oleh Komite Nasional Daerah dipilih beberapa orang, sebanjak-banjaknja 5 orang sebagai Badan Executief, jang bersama-sama dengan dan dipimpin oleh Kepala Daerah mendjalankan Pemerintahan sehari-hari dalam daerah itu.
 
-### Pasal 4
+## Pasal 4
 
 Ketua Komite Nasional Daerah jang lama harus diangkat sebagai Wakil Ketua Badan jang dimaksudkan dalam pasal 2 dan 3.
 
-### Pasal 5
+## Pasal 5
 
 Biaya untuk keperluan Komite Nasional Daerah disediakan oleh Pemerintah Daerah.
 
-### Pasal 6
+## Pasal 6
 
 Undang-Undang ini mulai berlaku pada hari diumumkan dan perubahan dalam daerah-daerah harus selesai dalam waktu selambat-lambatnya 14 hari.
 
