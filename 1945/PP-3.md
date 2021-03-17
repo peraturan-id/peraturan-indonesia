@@ -35,5 +35,5 @@ Kehakiman.
 ---
 
 Sumber:
-<https://jdihn.go.id/search/all-categories/detail/834008>
-<https://jdihn.go.id/file/download/MTk0NXBwMDAzLnBkZg==>
+* [Tautan 1](https://jdihn.go.id/search/all-categories/detail/834008)
+* [Tautan 2](https://jdihn.go.id/file/download/MTk0NXBwMDAzLnBkZg==)
