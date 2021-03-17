@@ -334,7 +334,7 @@ Menggantikan pasal 171 Kitab Undang-undang Hukum Pidana, yang pada masa pancarob
 
 ### Pasal XIV
 
-Ialah sama dengan "Verordening No. 18 van het Militair Gezag".
+Ialah sama dengan "*Verordening No. 18 van het Militair Gezag*".
 
 Keonaran adalah lebih hebat dari pada kegelisahan dan menggoncangkan hati penduduk yang tidak sedikit jumlahnya. Kekacauan meuat juga keonaran.
 
