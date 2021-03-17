@@ -1,4 +1,4 @@
-# Undang-undang Republik Indonesia Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana
+# Undang-Undang Republik Indonesia Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana
 
 Presiden Republik Indonesia,
 
