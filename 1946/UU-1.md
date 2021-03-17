@@ -39,12 +39,12 @@ Peraturan hukum pidana, yang seluruhnya atau sebagian sekarang tidak dapat dijal
 
 ### Pasal 6
 
-1. Nama Undang-undang hukum pidana "*Wetboek van Strafrecht voor Nederlandsh-Indie*" dirobah menjadi "*Wetboek van Strafrecht*".
+1. Nama Undang-undang hukum pidana "*Wetboek van Strafrecht voor Nederlandsch-Indie*" dirobah menjadi "*Wetboek van Strafrecht*".
 2. Undang-undang tersebut dapat disebut: "Kitab Undang-Undang Hukum Pidana".
 
 ### Pasal 7
 
-Dengan tidak mengurangi apa yang ditetapkan dalam pasal 3, maka semua perkataan "Nederlandsch-onderdaan" dalam Kitan Undang-undang hukum pidana diganti dengan "Warga Negara Indonesia".
+Dengan tidak mengurangi apa yang ditetapkan dalam pasal 3, maka semua perkataan "*Nederlandsch-onderdaan*" dalam Kitab Undang-undang hukum pidana diganti dengan "Warga Negara Indonesia".
 
 ### Pasal 8
 
@@ -53,7 +53,7 @@ Kitab Undang-Undang Hukum Pidana dirobah sebagai berikut:
 2. Perkataan "Directeur van Justitie" dalam pasal 15b diganti dengan "Minister van
 Justitie".
 3. Pasal 16 dirobah sebagai berikut:
-    * a. perkataan "Directeur van Justitie" harus dibaca "Minister van Justitie"
+    * a. perkataan "*Directeur van Justitie*" harus dibaca "*Minister van Justitie*".
     * b. bagian kalimat : "*voorzopver betreft de Gouvern- ementslanden van Java en Madoera, van den assitent- resident en elders van het hoofd van plaatselijk bestuur" diganti dengan "van den jaksa" dan perkataan "Gouverneur-Generaal" diganti dengan "*Minister van Justitie*".
     * c. bagian kalimat : "*in de Gouvernementslanden van Java en Madoera op bevel van den assitent-resident en elders van het hoofd van plaatselijk bestuur*" dalam ayat 3 diganti dengan "op bevel van den jaksa".
 4. Dalam pasal 20 perkataan "*het hoofd van plaatselijk bestuur (den assistent-resident)* diganti dengan "den jaksa".
@@ -75,6 +75,8 @@ Justitie".
 18. Dalam pasal 122 dan 123 perkataan "*Nederland*" harus dibaca "Indonesie".
 19. Dalam pasal 128 bagian kalimat: "*een der in de artikelen 104 en 105 omschreven misdrijven*" diganti dengan "*het in artikel 104 omshcreven misdrijf*".
 20. Kepala Bab II diganti sebagai berikut: "*Misdrijven tegen de waardigheid van den President en van den Vice-President*".
+
+
 
 ---
 
