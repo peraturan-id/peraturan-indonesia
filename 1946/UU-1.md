@@ -265,7 +265,7 @@ Tidak perlu diterangkan lagi.
 
 * No. 1 Pasal 105, 130, 132 dan 133 dihapuskan, (lihatlah No. 13, 19 dan 21).
 * No. 2 dan 3a tidak membutuhkan penjelasan.
-* No. 3b, dan No. 4 berhubung dengan kedudukan jaksa sekarang, maka pegawai inilah yang harus diberi kekuasaan yang dimaksud dalam pasal ini, sedangkan kewajiban Gouverneur-Generaal dulu patut diserahkan kepada Menteri Kehakiman.
+* No. 3b, dan No. 4 berhubung dengan kedudukan jaksa sekarang, maka pegawai inilah yang harus diberi kekuasaan yang dimaksud dalam pasal ini, sedangkan kewajiban *Gouverneur-Generaal* dulu patut diserahkan kepada Menteri Kehakiman.
 * No. 5, No. 6, No. 7, No. 8, tidak membutuhkan penjelasan
 * No. 9 Negeri Belanda, Suriname dan Curacao tidak masuk daerah Negara Indonesia.
 * No. 10 Namanya badan-badan politik yang dimaksud dalam pasal ini belum dapat disebut. Komite Nasional Indonesia antara lainnya juga masuk dalam pasal ini.
@@ -288,7 +288,71 @@ Tidak perlu diterangkan lagi.
 * No. 29 lihat penjelasan No. 10.
 * No. 30 Pasal-pasal ini dianggap tidak sesuai dengan azas Negara kita sebagai negara yang democratis.
 * No. 31 tidak membutuhkan penjelasan.
+* No. 32 lihat penjelasan No. 30.
+* No. 33 Pasal 105 dihapuskan.
+* No. 34 Pasal-pasal 105, 130, 132 dan 133 dihapuskan.
+* No. 35 dirobah dan jadi pasal XIV dan XV dari rancangan ini.
+* No. 36 tidak membutuhkan penjelasan.
+* No. 37 berhubung dengan kedudukan jaksa sekarang yang sama dengan *(Eur) Officier van Justitie* dulu.
+* No. 38 Pasal ini tidak sesuai dengan keadaan sekarang.
+* No. 39 Tambahan dalam pasal 234 dianggap perlu oleh karena sekarang banyak surat-surat dikirimkan dengan perantaraan orang.
+No. 40 tidak membutuhkan penjelasan.
+* No. 41 Sekarang belum terang kepada siapa kekuasaan Gubernur Jenderal yang dimaksud dalam pasal 239 Kitab Undang-undang hukum pidana akan diberikan.
+* No. 42, No. 43 tidak perlu diberikan penjelasan.
+* No. 44 Suriname, Curacao dan Nederland telah masuk perkataan-perkataan "*buitenlandsche mogendheid*".
+* No. 45 Perkataan "Inlandsch" tidak ada artinya lagi.
+* No. 46 Penghapusan ini adalah sesuai dengan kedudukan Jaksa sekarang.
+* No. 47, No. 48, No. 49, No. 50, No. 51, No. 52, No. 53, tidak membutuhkan penjelasan.
+* No. 55, No. 56, No. 57, No. 58, No. 59 Dirasa tepat bahwa laporan yang dimaksud harus disampaikan Kepala Polisi.
+* No. 60, No. 61, No. 62, No. 63 tidak perlu dijelaskan.
+* No. 64 Pegawai yang dimaksud dalam pasal ini harus ditunjuk antara lain dalam pasal-pasal 41 dan 333 dari *Burgerlijk Wetboek*.
+* No. 65 Kepala Polisi ditunjuk dalam pasal ini berhubung dengan kedudukannya sekarang.
 
+### Pasal IX sampai XIII
+
+Pasal-pasal ini dibutuhkan buat menindas usaha untuk mengacaukan peradaran uang di negeri kita dengan menyebarkan mata uang atau uang kertas yang oleh pihak Pemerintah kita tidak diakui sebagai alat pembayaran yang sah.
+
+Mata uang atau uang kertas yang tidak disebut dalam Maklumat Presiden Republik Indonesia tertanggal 3 Oktober 1945 No. 1/10 sebagai alat pembayaran yang sah, adalah buat daerah Jawa dan Madura alat pembayaran yang tidak sah.
+
+### Pasal IX
+
+Mengancam hukuman terhadap barang siapa membikin benda semacam mata uang atau uang kertas dengan maksud seperti diterangkan dalam pasal itu.
+
+### Pasal X dan pasal XI
+
+Disusun hampir sama dengan susunan pasal 245 dan pasal 249 Kitab Undang-Undang Hukum Pidana. Bedanya disebabkan oleh hal yang pasal X dan XI mengenai mata uang atau uang kertas yang tidak sah, sedangkan pasal 245 dan 249 Kitab Undang-Undang Hukum Pidana mengenai mata uang atau uang kertas palsu atau yang dipalsukan.
+
+Penjelasan dalam kitab-kitab tafsir tentang pasal 245 dan 249 Kitab Undang-Undang Hukum Pidana dapat dipergunakan untuk menafsirkan pasal X dan XI dari rancangan ini, dengan mengingat akan bedanya.
+
+### Pasal XIII
+
+Merupakan pasangannya pasal 250 bis Kitab Undang-Undang Hukum Pidana.
+
+### Pasal XIV dan pasal XV
+
+Menggantikan pasal 171 Kitab Undang-undang Hukum Pidana, yang pada masa pancaroba ini perlu diperluas.
+
+### Pasal XIV
+
+Ialah sama dengan "Verordening No. 18 van het Militair Gezag".
+
+Keonaran adalah lebih hebat dari pada kegelisahan dan menggoncangkan hati penduduk yang tidak sedikit jumlahnya. Kekacauan meuat juga keonaran.
+
+Menyiarkan artinya sama dengan "*verspreiden*" dalam pasal 171 Kitab Undang-Undang Hukum Pidana.
+
+### Pasal XV
+
+Disusun tidak begitu luas sebagai "*Verordening No. 19 van het Militair Gezag*".
+
+Pasal ini mengenai "kabar angin" (kabar yang tidak pasti) dan kabar yang disiarkan dengan tambahan atau dikurangi.
+
+Menyiarkan kabar benar secara yang benar tidak dihukum.
+
+Arti perkataan "keonaran" telah dijelaskan dalam penjelasan pasal XIV.
+
+### Pasal terachir
+
+Oleh karena berhubung dengan sukarnya perhubungan antara pulau Jawa dan daerah Negara Indonesia yang lain, sekarang belum dapat ditetapkan bilamana Undang-undang ini akan berlaku buat daerah di luar pulau Jawa dan Madura, maka sebaiknya diserahkan kepada Presiden untuk menentukan saat itu.
 
 ---
 
