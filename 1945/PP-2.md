@@ -3,6 +3,8 @@
 Badan-Badan dan Peraturan Pemerintah Dulu, </br>
 Hal masih tetap berlakunya segala Badan-Badan Negara dan Peraturan-Peraturan yang ada sampai berdirinya Negara Republik Indonesia pada tanggal 17 Agustus 1945, selama belum diadakan yang baru menurut Undang-Undang Dasar.
 
+</br>
+
 Kami, Presiden Republik Indonesia,
 
 Untuk ketertiban masyarakat, bersandar atas Aturan Perlaihan Undang-Undang Dasar Negara Republik Indonesia Pasal 11, berhubung dengan Pasal IV, menetapkan Peraturan sebagai berikut:
