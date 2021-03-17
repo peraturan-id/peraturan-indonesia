@@ -10,6 +10,8 @@ bahwa sebelumnya diadakan pemilihan umum perlu diadakan aturan buat sementara wa
 
 pasal 18 dan 20 Undang-Undang Dasar 1945 dan Maklumat Wakil Presiden No. X, tanggal 16 Oktober 1945;
 
+</br>
+
 Dengan Persetujuan Badan Pekerdja Komite Nasional Pusat;
 
 ## Memutuskan:
@@ -17,6 +19,7 @@ Dengan Persetujuan Badan Pekerdja Komite Nasional Pusat;
 Menetapkan Undang-Undang sebagai berikut:
 
 ## Pasal 1
+
 Komite Nasional Daerah diadakan -ketjuali di Daerah Surakarta dan Jogjakarta- di Keresidenan, di Kota berautonomi, Kabupaten dan lain-lain daerah jang dianggap perlu oleh Menteri Dalam Negeri.
 
 ## Pasal 2
@@ -109,11 +112,11 @@ Berhubung terutama dengan "ketjepatan" ini, maka untuk Pemerintahan Dalam Negeri
 Maka dari sebab itu *uitvoeringsvoorschrift* (pendjelasan) jang akan kami bitjacarakan ini, kami bagi sadja dalam dua golongan, jaitu: </br>
 Pendjelasan umum dan pendjelasan sefatsal-sefatsal.
 
-Akan tetapi sebelumnja harus kita tjatat di sini, bahwa jang dikehendaki oleh B.P. itu bukannja Undang-Undang baru, tetapi hanja uitvoeringsvoorschrift (pendjelasan) sadja, jang ta' dapat mengubah Undang-Undang (Undang-Undang hanja dapat dirubah dengan Undang-Undang), sedang uitvoeringsvoorschriften tadi lapangannja terbatas sekali, artinja ta' dapat ke luar daripada Undang-Undang (lama atau baru).
+Akan tetapi sebelumnja harus kita tjatat di sini, bahwa jang dikehendaki oleh B.P. itu bukannja Undang-Undang baru, tetapi hanja *uitvoeringsvoorschrift* (pendjelasan) sadja, jang ta' dapat mengubah Undang-Undang (Undang-Undang hanja dapat dirubah dengan Undang-Undang), sedang *uitvoeringsvoorschriften* tadi lapangannja terbatas sekali, artinja ta' dapat ke luar daripada Undang-Undang (lama atau baru).
 
 Batasan ini terasa pula, oleh sebab menurut Peraturan Presiden No. 1 (Berita Republik Indonesia) segala aturan-aturan dan Undang-Undang lama tetap berlaku, selama belum diadakan Undang-Undang jang baru menurut Undang-Undang Dasar.
 
-Berhubung dengan ini, maka kita harus memperhatikan pula *Stadgemeente-* dan *Regentschapsordonnantie* jang dalam zaman Djepang telah dirobah kedudukannja oleh Osamu-Seiren nomor. 12 dan 13 sebagai Ken dan Si, jang autonomie, akan tetapi sifat demokrasinya dilenjapkan, karena segala hak-hak dari *Raad-Raad* dan *College-College* di daerah-daerah di berikan kepada Kepala Daerah, sehingga dengan sendirinja *Raad-Raad* dan *College-College* tersebut dihapuskan.
+Berhubung dengan ini, maka kita harus memperhatikan pula *Stadgemeente-* dan *Regentschapsordonnantie* jang dalam zaman Djepang telah dirobah kedudukannja oleh *Osamu-Seiren* nomor. 12 dan 13 sebagai Ken dan Si, jang autonomie, akan tetapi sifat demokrasinya dilenjapkan, karena segala hak-hak dari *Raad-Raad* dan *College-College* di daerah-daerah di berikan kepada Kepala Daerah, sehingga dengan sendirinja *Raad-Raad* dan *College-College* tersebut dihapuskan.
 
 Akan tetapi Undang-Undang tanggal 23 Nopember 1945 No. 1 itu, meskipun tidak disebut, pada hakekatnya merubah status quo Pemerintahan Daerah: "Komite Nasional Indonesia, Daerah mendjadi Badan Perwakilan Rakjat Daerah" dengan dasar kedaulatan rakjat.
 
