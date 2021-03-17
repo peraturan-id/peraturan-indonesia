@@ -50,15 +50,14 @@ Dengan tidak mengurangi apa yang ditetapkan dalam pasal 3, maka semua perkataan 
 
 Kitab Undang-Undang Hukum Pidana dirobah sebagai berikut:
 1. Dalam pasal 4, ayat 1, ke 1e angka-angka "104-108" harus dibaca "104, 106, 107 en 108" dan angka-angka "130-133" dibaca "131".
-2. Perkataan "Directeur van Justitie" dalam pasal 15b diganti dengan "Minister van
-Justitie".
+2. Perkataan "*Directeur van Justitie*" dalam pasal 15b diganti dengan "*Minister van Justitie*".
 3. Pasal 16 dirobah sebagai berikut:
     * a. perkataan "*Directeur van Justitie*" harus dibaca "*Minister van Justitie*".
-    * b. bagian kalimat : "*voorzopver betreft de Gouvern- ementslanden van Java en Madoera, van den assitent- resident en elders van het hoofd van plaatselijk bestuur" diganti dengan "van den jaksa" dan perkataan "Gouverneur-Generaal" diganti dengan "*Minister van Justitie*".
-    * c. bagian kalimat : "*in de Gouvernementslanden van Java en Madoera op bevel van den assitent-resident en elders van het hoofd van plaatselijk bestuur*" dalam ayat 3 diganti dengan "op bevel van den jaksa".
-4. Dalam pasal 20 perkataan "*het hoofd van plaatselijk bestuur (den assistent-resident)* diganti dengan "den jaksa".
+    * b. bagian kalimat : "*voorzopver betreft de Gouvern- ementslanden van Java en Madoera, van den assitent- resident en elders van het hoofd van plaatselijk bestuur*" diganti dengan "*van den* jaksa" dan perkataan "*Gouverneur-Generaal*" diganti dengan "*Minister van Justitie*".
+    * c. bagian kalimat : "*in de Gouvernementslanden van Java en Madoera op bevel van den assitent-resident en elders van het hoofd van plaatselijk bestuur*" dalam ayat 3 diganti dengan "*op bevel van den* jaksa".
+4. Dalam pasal 20 perkataan "*het hoofd van plaatselijk bestuur (den assistent-resident)* diganti dengan "*den* jaksa".
 5. Dalam pasal 21, perkataan "*Directeur van Justitie*" diganti dengan "*Minister van Justitie*".
-6. Dalam Pasal 29, ayat (2)m perkataan "Directeur van Justitie" diganti dengan "*Minister van Justitie*".
+6. Dalam Pasal 29, ayat (2)m perkataan "*Directeur van Justitie*" diganti dengan "*Minister van Justitie*".
 7. Dalam pasal 33a, perkataan "*Gouverneur-Generaal*", diganti dengan "President".
 8. Dalam pasal 44, ayat 3, perkataan "*de Europeesche rechtbanken*", diganti dengan "Mahkamah Agung, Pengadilan Tinggi".
 9. Pasal 76 dirobah sebagai berikut:
