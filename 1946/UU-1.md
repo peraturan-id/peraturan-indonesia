@@ -185,6 +185,8 @@ Menteri Kehakiman </br>
 ttd </br>
 Soewandi
 
+</br>
+
 Diumumkan pada tanggal 26 Februari 1946
 
 Sekretaris Negara </br>
