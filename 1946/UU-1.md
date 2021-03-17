@@ -54,7 +54,7 @@ Kitab Undang-Undang Hukum Pidana dirobah sebagai berikut:
 Justitie".
 3. Pasal 16 dirobah sebagai berikut:
     * a. perkataan "Directeur van Justitie" harus dibaca "Minister van Justitie"
-    * b. bagian kalimat : "*voorzopver betreft de Gouvern- ementslanden van Java en Madoera, van den assitent- resident en elders van het hoofd van plaatselijk bestuur" diganti dengan "van den jaksa" dan perkataan "Gouverneur-Generaal" diganti dengan "Minister van Justitie".
+    * b. bagian kalimat : "*voorzopver betreft de Gouvern- ementslanden van Java en Madoera, van den assitent- resident en elders van het hoofd van plaatselijk bestuur" diganti dengan "van den jaksa" dan perkataan "Gouverneur-Generaal" diganti dengan "*Minister van Justitie*".
     * c. bagian kalimat : "*in de Gouvernementslanden van Java en Madoera op bevel van den assitent-resident en elders van het hoofd van plaatselijk bestuur*" dalam ayat 3 diganti dengan "op bevel van den jaksa".
 4. Dalam pasal 20 perkataan "*het hoofd van plaatselijk bestuur (den assistent-resident)* diganti dengan "den jaksa".
 5. Dalam pasal 21, perkataan "*Directeur van Justitie*" diganti dengan "*Minister van Justitie*".
@@ -75,3 +75,10 @@ Justitie".
 18. Dalam pasal 122 dan 123 perkataan "*Nederland*" harus dibaca "Indonesie".
 19. Dalam pasal 128 bagian kalimat: "*een der in de artikelen 104 en 105 omschreven misdrijven*" diganti dengan "*het in artikel 104 omshcreven misdrijf*".
 20. Kepala Bab II diganti sebagai berikut: "*Misdrijven tegen de waardigheid van den President en van den Vice-President*".
+
+---
+
+---
+Sumber:
+* [Tautan 1](https://peraturan.go.id/peraturan/view.html?id=11e44c4e2acd8a5093cd313231323133)
+* [Tautan 2](https://peraturan.go.id/common/dokumen/ln/1946/uu1-1946.pdf)
