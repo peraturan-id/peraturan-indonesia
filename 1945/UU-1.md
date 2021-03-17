@@ -2,11 +2,11 @@
 
 Kami Presiden Republik Indonesia,
 
-## Menimbang :
+## Menimbang:
 
 bahwa sebelumnya diadakan pemilihan umum perlu diadakan aturan buat sementara waktu untuk menetapkan kedudukan Komite Nasional Daerah;
 
-## Mengingat :
+## Mengingat:
 
 pasal 18 dan 20 Undang-Undang Dasar 1945 dan Maklumat Wakil Presiden No. X, tanggal 16 Oktober 1945;
 
@@ -39,10 +39,14 @@ Biaya untuk keperluan Komite Nasional Daerah disediakan oleh Pemerintah Daerah.
 
 Undang-Undang ini mulai berlaku pada hari diumumkan dan perubahan dalam daerah-daerah harus selesai dalam waktu selambat-lambatnya 14 hari.
 
+</br>
+
 Djakarta, tanggal 23 Nopember 1945,
 Presiden Republik Indonesia
 
 Soekarno.
+
+</br>
 
 Diumumkan Pada tanggal 23 Nopember 1945.
 
@@ -51,7 +55,7 @@ A. G. Pringgodigdo
 
 ---
 
-## Pendjelasan Undang-Undang 1945 Nomor 1
+## Pendjelasan Undang-Undang Nomor 1 Tahun 1945
 
 Di dalam menjalankan Undang-Undang tanggal 23-11-1945 Pemerintah telah memenuhi beberapa kesulitan jang ta' mudah dipetjahkan, oleh karena menurut faham kami:
 
@@ -184,4 +188,5 @@ Apabila kekurangan, Negeri nistjaya akan menjokong, djika Pemerintah Pusat menim
 
 ---
 
-Tautan: <https://peraturan.go.id/common/dokumen/ln/1945/uu1-1945.pdf>
+Sumber:
+* [Tautan 1](https://peraturan.go.id/common/dokumen/ln/1945/uu1-1945.pdf)
