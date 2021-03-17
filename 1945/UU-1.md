@@ -42,15 +42,15 @@ Undang-Undang ini mulai berlaku pada hari diumumkan dan perubahan dalam daerah-d
 </br>
 
 Djakarta, tanggal 23 Nopember 1945,
-Presiden Republik Indonesia
 
+Presiden Republik Indonesia </br>
 Soekarno.
 
 </br>
 
 Diumumkan Pada tanggal 23 Nopember 1945.
 
-Sekretaris Negara,
+Sekretaris Negara, </br>
 A. G. Pringgodigdo
 
 ---
