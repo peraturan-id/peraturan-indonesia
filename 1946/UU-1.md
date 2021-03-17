@@ -170,6 +170,8 @@ Barang siapa terhadap bendera kebangsaan Indonesia dengan sengaja menjalankan su
 ### Pasal 17
 Undang-undang ini mulai berlaku buat pulau Jawa dan Madura pada hari diumumkannya dan buat daerah lain pada hari yang akan ditetapkan oleh Presiden.
 
+</br>
+
 Agar Undang-undang ini diketahui oleh umum, maka diperintahkan supaya diumumkan sebagai biasa.
 
 </br>
