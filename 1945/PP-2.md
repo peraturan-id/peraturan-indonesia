@@ -1,6 +1,5 @@
-# Peraturan Pemerintah Nomor 2 Tahun 1945
+# Peraturan Pemerintah Nomor 2 Tahun 1945 tentang Badan-Badan dan Peraturan Pemerintah Dulu
 
-Badan-Badan dan Peraturan Pemerintah Dulu, </br>
 Hal masih tetap berlakunya segala Badan-Badan Negara dan Peraturan-Peraturan yang ada sampai berdirinya Negara Republik Indonesia pada tanggal 17 Agustus 1945, selama belum diadakan yang baru menurut Undang-Undang Dasar.
 
 </br>
