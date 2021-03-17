@@ -145,11 +145,73 @@ Barang siapa dengan sengaja menjalankan sebagai alat pembayaran yang sah mata ua
 
 Barang siapa dengan sengaja menjalankan sebagai alat pembayaran yang sah mata uang atau uang kertas yang dari pihak Pemerintah tidak diakui sebagai alat pembayaran yang sah, dalam hal di luar keadaan sebagai yang tersebut dalam pasal yang baru lalu, dihukum dengan hukuman penjara setinggi-tingginya lima belas tahun.
 
+### Pasal 12
+
+Barang siapa menerima sebagai alat pembayaran atau penukaran atau sebagai hadiah atau penyimpan atau mengangkut mata uang atau uang kertas, sedangkan ia mengetahui, bahwa benda-benda itu oleh pihak Pemerintah tidak diakui sebagai alat pembayaran yang sah, dihukum dengan hukuman penjara setinggi-tingginya lima tahun.
+
+### Pasal 13
+
+Kalau orang dihukum karena melakukan salah satu kejahatan seperti tersebut dalam pasal-pasal 9, 10, 11 dan 12 maka mata uang atau uang kertas serta benda lain yang dipergunakan untuk melakukan salah satu kejahatan itu dirampas, juga kalau
+benda-benda itu bukan kepunyaan terhukum.
+
+### Pasal 14
+
+1. Barang siapa, dengan menyiarkan berita atau pemberitahuan bohong, dengan sengaja menerbitkan keonaran di kalangan rakyat, dihukum dengan hukuman penjara setinggi-tingginya sepuluh tahun.
+2. Barang siapa menyiarkan suatu berita atau mengeluarkan pemberitahuan, yang dapat menerbitkan keonaran di kalangan rakyat, sedangkan ia patut dapat menyangka bahwa berita atau pemberitahuan itu adalah bohong, dihukum dengan penjara setinggi-tingginya tiga tahun.
+
+### Pasal 15
+
+Barang siapa menyiarkan kabar yang tidak pasti atau kabar yang berkelebihan atau yang tidak lengkap, sedangkan ia mengerti setidak-tidaknya patut dapat menduga, bahwa kabar demikian akan atau mudah dapat menerbitkan keonaran di kalangan rakyat, dihukum dengan hukuman penjara setinggi-tingginya dua tahun.
+
+### Pasal 16
+
+Barang siapa terhadap bendera kebangsaan Indonesia dengan sengaja menjalankan suatu perbuatan yang dapat menimbulkan perasaan penghinaan kebangsaan, dihukum dengan hukuman penjara setinggi-tingginya satu tahun enam bulan.
+
+### Pasal 17
+Undang-undang ini mulai berlaku buat pulau Jawa dan Madura pada hari diumumkannya dan buat daerah lain pada hari yang akan ditetapkan oleh Presiden.
+
+Agar Undang-undang ini diketahui oleh umum, maka diperintahkan supaya diumumkan sebagai biasa.
+
+</br>
+
+Ditetapkan di Yogyakarta </br>
+pada tanggal 26 Februari 1946.
+
+Presiden Republik Indonesia, </br>
+ttd </br>
+Soekarno
+
+Menteri Kehakiman </br>
+ttd </br>
+Soewandi
+
+Diumumkan pada tanggal 26 Februari 1946
+
+Sekretaris Negara </br>
+ttd </br>
+A.G. Pringgodigdo
+
+---
+
+# Penjelasan Undang-Undang Nomor 1 tentang Peraturan Hukum Pidana
+
+## Penjelasan Umum
+
+### I. 
+
+Berdasarkan pasal II Aturan Peralihan Undang-Undang Dasar berhubung dengan Peraturan Presiden Republik Indonesia tertanggal 10 Oktober 1945 No. 2, maka sekarang berlaku semua peraturan hukum pidana, yang ada pada tanggal 17 Agustus 1945, baik yang asalnya dari pemerintah Hindia-Belanda, maupun yang ditetapkan oleh Pemerintah bala tentara Jepang.
+
+Hal ini sekarang ternyata menimbulkan kesukaran yang dengan singkat akan diuraikan di bawah ini:
+
+Peraturan-peraturan yang dikeluarkan oleh Pemerintah Hindia-Belanda pada umumnya berlaku buat seluruh Indonesia, sedangkan Peraturan-peraturan yang ditetapkan oleh Pemerintah bala tentara Jepang hanya berlaku buat sebagian dari Indonesia saja, oleh karena Indonesia pada jaman Jepang dibagi menjadi beberapa daerah (Jawa, Sumatera, Borneo dll), yang masing-masing mempunyai Pemerintah dan Peraturan-peraturan sendiri. Dari sebab itu maka mungkin suatu Peraturan Hindia Belanda, yang dulu berlaku buat seluruh Indonesia, oleh Pemerintah Jepang di Jawa dan Madura diganti seluruhnya dengan peraturan baru, di Sumatera hanya sebagian diganti, dan di Borneo sama sekali tidak diganti.
+
+Mungkin pula buat tiap-tiap daerah tentang suatu hal oleh Pemerintah daerah Jepang diadakan suatu peraturan baru yang satu sama lain tidak sama isinya. Selain dari pada itu peraturan hukum-pidana Hindia Belanda dan Jepang tidak sama sisteem-nya. Sedangkan peraturan hukum pidana Hindia-Belanda berdasarkan azas: "*Nullum delictum, nullapuna sine praevia lege punali.*" ("Tidak ada pelanggaran dan tidak ada hukuman jikalau tidak lebih dulu ada suatu aturan hukum pidana.") (Lihatlah pasal 1 *Wetboek van Strafrecht voor Nederlandsch-Indie*), maka peraturan hukum pidana Jepang berazas luas (lihatlah misalnya pasal 14 dan pasal 35 No. 8 *Gunsei Keizirei*).
+
+Di sini tidak akan dirundingkan sisteem manakah sebagai sisteem terlebih baik, akan tetapi sudah barang tentu, bahwa tidak baik menggunakan dua sisteem itu dalam peraturan-peraturan hukum pidana, yang bersama-sama berlaku dalam sesuatu daerah.
 
 
 ---
 
----
 Sumber:
 * [Tautan 1](https://peraturan.go.id/peraturan/view.html?id=11e44c4e2acd8a5093cd313231323133)
 * [Tautan 2](https://peraturan.go.id/common/dokumen/ln/1946/uu1-1946.pdf)
