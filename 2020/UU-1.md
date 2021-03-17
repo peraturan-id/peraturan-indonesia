@@ -91,7 +91,7 @@ Persetujuan *Indonesia–Australia Comprehensive Economic Partnership Agreement*
 
 Perundingan pertama dan kedua dilakukan pada September 2012 dan Juli 2013, tetapi terhenti selama 3 (tiga) tahun. Pada Maret 2016, Indonesia dan Australia sepakat melanjutkan kembali perundingan dan setelah melalui 12 (dua belas) putaran perundingan dan 5 (lima) pertemuan tingkat Ketua Perunding, kedua negara berhasil menyelesaikan perundingan secara substansial. Pada tanggal 31 Agustus 2018 kedua belah pihak mengeluarkan pernyataan bersama yang menandakan selesainya secara substansial proses perundingan dan pada tanggal 4 Maret 2019 Persetujuan *Indonesia–Australia Comprehensive Economic Partnership Agreement* ditandatangani oleh Menteri Perdagangan Republik Indonesia dan Menteri Perdagangan, Pariwisata dan Penanaman Modal Australia di Jakarta, Indonesia.
 
-Persetujuan *Indonesia–Australia Comprehensive Economic Partnership Agreement* terdiri atas pembukaan, 21 (dua puluh satu) bab (termasuk 15 (lima belas) lampiran, dan 2 (dua) apendiks), 2 (dua) Memorandum Saling Pengertian, dan 5 (lima) *Side Letter*. Ruang lingkup *Persetujuan Indonesia–Australia Comprehensive Economic Partnership Agreement* antara lain perdagangan barang, perdagangan jasa, penanaman modal, dan kerja sama ekonomi.
+Persetujuan *Indonesia–Australia Comprehensive Economic Partnership Agreement* terdiri atas pembukaan, 21 (dua puluh satu) bab (termasuk 15 (lima belas) lampiran, dan 2 (dua) apendiks), 2 (dua) Memorandum Saling Pengertian, dan 5 (lima) *Side Letter*. Ruang lingkup Persetujuan *Indonesia–Australia Comprehensive Economic Partnership Agreement* antara lain perdagangan barang, perdagangan jasa, penanaman modal, dan kerja sama ekonomi.
 
 ## II. Pasal demi Pasal
 
