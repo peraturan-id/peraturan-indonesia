@@ -82,5 +82,5 @@ Sumber:
 * <https://peraturan.go.id/peraturan/view.html?id=d5c4f46e66061fc164704059a9270a06>
 * [LN 134](https://peraturan.go.id/common/dokumen/ln/2020/uu2-2020bt.pdf)
 * [TLN 6516](https://peraturan.go.id/common/dokumen/ln/2020/uu2-2020pjl.pdf)
-* [1]: https://peraturan.go.id/peraturan/view.html?id=cf9555962b6adc89efe3c659b92f0ceb
+* [1]: /PERPPU-1.md
 
