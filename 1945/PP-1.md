@@ -33,4 +33,5 @@ Soekarno
 
 ---
 
-Tautan asal: <https://peraturan.go.id/common/dokumen/ln/1945/pp1-1945.pdf>
+Sumber:
+* [Tautan 1](https://peraturan.go.id/common/dokumen/ln/1945/pp1-1945.pdf)
