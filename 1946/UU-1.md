@@ -124,8 +124,8 @@ Kitab Undang-Undang Hukum Pidana dirobah sebagai berikut:
 61. Dalam pasal 500 bagian kalimat "*het hoofd plaatselijk bestuur (de resident)*", diganti dengan "het hoofd van de politie".
 62. Dalam pasal 501 ayat (1) no. 2 bagian kalimat: "*het hoofd van plaatselijk bestuur (de assistent-resident)*" diganti dengan "*het hoofd van de politie*".
 63. Pasal 507 dirobah sebagai berikut:
-    * a. bagian "*le*" dibaca demikian: 
-        "*hij, die zonder daartoe gerechtigd te zijn, een Indonesischen adelijken titel voert, of een Indonesischen ordeteeken draagt*".
+    * a. bagian "*le*" dibaca demikian: </br>
+        "*hij, die zonder daartoe gerechtigd te zijn, een Indonesischen adelijken titel voert, of een Indonesischen orderteken draagt*".
     * b. perkataan-perkataan "*s'Konings verlof*" harus dibaca "*verlof van den President*".
 64. Dalam pasal 508 bis bagian kalimat : "*van een zelfstandige gemeenschap als bedoeld in artikel 121 eerste lid of artikel 123 tweede lid der Indische Staatsregeling dan wel van een waterschap*" harus dibaca "*van een bij de wet ingestelde of eerkende zelfstandige gemeenschap*".
 65. Dalam pasal 510 bagian kalimat: "*het hoofd van plaatselijk bestuur (den resident)*" harus dibaca "*het hoofd van de politie*".
@@ -143,7 +143,7 @@ Barang siapa dengan sengaja menjalankan sebagai alat pembayaran yang sah mata ua
 
 ### Pasal 11
 
-Barang siapa dengan sengaja menjalankan sebagai alat pembayaran yang sah mata uang atau uang kertas yang dari pihak Pemerintah tidak diakui sebagai alat pembayaran yang sah, dalam hal di luar keadaan sebagai yang tersebut dalam pasal yang baru lalu, dihukum dengan hukuman penjara setinggitingginya lima belas tahun.
+Barang siapa dengan sengaja menjalankan sebagai alat pembayaran yang sah mata uang atau uang kertas yang dari pihak Pemerintah tidak diakui sebagai alat pembayaran yang sah, dalam hal di luar keadaan sebagai yang tersebut dalam pasal yang baru lalu, dihukum dengan hukuman penjara setinggi-tingginya lima belas tahun.
 
 
 
