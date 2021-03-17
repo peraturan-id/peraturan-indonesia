@@ -17,6 +17,8 @@ Segala Badan-Badan Negara dan Peraturan-Peraturan yang ada sampai berdirinya Neg
 
 Peraturan ini mulai belaku pada tanggal 17 Agustus 1945.
 
+</br>
+
 Jakarta, tanggal 10 Oktober 1945,
 
 Presiden Republik Indonesia, </br>
