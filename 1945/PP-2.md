@@ -5,7 +5,7 @@ Hal masih tetap berlakunya segala Badan-Badan Negara dan Peraturan-Peraturan yan
 
 Kami, Presiden Republik Indonesia,
 
-UNtuk ketertiban masyarakat, bersandar atas Aturan Perlaihan Undang-Undang Dasar Negara Republik Indonesia Pasal 11, berhubung dengan Pasal IV, menetapkan Peraturan sebagai berikut:
+Untuk ketertiban masyarakat, bersandar atas Aturan Perlaihan Undang-Undang Dasar Negara Republik Indonesia Pasal 11, berhubung dengan Pasal IV, menetapkan Peraturan sebagai berikut:
 
 ## Pasal 1
 
