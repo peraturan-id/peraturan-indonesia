@@ -4,7 +4,7 @@ Nomor 67, 2020
 
 Pengesahan. </br>
 Persetujuan Kemitraan Ekonomi Komprehensif Indonesia-Ausralia. </br>
-(Penjelasan dalam Tambahan Lembaran Negara Republik Indonesia Nomor 6476)
+(Penjelasan dalam Tambahan Lembaran Negara Republik Indonesia Nomor 6476).
 
 # Undang-Undang Republik Indonesia Nomor 1 Tahun 2020 tentang Pengesahan Persetujuan Kemitraan Ekonomi Komprehensif Indonesia-Australia (*Indonesia-Australia Comprehensive Economic Partnership Agreement*)
 
@@ -69,7 +69,36 @@ Yasonna H. Laoly
 
 ---
 
+Tambahan Lembaran Negara Republik Indonesia
 
+Nomor 6476
+
+Pengesahan. </br>
+Persetujuan Kemitraan Ekonomi Komprehensif Indonesia-Australia. </br>
+(Penjelasan atas Lembaran Negara Republik Indonesia Tahun 2020 Nomor 67).
+
+# Penjelasan atas Undang-Undang Republik Indonesia Nomor 1 Tahun 2020 tentang Pengesahan Persetujuan Kemitraan Ekonomi Komprehensif Indonesia–Australia (*Indonesia–Australia Comprehensive Economic   Partnership Agreement*)
+
+## I. Umum
+
+Kegiatan perdagangan adalah salah satu sektor penggerak perekonomian nasional dan pendukung pembangunan ekonomi nasional dalam rangka memajukan kesejahteraan umum sebagaimana tercantum dalam Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+
+Dalam rangka mendukung pembangunan ekonomi nasional, Indonesia perlu membentuk Persetujuan Perdagangan Internasional dengan negara mitra guna mendapatkan manfaat berupa akses pasar barang, jasa dan modal, promosi dan pelindungan penanaman modal, pengembangan sumber daya manusia, dan program kerja sama ekonomi. Persetujuan Perdagangan Internasional tersebut merupakan konsekuensi globalisasi yang kegiatan perdagangannya, baik barang, jasa maupun penanaman modal melewati batas negara.
+
+Salah satu negara mitra dagang dan penanaman modal terdekat Indonesia yang penting dan saling melengkapi dalam perdagangan dan penanaman modal adalah Australia. Australia memiliki ekonomi berorientasi pasar yang ditandai dengan tingkat perdagangan luar negeri yang tinggi, pasar dengan daya beli tinggi, dan reputasi sebagai mitra perdagangan dan penanaman modal jangka panjang yang tepercaya di kawasan Asia Pasifik. Persetujuan Kemitraan Ekonomi Komprehensif Indonesia–Australia (*Indonesia–Australia Comprehensive Economic Partnership Agreement*) akan memberikan manfaat peningkatan akses pasar barang dan jasa termasuk tenaga kerja, fasilitas arus barang dan kepabeanan, akses promosi dan pelindungan penanaman modal, *economic powerhouse*, pengembangan sumber daya manusia Indonesia dan program-program kerja sama ekonomi bagi Indonesia.
+
+Persetujuan ...
+
+
+## II. Pasal demi Pasal
+
+### Pasal 1
+
+Cukup jelas.
+
+### Pasal 2
+
+Cukup jelas.
 
 ---
 
