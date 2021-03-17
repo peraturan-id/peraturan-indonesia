@@ -49,5 +49,5 @@ A.G. Pringgodigdo
 ---
 
 Sumber:
-[Tautan 1](https://jdihn.go.id/search/all-categories/detail/834007)
-[Tautan 2](https://jdihn.go.id/file/download/MTk0NXBwMDAyLnBkZg==)
+* [Tautan 1](https://jdihn.go.id/search/all-categories/detail/834007)
+* [Tautan 2](https://jdihn.go.id/file/download/MTk0NXBwMDAyLnBkZg==)
