@@ -18,7 +18,14 @@ Djikalau perlu, supaja penduduk selekas mungkin mengetahuinja maka pengumuman it
 
 ## Pasal 4
 
-Undang-undang dan peraturan presiden mulai berlaku pada hari diumumkan,ketjuali djika dalam Undang-Undang atau Peraturan Presiden itu ditetapkan lain.
+Undang-undang dan peraturan presiden mulai berlaku pada hari diumumkan, ketjuali djika dalam Undang-Undang atau Peraturan Presiden itu ditetapkan lain.
+
+</br>
+
+Djakarta, tanggal 10 Oktober 1945, </br>
+Presiden Republik Indonesia </br>
+ttd </br>
+Soekarno
 
 </br>
 
@@ -27,11 +34,6 @@ Pada tanggal 10 Oktober 1945, </br>
 Sekretaris Negara, </br>
 ttd </br>
 A.G. Pringgodigdo,-
-
-Djakarta, tanggal 10 Oktober 1945, </br>
-Presiden Republik Indonesia </br>
-ttd </br>
-Soekarno
 
 ---
 
