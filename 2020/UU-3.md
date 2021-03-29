@@ -158,10 +158,61 @@ dengan ketentuan Undang-Undang ini.
 
 6. Ketentuan Pasal 8 dihapus.
 
-8. Di antara Bab IV dan Bab V disisipkan 1 (satu) bab, yakni Bab IV A sehingga berbunyi sebagai berikut: </br>
-Bab IV A Rencana Pengelolaan Mineral dan Batubara
+7. Di antara Bab IV dan Bab V disisipkan 1 (satu) bab, yakni Bab IV A sehingga berbunyi sebagai berikut: </br>
 
-10. Di antara 
+## Bab IV A Rencana Pengelolaan Mineral dan Batubara
+
+</br>
+
+8. Di antara Pasal 8 dan Pasal 9 disisipkan 2 (dua) pasal, yakni Pasal 8A dan Pasal 8B sehingga berbunyi sebagai berikut:
+
+### Pasal 8A
+
+1. Menteri menetapkan rencana pengelolaan Mineral dan Batubara nasional secara sistematis, terpadu, terarah, menyeluruh, transparan, dan akuntabel.
+2. Rencana pengelolaan Mineral dan Batubara nasional sebagaimana dimaksud pada ayat (1) disusun dengan mempertimbangkan:
+    * a. daya dukung sumber daya alam dan lingkungan menurut data dan informasi geospasial dasar dan tematik;
+    * b. pelestarian lingkungan hidup;
+    * c. rencana tata ruang wilayah dan/atau rencana zonasi;
+    * d. perkembangan ilmu pengetahuan dan teknologi;
+    * e. tingkat pertumbuhan ekonomi;
+    * f. prioritas pemberian komoditas tambang;
+    * g. jumlah dan luas WP;
+    * h. ketersediaan lahan Pertambangan; i. jumlah sumber daya dan/atau cadangan Mineral atau Batubara; dan
+    * j. ketersediaan sarana dan prasarana.
+3. Rencana pengelolaan Mineral dan Batubara nasional sebagaimana dimaksud pada ayat (1) harus disesuaikan dengan:
+    * a. rencana pembangunan nasional; dan
+    * b. rencana pembangunan daerah.
+4. Rencana pengelolaan Mineral dan Batubara nasional sebagaimana dimaksud pada ayat (1) digunakan sebagai pedoman dalam penyelenggaraan pengelolaan Mineral dan Batubara.
+
+### Pasal 8B
+
+1. Rencana pengelolaan Mineral dan Batubara nasional sebagaimana dimaksud dalam Pasal 8A paling sedikit memuat strategi dan kebijakan di bidang Pertambangan Mineral dan Batubara.
+2. Rencana pengelolaan Mineral dan Batubara nasional sebagaimana dimaksud dalam Pasal 8A wajib diintegrasikan dengan rencana pembangunan jangka panjang dan rencana pembangunan jangka menengah nasional.
+3. Rencana pengelolaan Mineral dan Batubara nasional sebagaimana dimaksud dalam Pasal 8A ditetapkan untuk jangka waktu 5 (lima) tahun dan dapat ditinjau kembali 1 (satu) kali dalam 5 (lima) tahun.
+
+</br>
+
+9. Ketentuan Pasal 9 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 9
+
+1. WP sebagai bagian dari Wilayah Hukum Pertambangan merupakan landasan bagi penetapan kegiatan Usaha Pertambangan.
+2. WP sebagaimana dimaksud pada ayat (1) ditetapkan oleh Pemerintah Pusat setelah ditentukan oleh Pemerintah Daerah provinsi sesuai dengan kewenangannya dan berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia.
+
+</br>
+
+10. Ketentuan Pasal 10 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 10
+
+1. Penetapan WP sebagaimana dimaksud dalam Pasal 9 ayat (2) terdiri atas:
+    * a. WUP;
+    * b. WPR;
+    * c. WPN; dan
+    * d. WUPK.
+2. Penetapan WP sebagaimana dimaksud dalam Pasal 9 ayat (2) dilaksanakan:
+    * a. secara transparan, partisipatif, dan bertanggung jawab;
+    * b. 
 
 ---
 
