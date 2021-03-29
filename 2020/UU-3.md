@@ -114,7 +114,54 @@ dengan ketentuan Undang-Undang ini.
 
 ### Pasal 5
 
-1. Untuk kepentingan
+1. Untuk kepentingan nasional, Pemerintah Pusat setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia menetapkan kebijakan nasional pengutamaan Mineral dan/atau Batubara untuk kepentingan dalam negeri.
+2. Untuk melaksanakan kepentingan nasional sebagaimana dimaksud pada ayat (1), Pemerintah Pusat mempunyai kewenangan untuk menetapkan jumlah produksi, Penjualan, dan harga Mineral logam, Mineral bukan logam jenis tertentu, atau Batubara.
+3. Ketentuan lebih lanjut mengenai pengutamaan Mineral dan/atau Batubara untuk kepentingan nasional sebagaimana dimaksud pada ayat (1) dan penetapan jumlah produksi, Penjualan, serta harga Mineral logam, Mineral bukan logam jenis tertentu, atau Batubara sebagaimana dimaksud pada ayat (2) diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+4. Ketentuan ayat (1) Pasal 6 diubah sehingga Pasal 6 berbunyi sebagai berikut:
+
+### Pasal 6
+
+1. Pemerintah Pusat Pemerintah Pusat dalam pengelolaan Pertambangan Mineral dan Batubara, berwenang:
+    * a. menetapkan rencana pengelolaan Mineral dan Batubara nasional;
+    * b. menetapkan kebijakan Mineral dan Batubara nasional;
+    * c. menetapkan peraturan perundang-undangan;
+    * d. menetapkan standar nasional, pedoman, dan kriteria;
+    * e. melakukan Penyelidikan dan Penelitian Pertambangan pada seluruh Wilayah Hukum Pertambangan; 
+    * f. menetapkan WP setelah ditentukan oleh Pemerintah Daerah provinsi sesuai dengan kewenangannya dan berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia;
+    * g. menetapkan WIUP Mineral logam dan WIUP Batubara;
+    * h. menetapkan WIUP Mineral bukan logam dan WIUP batuan;
+    * i. menetapkan WIUPK;
+    * j. melaksanakan penawaran WIUPK secara prioritas;
+    * k. menerbitkan Perizinan Berusaha;
+    * l. melakukan pembinaan dan pengawasan terhadap pelaksanaan kegiatan Usaha Pertambangan Mineral dan Batubara yang dilakukan oleh pemegang Perizinan Berusaha;
+    * m. menetapkan kebijakan produksi, pemasaran, pemanfaatan, dan konservasi;
+    * n. menetapkan kebijakan kerja sama, kemitraan, dan Pemberdayaan Masyarakat;
+    * o. melakukan pengelolaan dan penetapan penerimaan negara bukan pajak dari hasil Usaha Pertambangan Mineral dan Batubara;
+    * p. melakukan pengelolaan informasi geologi, informasi potensi sumber daya Mineral dan Batubara, serta informasi Pertambangan;
+    * q. melakukan pembinaan dan pengawasan terhadap Reklamasi dan Pascatambang;
+    * r. melakukan penyusunan neraca sumber daya Mineral dan Batubara tingkat nasional;
+    * s. melakukan pengembangan dan peningkatan nilai tambah kegiatan Usaha Pertambangan;
+    * t. melakukan peningkatan kemampuan aparatur Pemerintah Pusat dan Pemerintah Daerah provinsi dalam penyelenggaraan pengelolaan Usaha Pertambangan.
+    * u. menetapkan harga patokan Mineral logam, Mineral bukan logam jenis tertentu, Mineral radioaktif, dan Batubara;
+    * v. melakukan pengelolaan inspektur tambang; dan
+    * w. melakukan pengelolaan pejabat pengawas Pertambangan;
+
+2. Kewenangan Pemerintah Pusat sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundangundangan.
+3. Pemerintah Pusat menetapkan batasan nilai investasi atau jumlah persentase kepemilikan saham badan usaha penanaman modal asing yang bergerak di bidang Pertambangan.
+
+</br>
+
+5. Ketentuan Pasal 7 dihapus.
+
+6. Ketentuan Pasal 8 dihapus.
+
+8. Di antara Bab IV dan Bab V disisipkan 1 (satu) bab, yakni Bab IV A sehingga berbunyi sebagai berikut: </br>
+Bab IV A Rencana Pengelolaan Mineral dan Batubara
+
+10. Di antara 
 
 ---
 
