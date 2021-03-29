@@ -72,9 +72,48 @@ Yasonna H. Laoly
 ---
 
 # Lampiran: [Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020][1]
+
 ---
 
-# Penjelasan Undang-Undang
+Tambahan Lembaran Negara Republik Indonesia
+
+Nomor 6516
+
+Keuangan. </br>
+Penetapan Perpu.
+Stabilitas Sistem Keuangan untuk Penanganan Pandemi *Corona Virus Disease 2019*. </br>
+(Penjelasan atas Lembaran Negara Republik Indonesia Tahun 2020 Nomor 134).
+
+# Penjelasan atas Undang-Undang Republik Indonesia Nomor 2 Tahun 2020 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi *Corona Virus Disease 2019* (COVID-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan menjadi Undang-Undang
+
+
+## I. Umum
+
+Pada tahun 2020 ini, dunia mengalami bencana pandemi *Corona Virus Disease 2019* (COVID-19). Penyebaran *Corona Virus Disease 2019* (COVID-19) membawa risiko bagi kesehatan masyarakat dan bahkan telah merenggut korban jiwa bagi yang terinfeksi di berbagai belahan penjuru dunia, termasuk Indonesia.
+
+Pandemi *Corona Virus Disease 2019* (COVID-19) juga secara nyata telah mengganggu aktivitas ekonomi dan membawa implikasi besar bagi perekonomian sebagian besar negara-negara di seluruh dunia, termasuk Indonesia. Pertumbuhan ekonomi global diperkirakan akan menurun dari 3% (tiga persen) menjadi hanya 1,5% (satu koma lima persen) atau bahkan lebih rendah dari itu.
+
+Perkembangan pandemi *Corona Virus Disease 2019* (COVID-19) juga berpotensi mengganggu aktivitas perekonomian di Indonesia. Salah satu implikasinya berupa penurunan pertumbuhan ekonomi Indonesia yang diperkirakan dapat mencapai 4% (empat persen) atau lebih rendah, tergantung kepada seberapa lama dan seberapa parah penyebaran pandemi *Corona Virus Disease 2019* (COVID-19) mempengaruhi atau bahkan melumpuhkan kegiatan masyarakat dan aktivitas ekonomi.
+
+Terganggunya aktivitas ekonomi akan berimplikasi kepada perubahan dalam postur Anggaran Pendapatan dan Belanja Negara (APBN) Tahun Anggaran 2020, baik sisi Pendapatan Negara, sisi Belanja Negara, maupun sisi Pembiayaan. Potensi perubahan APBN Tahun Anggaran 2020 berasal dari terganggunya aktivitas ekonomi ataupun sebaliknya. Gangguan aktivitas ekonomi akan banyak berpotensi mengganggu APBN Tahun Anggaran 2020 dari sisi Pendapatan Negara.
+
+Respon kebijakan keuangan negara dan fiskal dibutuhkan untuk menghadapi risiko pandemi *Corona Virus Disease 2019* (COVID-19), antara lain berupa peningkatan belanja untuk mitigasi risiko kesehatan, melindungi masyarakat, dan menjaga aktivitas usaha. Tekanan pada sektor keuangan akan mempengaruhi APBN Tahun Anggaran 2020, terutama sisi Pembiayaan.
+
+Implikasi pandemi *Corona Virus Disease 2019* (COVID-19) telah berdampak pula terhadap ancaman semakin memburuknya sistem keuangan yang ditunjukkan dengan penurunan berbagai aktivitas ekonomi domestik karena langkah-langkah penanganan pandemi *Corona Virus Disease 2019* (COVID-19) yang berisiko pada ketidakstabilan makroekonomi dan sistem keuangan yang perlu dimitigasi bersama oleh Pemerintah maupun koordinasi kebijakan dalam Komite Stabilitas Sistem Keuangan (KSSK), sehingga diperlukan berbagai upaya Pemerintah dan lembaga terkait untuk melakukan tindakan antisipasi (*forward looking*) untuk menjaga stabilitas sektor keuangan.
+
+Penyebaran pandemi *Corona Virus Disease 2019* (COVID-19) yang memberikan dampak dan mengancam pertumbuhan ekonomi Indonesia antara lain karena menurunnya penerimaan negara serta ketidakpastian ekonomi global, memerlukan kebijakan dan langkah-langkah luar biasa (*extraordinary*) di bidang keuangan negara, termasuk di bidang perpajakan dan keuangan daerah, dan sektor keuangan, yang harus segera diambil Pemerintah dan lembaga-lembaga terkait guna mengatasi kondisi mendesak tersebut dalam rangka penyelamatan kesehatan dan perekonomian nasional, dengan fokus pada belanja kesehatan, jaring pengaman sosial (*social safety net*), serta pemulihan dunia usaha yang terdampak. Oleh karena itu, diperlukan perangkat hukum yang memadai untuk memberikan landasan yang kuat bagi Pemerintah dan lembagalembaga terkait untuk pengambilan kebijakan dan langkah-langkah dimaksud.
+
+Untuk mengatasi kegentingan yang memaksa tersebut, Presiden sesuai kewenangannya berdasarkan ketentuan Pasal 22 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, pada tanggal 31 Maret 2020 telah menetapkan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi *Corona Virus Disease* 2019 (COVID-19) dan/atau dalam rangka menghadapi Ancaman yang membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan.
+
+Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi *Corona Virus Disease* 2019 (COVID-19) dan/atau dalam rangka menghadapi Ancaman yang membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan telah mendapat persetujuan Dewan Perwakilan Rakyat untuk kemudian disahkan menjadi Undang-Undang tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi *Corona Virus Disease* 2019 (COVID-19) dan/atau dalam rangka menghadapi Ancaman yang membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan menjadi Undang-Undang, berdasarkan ketentuan Pasal 22 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+
+## II. Pasal demi Pasal
+
+Pasal 1 </br>
+Cukup jelas.
+
+Pasal 2 </br>
+Cukup jelas.
 
 ---
 
