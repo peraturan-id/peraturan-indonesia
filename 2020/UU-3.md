@@ -38,9 +38,9 @@ Undang-Undang tentang Perubahan atas Undang-Undang Nomor 4 Tahun 2009 tentang Pe
 
 Beberapa ketentuan dalam Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 4959) diubah sebagai berikut:
 
-1. Ketentuan Pasal 1 angka 1, angka 6, angka 17, angka 19, angka 20, angka 21, angka 31, angka 34, angka 36, dan angka 37 diubah, angka 8, angka 9, angka 12, dan angka 13 dihapus, di antara angka 6 dan angka 7 disisipkan 3 (tiga) angka, yakni angka 6a, angka 6b, dan angka 6c, di antara angka 13 dan angka 14 disisipkan 4 (empat) angka, yakni angka 13a, angka 13b, angka 13c, dan angka 13d, di antara angka 14 dan angka 15, disisipkan 1 (satu) angka, yakni angka 14a, di antara angka 20 dan angka 21 disisipkan 2 (dua) angka, yakni angka 20a dan angka 20b, di antara angka 23 dan angka 24, disisipkan 1 (satu) angka, yakni angka 23a, di antara angka 28 dan angka 29, disisipkan 1 (satu) angka, yakni angka 28a, dan diantara angka 35 dan angka 36 disisipkan 1 (satu) angka, yakni angka 35a, sehingga berbunyi sebagai berikut:
+1. Ketentuan Pasal 1 angka 1, angka 6, angka 17, angka 19, angka 20, angka 21, angka 31, angka 34, angka 36, dan angka 37 diubah, angka 8, angka 9, angka 12, dan angka 13 dihapus, di antara angka 6 dan angka 7 disisipkan 3 (tiga) angka, yakni angka 6a, angka 6b, dan angka 6c, di antara angka 13 dan angka 14 disisipkan 4 (empat) angka, yakni angka 13a, angka 13b, angka 13c, dan angka 13d, di antara angka 14 dan angka 15, disisipkan 1 (satu) angka, yakni angka 14a, di antara angka 20 dan angka 21 disisipkan 2 (dua) angka, yakni angka 20a dan angka 20b, di antara angka 23 dan angka 24, disisipkan 1 (satu) angka, yakni angka 23a, di antara angka 28 dan angka 29, disisipkan 1 (satu) angka, yakni angka 28a, dan di antara angka 35 dan angka 36 disisipkan 1 (satu) angka, yakni angka 35a, sehingga berbunyi sebagai berikut:
 
-Pasal 1
+### Pasal 1
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -99,7 +99,7 @@ tempat Pengolahan dan/atau Pemurnian sampai tempat penyerahan.
 
 2. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 4
+### Pasal 4
 
 1. Mineral dan Batubara sebagai sumber daya alam yang tak terbarukan merupakan kekayaan nasional dikuasai oleh negara untuk sebesar-besar kesejahteraan rakyat.
 2. Penguasaan Mineral dan Batubara oleh negara sebagaimana dimaksud pada ayat (1) diselenggarakan oleh Pemerintah Pusat sesuai
@@ -108,7 +108,7 @@ dengan ketentuan Undang-Undang ini.
 
 3. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
 
-Pasal 5
+### Pasal 5
 
 1. Untuk kepentingan
 
