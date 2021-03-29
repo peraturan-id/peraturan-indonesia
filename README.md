@@ -23,7 +23,7 @@ Tata cara penyalinan berkas peraturan dan perundangan mengikuti [kaidah penulisa
 3. Judul pertama dari isi peraturan dituliskan menggunakan 2 tanda pagar "##" (contoh: `"## Bab 1 Ketentuan Umum"`);
 4. Judul peraturan di bawah dari judul pertama dituliskan menggunakan 3 tanda pagar "###" (contoh: `"### Paragraf 1"`, `"### Pasal 1"`) dan judul-judul peraturan di bawahnya ditambahkan menjadi 4, 5, 6 tanda pagar, dan seterusnya sesuai dengan urutan yang ada;
 5. Ayat dari setiap pasal dituliskan menggunakan daftar nomor atau huruf (*list* dalam kaidah penulisan Markdown) sesuai dengan berkas asli;
-6. Kata atau kalimat yang berkaitan dengan peraturan lainnya ditambahkan tautan dan diberi nomor (contoh: `[1]`) di mana setiap rujukan bernomor tersebut dihubungkan ke berkas peraturan terkait.
+6. Peraturan yang memiliki lampiran peraturan lain ditambahkan tautan dengan cara diberi nomor (contoh: `[1]`) dan  dihubungkan ke berkas peraturan terkait di dalam repositori ini.
 
 ## Sanggahan (*disclaimer*)
 
