@@ -37,9 +37,10 @@ Undang-Undang tentang Perubahan atas Undang-Undang Nomor 4 Tahun 2009 tentang Pe
 ## Pasal I
 
 Beberapa ketentuan dalam Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 4959) diubah sebagai berikut:
+
 1. Ketentuan Pasal 1 angka 1, angka 6, angka 17, angka 19, angka 20, angka 21, angka 31, angka 34, angka 36, dan angka 37 diubah, angka 8, angka 9, angka 12, dan angka 13 dihapus, di antara angka 6 dan angka 7 disisipkan 3 (tiga) angka, yakni angka 6a, angka 6b, dan angka 6c, di antara angka 13 dan angka 14 disisipkan 4 (empat) angka, yakni angka 13a, angka 13b, angka 13c, dan angka 13d, di antara angka 14 dan angka 15, disisipkan 1 (satu) angka, yakni angka 14a, di antara angka 20 dan angka 21 disisipkan 2 (dua) angka, yakni angka 20a dan angka 20b, di antara angka 23 dan angka 24, disisipkan 1 (satu) angka, yakni angka 23a, di antara angka 28 dan angka 29, disisipkan 1 (satu) angka, yakni angka 28a, dan diantara angka 35 dan angka 36 disisipkan 1 (satu) angka, yakni angka 35a, sehingga berbunyi sebagai berikut:
 
-### Pasal 1
+Pasal 1
 
 Dalam Undang-Undang ini yang dimaksud dengan:
 
@@ -75,7 +76,41 @@ Dalam Undang-Undang ini yang dimaksud dengan:
     * 20b. Pengembangan dan/atau Pemanfaatan adalah upaya untuk meningkatkan mutu Batubara dengan atau tanpa mengubah sifat fisik atau kimia Batubara asal.
 21. Pengangkutan adalah kegiatan Usaha Pertambangan untuk memindahkan Mineral dan/atau Batubara dari daerah tambang dan/atau
 tempat Pengolahan dan/atau Pemurnian sampai tempat penyerahan.
-22. 
+22. Penjualan adalah kegiatan Usaha Pertambangan untuk menjual hasil Pertambangan Mineral atau Batubara.
+23. Badan Usaha adalah setiap badan hukum yang bergerak di bidang Pertambangan yang didirikan berdasarkan hukum Indonesia dan berkedudukan dalam wilayah Negara Kesatuan Republik Indonesia.
+    * 23a. Badan Usaha Milik Negara, yang selanjutnya disebut BUMN, adalah BUMN yang bergerak di bidang Pertambangan sesuai dengan ketentuan peraturan perundang-undangan.
+24. Jasa Pertambangan adalah jasa penunjang yang berkaitan dengan kegiatan Usaha Pertambangan.
+25. Analisis Mengenai Dampak Lingkungan, yang selanjutnya disebut amdal, adalah kajian mengenai dampak besar dan penting suatu usaha dan/atau kegiatan yang direncanakan pada lingkungan hidup yang diperlukan bagi proses pengambilan keputusan tentang penyelenggaraan usaha dan/atau kegiatan.
+26. Reklamasi adalah kegiatan yang dilakukan sepanjang tahapan Usaha Pertambangan untuk menata, memulihkan, dan memperbaiki kualitas lingkungan dan ekosistem agar dapat berfungsi kembali sesuai peruntukannya.
+27. Kegiatan Pascatambang, yang selanjutnya disebut Pascatambang, adalah kegiatan terencana, sistematis, dan berlanjut setelah sebagian atau seluruh kegiatan Usaha Pertambangan untuk memulihkan fungsi lingkungan alam dan fungsi sosial menurut kondisi lokal di seluruh wilayah Penambangan.
+28. Pemberdayaan Masyarakat adalah usaha untuk meningkatkan kemampuan masyarakat, baik secara individual maupun kolektif, agar menjadi lebih baik tingkat kehidupannya.
+    * 28a. Wilayah Hukum Pertambangan adalah seluruh ruang darat, ruang laut, termasuk ruang dalam bumi sebagai satu kesatuan wilayah yakni kepulauan Indonesia, tanah di bawah perairan, dan landas kontinen.
+29. Wilayah Pertambangan, yang selanjutnya disebut WP, adalah wilayah yang memiliki potensi Mineral dan/atau Batubara dan tidak terikat dengan batasan administrasi pemerintahan yang merupakan bagian dari tata ruang nasional.
+30. Wilayah Usaha Pertambangan, yang selanjutnya disebut WUP, adalah bagian dari WP yang telah memiliki ketersediaan data, potensi, dan/atau informasi geologi.
+31. Wilayah Izin Usaha Pertambangan, yang selanjutnya disebut WIUP, adalah wilayah yang diberikan kepada pemegang IUP atau pemegang SIPB.
+32. Wilayah Pertambangan Rakyat, yang selanjutnya disebut WPR, adalah bagian dari WP tempat dilakukan kegiatan Usaha Pertambangan rakyat.
+33. Wilayah Pencadangan Negara, yang selanjutnya disebut WPN, adalah bagian dari WP yang dicadangkan untuk kepentingan strategis nasional.
+34. Wilayah Usaha Pertambangan Khusus, yang selanjutnya disebut WUPK, adalah wilayah yang telah memiliki ketersediaan data, potensi, dan/atau informasi geologi yang dapat diusahakan untuk kepentingan strategis nasional.
+35. Wilayah Izin Usaha Pertambangan Khusus dalam WUPK, yang selanjutnya disebut WIUPK, adalah wilayah yang diberikan kepada pemegang IUPK.
+    * 35a.  Setiap Orang adalah orang perseorangan atau korporasi, baik yang berbadan hukum maupun yang tidak berbadan hukum.
+36. Pemerintah Pusat adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia yang dibantu oleh Wakil Presiden dan Menteri sebagaimana dimaksud dalam Undang- Undang Dasar Negara Republik Indonesia Tahun 1945.
+37. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
+38. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Pertambangan Mineral dan Batubara.
+
+2. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut:
+
+Pasal 4
+
+1. Mineral dan Batubara sebagai sumber daya alam yang tak terbarukan merupakan kekayaan nasional dikuasai oleh negara untuk sebesar-besar kesejahteraan rakyat.
+2. Penguasaan Mineral dan Batubara oleh negara sebagaimana dimaksud pada ayat (1) diselenggarakan oleh Pemerintah Pusat sesuai
+dengan ketentuan Undang-Undang ini.
+3. Penguasaan sebagaimana dimaksud pada ayat (2) dilaksanakan melalui fungsi kebijakan, pengaturan, pengurusan, pengelolaan, dan pengawasan.
+
+3. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
+
+Pasal 5
+
+1. Untuk kepentingan
 
 ---
 
