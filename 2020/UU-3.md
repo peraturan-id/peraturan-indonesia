@@ -97,6 +97,8 @@ tempat Pengolahan dan/atau Pemurnian sampai tempat penyerahan.
 37. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
 38. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Pertambangan Mineral dan Batubara.
 
+</br>
+
 2. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut:
 
 ### Pasal 4
@@ -105,6 +107,8 @@ tempat Pengolahan dan/atau Pemurnian sampai tempat penyerahan.
 2. Penguasaan Mineral dan Batubara oleh negara sebagaimana dimaksud pada ayat (1) diselenggarakan oleh Pemerintah Pusat sesuai
 dengan ketentuan Undang-Undang ini.
 3. Penguasaan sebagaimana dimaksud pada ayat (2) dilaksanakan melalui fungsi kebijakan, pengaturan, pengurusan, pengelolaan, dan pengawasan.
+
+</br>
 
 3. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
 
