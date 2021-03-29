@@ -44,58 +44,38 @@ Beberapa ketentuan dalam Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan M
 Dalam Undang-Undang ini yang dimaksud dengan:
 
 1. Pertambangan adalah sebagian atau seluruh tahapan kegiatan dalam rangka, pengelolaan dan pengusahaan mineral atau batubara yang meliputi penyelidikan umum, eksplorasi, studi kelayakan, konstruksi, penambangan, pengolahan dan/atau pemurnian atau pengembangan dan/atau pemanfaatan, pengangkutan dan penjualan, serta kegiatan pascatambang.
-
 2. Mineral adalah senyawa anorganik yang terbentuk di alam, yang memiliki sifat fisik dan kimia tertentu serta susunan kristal teratur atau gabungannya yang membentuk batuan, baik dalam bentuk lepas atau padu.
-
 3. Batubara adalah endapan senyawa organik karbonan yang terbentuk secara alamiah dari sisa tumbuh-tumbuhan.
-
 4. Pertambangan Mineral adalah Pertambangan kumpulan Mineral yang berupa bijih atau batuan, di luar panas bumi, minyak dan gas bumi, serta air tanah.
-
 5. Pertambangan Batubara adalah Pertambangan endapan karbon yang terdapat di dalam bumi, termasuk bitumen padat, gambut, dan batuan aspal.
-
 6. Usaha Pertambangan adalah kegiatan dalam rangka pengusahaan Mineral atau Batubara yang meliputi tahapan kegiatan penyelidikan umum, eksplorasi, studi kelayakan, konstruksi, penambangan, pengolahan dan/atau pemurnian atau pengembangan dan/atau pemanfaatan, pengangkutan dan penjualan, serta pascatambang.
-
-6a. Kontrak Karya yang selanjutnya disebut KK adalah perjanjian antara pemerintah dengan perusahaan berbadan hukum Indonesia untuk melakukan kegiatan Usaha Pertambangan Mineral.
-
-6b. Perjanjian Karya Pengusahaan Pertambangan Batubara yang selanjutnya disebut PKP2B adalah perjanjian antara pemerintah dengan perusahaan berbadan hukum Indonesia untuk melakukan kegiatan Usaha Pertambangan Batubara.
-
-6c. Perizinan Berusaha adalah legalitas yang diberikan kepada pelaku usaha untuk memulai dan menjalankan usaha dan/atau kegiatannya.
-
+    * 6a. Kontrak Karya yang selanjutnya disebut KK adalah perjanjian antara pemerintah dengan perusahaan berbadan hukum Indonesia untuk melakukan kegiatan Usaha Pertambangan Mineral.
+    * 6b. Perjanjian Karya Pengusahaan Pertambangan Batubara yang selanjutnya disebut PKP2B adalah perjanjian antara pemerintah dengan perusahaan berbadan hukum Indonesia untuk melakukan kegiatan Usaha Pertambangan Batubara.
+    * 6c. Perizinan Berusaha adalah legalitas yang diberikan kepada pelaku usaha untuk memulai dan menjalankan usaha dan/atau kegiatannya.
 7. Izin Usaha Pertambangan, yang selanjutnya disebut IUP, adalah izin untuk melaksanakan Usaha Pertambangan.
-
 8. Dihapus.
-
 9. Dihapus.
-
 10. Izin Pertambangan Rakyat, yang selanjutnya disebut IPR, adalah izin untuk melaksanakan Usaha Pertambangan dalam wilayah pertambangan rakyat dengan luas wilayah dan investasi terbatas.
-
 11. Izin Usaha Pertambangan Khusus, yang selanjutnya disebut dengan IUPK, adalah izin untuk melaksanakan Usaha Pertambangan di wilayah izin usaha pertambangan khusus.
-
-* 12. Dihapus.
-
-* 13. Dihapus.
-
-  * 13a. Surat Izin Penambangan Batuan, yang selanjutnya disebut SIPB, adalah izin yang diberikan untuk melaksanakan kegiatan Usaha Pertambangan batuan jenis tertentu atau untuk keperluan tertentu.
-
-  * 13b. IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian adalah izin usaha yang diberikan sebagai perpanjangan setelah selesainya pelaksanaan Kontrak Karya atau Perjanjian Karya Pengusahaan Pertambangan Batubara.
-  * 13c. Izin Pengangkutan dan Penjualan adalah izin usaha yang diberikan kepada perusahaan untuk membeli, mengangkut, dan menjual komoditas tambang Mineral atau Batubara.
-  * 13d. Izin Usaha Jasa Pertambangan, yang selanjutnya disebut IUJP, adalah izin yang diberikan untuk melakukan kegiatan usaha jasa pertambangan inti yang berkaitan dengan tahapan dan/atau bagian kegiatan Usaha Pertambangan.
-
-* 14. Penyelidikan Umum adalah tahapan kegiatan Pertambangan untuk mengetahui kondisi geologi regional dan indikasi adanya mineralisasi.
-  * 14a. Penyelidikan dan Penelitian adalah kegiatan untuk mengetahui kondisi geologi umum, data indikasi, potensi sumber daya dan/atau cadangan Mineral dan/atau Batubara.
-
+12. Dihapus.
+13. Dihapus.
+    * 13a. Surat Izin Penambangan Batuan, yang selanjutnya disebut SIPB, adalah izin yang diberikan untuk melaksanakan kegiatan Usaha Pertambangan batuan jenis tertentu atau untuk keperluan tertentu.
+    * 13b. IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian adalah izin usaha yang diberikan sebagai perpanjangan setelah selesainya pelaksanaan Kontrak Karya atau Perjanjian Karya Pengusahaan Pertambangan Batubara.
+    * 13c. Izin Pengangkutan dan Penjualan adalah izin usaha yang diberikan kepada perusahaan untuk membeli, mengangkut, dan menjual komoditas tambang Mineral atau Batubara.
+    * 13d. Izin Usaha Jasa Pertambangan, yang selanjutnya disebut IUJP, adalah izin yang diberikan untuk melakukan kegiatan usaha jasa pertambangan inti yang berkaitan dengan tahapan dan/atau bagian kegiatan Usaha Pertambangan.
+14. Penyelidikan Umum adalah tahapan kegiatan Pertambangan untuk mengetahui kondisi geologi regional dan indikasi adanya mineralisasi.
+    * 14a. Penyelidikan dan Penelitian adalah kegiatan untuk mengetahui kondisi geologi umum, data indikasi, potensi sumber daya dan/atau cadangan Mineral dan/atau Batubara.
 15. Eksplorasi adalah tahapan kegiatan Usaha Pertambangan untuk memperoleh informasi secara terperinci dan teliti tentang lokasi, bentuk, dimensi, sebaran, kualitas dan sumber daya terukur dari bahan galian, serta informasi mengenai lingkungan sosial dan lingkungan hidup.
-
 16. Studi Kelayakan adalah tahapan kegiatan Usaha Pertambangan untuk memperoleh informasi secara rinci seluruh aspek yang berkaitan untuk menentukan kelayakan ekonomis dan teknis Usaha Pertambangan, termasuk analisis mengenai dampak lingkungan serta perencanaan pascatambang.
 17. Operasi Produksi adalah tahapan kegiatan Usaha Pertambangan yang meliputi konstruksi, penambangan, pengolahan dan/atau pemurnian atau pengembangan dan/atau pemanfaatan, termasuk pengangkutan dan penjualan, serta sarana pengendalian dampak lingkungan sesuai dengan hasil studi kelayakan.
 18. Konstruksi adalah kegiatan Usaha Pertambangan untuk melakukan pembangunan seluruh fasilitas operasi produksi, termasuk pengendalian dampak lingkungan.
 19. Penambangan adalah kegiatan untuk memproduksi Mineral dan/atau Batubara dan Mineral ikutannya.
 20. Pengolahan adalah upaya meningkatkan mutu komoditas tambang Mineral untuk menghasilkan produk dengan sifat fisik dan kimia yang tidak berubah dari sifat komoditas tambang asal untuk dilakukan pemurnian atau menjadi bahan baku industri.
-  * 20a. Pemurnian adalah upaya untuk meningkatkan mutu komoditas tambang Mineral melalui proses fisika maupun kimia serta proses peningkatan kemurnian lebih lanjut untuk menghasilkan produk dengan sifat fisik dan kimia yang berbeda dari komoditas tambang asal sampai dengan produk logam sebagai bahan baku industri.
-  * 20b. Pengembangan dan/atau Pemanfaatan adalah upaya untuk meningkatkan mutu Batubara dengan atau tanpa mengubah sifat fisik atau kimia Batubara asal.
-
-21. 
-
+    * 20a. Pemurnian adalah upaya untuk meningkatkan mutu komoditas tambang Mineral melalui proses fisika maupun kimia serta proses peningkatan kemurnian lebih lanjut untuk menghasilkan produk dengan sifat fisik dan kimia yang berbeda dari komoditas tambang asal sampai dengan produk logam sebagai bahan baku industri.
+    * 20b. Pengembangan dan/atau Pemanfaatan adalah upaya untuk meningkatkan mutu Batubara dengan atau tanpa mengubah sifat fisik atau kimia Batubara asal.
+21. Pengangkutan adalah kegiatan Usaha Pertambangan untuk memindahkan Mineral dan/atau Batubara dari daerah tambang dan/atau
+tempat Pengolahan dan/atau Pemurnian sampai tempat penyerahan.
+22. 
 
 ---
 
