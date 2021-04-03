@@ -234,12 +234,12 @@ Menteri melakukan Penyelidikan dan Penelitian dalam rangka penyiapan WP.
 ### Pasal 14A
 
 Wilayah dalam WP yang dapat ditentukan sebagai WUP harus memenuhi kriteria:
-    * a. memiliki sebaran formasi batuan pembawa, data indikasi, data sumber daya, dan/atau data cadangan Mineral dan/atau Batubara;
-    * b. memiliki 1 (satu) atau lebih jenis Mineral termasuk Mineral ikutannya dan/atau Batubara;
-    * c. tidak tumpang tindih dengan WPR, WPN, dan/atau WUPK;
-    * d. merupakan wilayah yang dapat dimanfaatkan untuk kegiatan Pertambangan secara berkelanjutan;
-    * e. merupakan eks wilayah IUP yang telah berakhir atau dicabut; dan/atau
-    * f. merupakan wilayah hasil penciutan atau pengembalian wilayah IUP.
+* a. memiliki sebaran formasi batuan pembawa, data indikasi, data sumber daya, dan/atau data cadangan Mineral dan/atau Batubara;
+* b. memiliki 1 (satu) atau lebih jenis Mineral termasuk Mineral ikutannya dan/atau Batubara;
+* c. tidak tumpang tindih dengan WPR, WPN, dan/atau WUPK;
+* d. merupakan wilayah yang dapat dimanfaatkan untuk kegiatan Pertambangan secara berkelanjutan;
+* e. merupakan eks wilayah IUP yang telah berakhir atau dicabut; dan/atau
+* f. merupakan wilayah hasil penciutan atau pengembalian wilayah IUP.
 
 </br>
 
@@ -425,6 +425,40 @@ IUP diberikan kepada:
 * a. Badan Usaha;
 * b. koperasi; atau
 * c. perusahaan perseorangan.
+
+</br>
+
+31. Ketentuan Pasal 39 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 39
+
+IUP sebagaimana dimaksud dalam Pasal 36 ayat (1) paling sedikit memuat:
+* a. profil perusahaan;
+* b. lokasi dan luas wilayah;
+* c. jenis komoditas yang diusahakan;
+* d. kewajiban menempatkan jaminan kesungguhan Eksplorasi;
+* e. modal kerja;
+* f. jangka waktu berlakunya IUP;
+* g. hak dan kewajiban pemegang IUP;
+* h. perpanjangan IUP;
+* i. kewajiban penyelesaian hak atas tanah;
+* j. kewajiban membayar pendapatan negara dan pendapatan daerah, termasuk kewajiban iuran tetap dan iuran produksi;
+* k. kewajiban melaksanakan Reklamasi dan Pascatambang;
+* l. kewajiban menyusun dokumen lingkungan; dan
+* m. kewajiban melaksanakan pengembangan dan pemberdayaan masyarakat di sekitar WIUP.
+
+</br>
+
+32. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 40
+
+1. IUP sebagaimana dimaksud dalam Pasal 36 ayat (1) diberikan untuk 1 (satu) jenis Mineral atau Batubara.
+2. Pemegang IUP sebagaimana dimaksud pada ayat (1) dapat memiliki lebih dari 1 (satu) IUP dan/atau IUPK.
+
+
+</br>
+
 
 ---
 
