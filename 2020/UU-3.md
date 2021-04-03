@@ -212,7 +212,219 @@ dengan ketentuan Undang-Undang ini.
     * d. WUPK.
 2. Penetapan WP sebagaimana dimaksud dalam Pasal 9 ayat (2) dilaksanakan:
     * a. secara transparan, partisipatif, dan bertanggung jawab;
-    * b. 
+    * b. secara terpadu dengan mengacu pada pendapat dari instansi pemerintah terkait, masyarakat terdampak, dan dengan mempertimbangkan aspek ekologi, ekonomi, hak asasi manusia, dan sosial budaya, serta berwawasan lingkungan; dan
+    * c. dengan memperhatikan aspirasi daerah.
+
+</br>
+
+11. Ketentuan Pasal 11 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 11
+
+Menteri melakukan Penyelidikan dan Penelitian dalam rangka penyiapan WP.
+
+</br>
+
+12. Ketentuan Pasal 13 dihapus.
+
+13. Ketentuan Pasal 14 dihapus.
+
+14. Di antara Pasal 14 dan Pasal 15 disisipkan 1 (satu) pasal, yakni Pasal 14A sehingga berbunyi sebagai berikut:
+
+### Pasal 14A
+
+Wilayah dalam WP yang dapat ditentukan sebagai WUP harus memenuhi kriteria:
+    * a. memiliki sebaran formasi batuan pembawa, data indikasi, data sumber daya, dan/atau data cadangan Mineral dan/atau Batubara;
+    * b. memiliki 1 (satu) atau lebih jenis Mineral termasuk Mineral ikutannya dan/atau Batubara;
+    * c. tidak tumpang tindih dengan WPR, WPN, dan/atau WUPK;
+    * d. merupakan wilayah yang dapat dimanfaatkan untuk kegiatan Pertambangan secara berkelanjutan;
+    * e. merupakan eks wilayah IUP yang telah berakhir atau dicabut; dan/atau
+    * f. merupakan wilayah hasil penciutan atau pengembalian wilayah IUP.
+
+</br>
+
+15. Ketentuan Pasal 15 dihapus.
+
+16. Ketentuan Pasal 17 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 17
+
+1. Luas dan batas WIUP Mineral logam dan WIUP Batubara ditetapkan oleh Menteri setelah ditentukan oleh gubernur.
+2. Luas dan batas WIUP Mineral logam dan WIUP Batubara yang berada pada wilayah laut ditetapkan oleh Menteri setelah berkoordinasi dengan instansi terkait.
+3. Penetapan luas dan batas WIUP Mineral logam dan WIUP Batubara sebagaimana dimaksud pada ayat (1) dan ayat (2), harus memenuhi kriteria:
+    * a. terdapat data sumber daya Mineral logam atau Batubara; dan/atau
+    * b. terdapat data cadangan Mineral logam atau Batubara.
+4. Selain kriteria sebagaimana dimaksud pada ayat (3) Menteri menetapkan WIUP Mineral logam dan WIUP Batubara berdasarkan pertimbangan:
+    * a. ketahanan cadangan;
+    * b. kemampuan produksi nasional; dan/atau
+    * c. pemenuhan kebutuhan dalam negeri.
+5. Dalam hal WIUP Mineral logam dan WIUP Batubara telah ditetapkan oleh Menteri, pemanfaatan potensi sumber daya alam yang terdapat di dalamnya diprioritaskan untuk kegiatan Usaha Pertambangan.
+
+</br>
+
+17. Di antara Pasal 17 dan Pasal 18 disisipkan 2 (dua) pasal, yakni Pasal 17A dan Pasal 17B sehingga berbunyi sebagai berikut:
+
+### Pasal 17A
+
+1. Penetapan WIUP Mineral logam dan WIUP Batubara sebagaimana dimaksud dalam Pasal 17 dilakukan setelah memenuhi kriteria pemanfaatan ruang dan kawasan untuk kegiatan Usaha Pertambangan sesuai dengan ketentuan peraturan perundangundangan.
+2. Pemerintah Pusat dan Pemerintah Daerah menjamin tidak ada perubahan pemanfaatan ruang dan kawasan sebagaimana dimaksud pada ayat (1) pada WIUP Mineral logam dan WIUP Batubara yang telah ditetapkan.
+3. Pemerintah Pusat dan Pemerintah Daerah menjamin penerbitan perizinan lain yang diperlukan dalam rangka pelaksanaan kegiatan Usaha Pertambangan pada WIUP Mineral logam dan WIUP Batubara yang telah ditetapkan sepanjang telah memenuhi persyaratan sesuai dengan ketentuan peraturan perundangundangan.
+
+### Pasal 17B
+
+1. Menteri dapat memberikan penugasan kepada lembaga riset negara, BUMN, badan usaha milik daerah, atau Badan Usaha untuk melakukan Penyelidikan dan Penelitian dalam rangka penyiapan WIUP Mineral logam dan WIUP Batubara.
+2. Luas dan batas wilayah penugasan sebagaimana dimaksud pada ayat (1) ditetapkan oleh Menteri.
+3. BUMN, badan usaha milik daerah, atau Badan Usaha yang mendapatkan penugasan sebagaimana dimaksud pada ayat (1) dan wilayah penugasannya ditetapkan sebagai WIUP Mineral logam dan WIUP Batubara, mendapatkan hak menyamai penawaran dalam lelang WIUP Mineral logam dan WIUP Batubara.
+4. Ketentuan lebih lanjut mengenai pemberian penugasan oleh Menteri sebagaimana dimaksud pada ayat (1) diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+18. Ketentuan Pasal 18 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 18
+
+1. Penetapan luas dan batas WIUP Mineral logam dan WIUP Batubara sebagaimana dimaksud dalam Pasal 17 harus mempertimbangkan:
+    * a. rencana pengelolaan Mineral dan Batubara nasional;
+    * b. ketersediaan data sumber daya dan/atau cadangan Mineral atau Batubara; dan
+    * c. status kawasan.
+2. Data sumber daya dan/atau cadangan Mineral atau Batubara sebagaimana dimaksud pada ayat (1) huruf b berasal dari:
+    * a. hasil kegiatan Penyelidikan dan Penelitian yang dilakukan oleh Menteri;
+    * b. hasil evaluasi terhadap WIUP Mineral logam atau WIUP Batubara yang dikembalikan atau diciutkan oleh pemegang IUP; dan/atau
+    * c. hasil evaluasi terhadap WIUP Mineral logam atau WIUP Batubara yang IUP berakhir atau dicabut.
+
+</br>
+
+19. Ketentuan Pasal 21 dihapus.
+
+20. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 22
+
+Wilayah dalam WP yang dapat ditentukan sebagai WPR harus memenuhi kriteria:
+* a. mempunyai cadangan Mineral sekunder yang terdapat di sungai dan/atau di antara tepi dan tepi sungai;
+* b. mempunyai cadangan primer Mineral logam dengan kedalaman maksimal 100 (seratus) meter;
+* c. endapan teras, dataran banjir, dan endapan sungai purba;
+* d. luas maksimal WPR adalah 100 (seratus) hektare;
+* e. menyebutkan jenis komoditas yang akan ditambang; dan/atau
+* f. memenuhi kriteria pemanfaatan ruang dan kawasan untuk kegiatan Usaha Pertambangan sesuai dengan ketentuan peraturan perundang-undangan.
+
+</br>
+
+21. Di antara Pasal 22 dan Pasal 23 disisipkan 1 (satu) pasal, yakni Pasal 22A sehingga berbunyi sebagai berikut:
+
+### Pasal 22A
+
+Pemerintah Pusat dan Pemerintah Daerah menjamin tidak ada perubahan pemanfaatan ruang dan kawasan pada WPR yang telah ditetapkan.
+
+</br>
+
+22. Ketentuan Pasal 27 ayat (1) dan ayat (3) dihapus, ayat (2) dan ayat (4) diubah sehingga Pasal 27 berbunyi sebagai berikut:
+
+### Pasal 27
+
+1. Dihapus.
+2. WPN dapat diusahakan sebagian atau seluruh luas wilayahnya dengan persetujuan Dewan Perwakilan Rakyat Republik Indonesia.
+3. Dihapus.
+4. WPN yang diusahakan sebagaimana dimaksud pada ayat (2) berubah statusnya menjadi WUPK.
+
+</br>
+
+23. Di antara Pasal 27 dan Pasal 28 disisipkan 1 (satu) pasal, yakni Pasal 27A sehingga berbunyi sebagai berikut:
+
+### Pasal 27A
+
+Wilayah dalam WP yang dapat ditetapkan sebagai WPN harus memenuhi kriteria:
+* a. memiliki formasi batuan pembawa Mineral logam dan/atau Batubara berdasarkan peta atau data geologi;
+* b. memiliki sumber daya dan/atau cadangan Mineral logam dan/atau Batubara;
+* c. untuk keperluan konservasi Mineral logam dan/atau Batubara; dan/atau
+* d. untuk keperluan konservasi dalam rangka menjaga keseimbangan ekosistem dan lingkungan.
+
+</br>
+
+24. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai
+berikut:
+
+### Pasal 28
+
+1. Perubahan status WPN sebagaimana dimaksud dalam Pasal 27 ayat (2) dan ayat (4) menjadi WUPK dapat dilakukan dengan mempertimbangkan:
+    * a. pemenuhan bahan baku industri dan energi dalam negeri;
+    * b. sumber devisa negara;
+    * c. potensi untuk dikembangkan sebagai pusat pertumbuhan ekonomi;
+    * d. perubahan status kawasan; dan/atau
+    * e. penggunaan teknologi tinggi dan modal investasi yang besar.
+
+2. Wilayah yang dapat ditetapkan menjadi WUPK sebagaimana dimaksud pada ayat (1) dapat berasal dari:
+    * a. eks WIUP yang berdasarkan evaluasi Menteri perlu ditetapkan menjadi WUPK; atau
+    * b. eks WIUPK, wilayah KK, atau PKP2B yang berdasarkan evaluasi Menteri perlu ditetapkan kembali menjadi WUPK.
+
+</br>
+
+25. Di antara Pasal 31 dan Pasal 32 disisipkan 1 (satu) pasal, yakni Pasal 31A sehingga berbunyi sebagai berikut:
+
+### Pasal 31A
+
+1. Penetapan WIUPK sebagaimana dimaksud dalam Pasal 31 dilakukan setelah memenuhi kriteria:
+    * a. pemanfaatan ruang dan kawasan untuk kegiatan Usaha Pertambangan sesuai dengan ketentuan peraturan perundang-undangan;
+    * b. ketahanan cadangan;
+    * c. kemampuan produksi nasional; dan/atau
+    * d. pemenuhan kebutuhan dalam negeri.
+2. Pemerintah Pusat dan Pemerintah Daerah menjamin tidak ada perubahan pemanfaatan ruang dan kawasan pada WIUPK yang telah ditetapkan sebagaimana dimaksud pada ayat (1).
+3. Pemerintah Pusat dan Pemerintah Daerah menjamin penerbitan perizinan lain yang diperlukan dalam rangka pelaksanaan kegiatan Usaha Pertambangan pada WIUPK yang telah ditetapkan sepanjang telah memenuhi persyaratan sesuai dengan ketentuan peraturan perundangundangan.
+
+</br>
+
+26. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 35
+1. Usaha Pertambangan dilaksanakan berdasarkan Perizinan Berusaha dari Pemerintah Pusat.
+2. Perizinan Berusaha sebagaimana dimaksud pada ayat (1) dilaksanakan melalui pemberian:
+    * a. nomor induk berusaha;
+    * b. sertifikat standar; dan/atau
+    * c. izin.
+3. Izin sebagaimana dimaksud pada ayat (2) huruf c terdiri atas:
+    * a. IUP;
+    * b. IUPK;
+    * c. IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian;
+    * d. IPR;
+    * e. SIPB;
+    * f. izin penugasan;
+    * g. Izin Pengangkutan dan Penjualan;
+    * h. IUJP; dan
+    * i. IUP untuk Penjualan.
+4. Pemerintah Pusat dapat mendelegasikan kewenangan pemberian Perizinan Berusaha sebagaimana dimaksud pada ayat (2) kepada Pemerintah Daerah provinsi sesuai dengan ketentuan peraturan perundangundangan.
+
+</br>
+
+27. Ketentuan Pasal 36 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 36
+
+1. UP terdiri atas dua tahap kegiatan:
+    * a. Eksplorasi yang meliputi kegiatan Penyelidikan Umum, Eksplorasi, dan Studi Kelayakan; dan
+    * b. Operasi Produksi yang meliputi kegiatan Konstruksi, Penambangan, Pengolahan dan/atau Pemurnian atau Pengembangan dan/atau Pemanfaatan, serta Pengangkutan dan Penjualan.
+2. Pemegang IUP dapat melakukan sebagian atau seluruh kegiatan Usaha Pertambangan sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan peraturan perundangundangan.
+
+</br>
+
+28. Di antara Pasal 36 dan Pasal 37 disisipkan 1 (satu) pasal, yakni Pasal 36A sehingga berbunyi sebagai berikut:
+
+### Pasal 36A
+
+Dalam rangka konservasi Mineral dan Batubara, pemegang IUP atau IUPK tahap kegiatan Operasi Produksi wajib melakukan kegiatan Eksplorasi lanjutan setiap tahun dan menyediakan anggaran.
+
+<br>
+
+29. Ketentuan Pasal 37 dihapus.
+
+30. Ketentuan huruf c Pasal 38 diubah sehingga Pasal 38
+berbunyi sebagai berikut:
+
+### Pasal 38
+
+IUP diberikan kepada:
+* a. Badan Usaha;
+* b. koperasi; atau
+* c. perusahaan perseorangan.
 
 ---
 
