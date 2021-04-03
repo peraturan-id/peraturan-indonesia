@@ -455,10 +455,217 @@ IUP sebagaimana dimaksud dalam Pasal 36 ayat (1) paling sedikit memuat:
 
 1. IUP sebagaimana dimaksud dalam Pasal 36 ayat (1) diberikan untuk 1 (satu) jenis Mineral atau Batubara.
 2. Pemegang IUP sebagaimana dimaksud pada ayat (1) dapat memiliki lebih dari 1 (satu) IUP dan/atau IUPK.
-3. 
+3. Ketentuan sebagaimana dimaksud pada ayat (2) hanya berlaku bagi:
+    * a. IUP dan/atau IUPK yang dimiliki oleh BUMN; atau
+    * b. IUP untuk komoditas Mineral bukan logam dan/atau batuan.
+4. Pemegang IUP yang menemukan komoditas tambang lain di dalam WIUP yang dikelola diberikan prioritas untuk mengusahakannya.
+5. Pemegang IUP yang bermaksud mengusahakan komoditas tambang lain sebagaimana dimaksud pada ayat (4), harus mengajukan permohonan IUP baru kepada Menteri.
+6. Pemegang IUP sebagaimana dimaksud pada ayat (4) dapat menyatakan tidak berminat untuk mengusahakan komoditas tambang lain yang ditemukan tersebut.
+7. IUP untuk komoditas tambang lain sebagaimana dimaksud pada ayat (6) dapat diberikan kepada pihak lain oleh Menteri.
+8. Ketentuan lebih lanjut mengenai kriteria kepemilikan lebih dari 1 (satu) IUP dan pemberian prioritas pengusahaan komoditas tambang lain diatur dengan atau berdasarkan Peraturan Pemerintah.
 
 </br>
 
+33. Ketentuan Pasal 42 diubah sehingga Pasal 42 berbunyi sebagai berikut:
+
+### Pasal 42
+
+Jangka waktu kegiatan Eksplorasi sebagaimana dimaksud dalam Pasal 36 ayat (1) huruf a diberikan selama:
+* a. 8 (delapan) tahun untuk Pertambangan Mineral logam;
+* b. 3 (tiga) tahun untuk Pertambangan Mineral bukan logam;
+* c. 7 (tujuh) tahun untuk Pertambangan Mineral bukan logam jenis tertentu;
+* d. 3 (tiga) tahun untuk Pertambangan batuan; atau
+* e. 7 (tujuh) tahun untuk Pertambangan Batubara.
+
+</br>
+
+34. Di antara Pasal 42 dan Pasal 43 disisipkan 1 (satu) pasal, yakni Pasal 42A sehingga berbunyi sebagai berikut:
+
+### Pasal 42A
+
+1. Jangka waktu kegiatan Eksplorasi sebagaimana dimaksud dalam Pasal 42 huruf a dan huruf e dapat diberikan perpanjangan selama 1 (satu) tahun setiap kali perpanjangan setelah memenuhi persyaratan.
+2. Ketentuan lebih lanjut mengenai pemberian perpanjangan jangka waktu kegiatan Eksplorasi sebagaimana dimaksud pada ayat (1) diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+35. Ketentuan Pasal 43 dihapus.
+
+37. Ketentuan Pasal 44 dihapus.
+
+38. Ketentuan Pasal 45 dihapus.
+
+39. Ketentuan Pasal 46 diubah sehingga Pasal 46 berbunyi
+sebagai berikut:
+
+### Pasal 46
+
+1. Pemegang IUP yang telah menyelesaikan kegiatan Eksplorasi dijamin untuk dapat melakukan kegiatan Operasi Produksi sebagai kelanjutan kegiatan usaha pertambangannya.
+2. Pemegang IUP sebelum melakukan kegiatan Operasi Produksi sebagaimana dimaksud pada ayat (1) wajib memenuhi persyaratan administratif, teknis, lingkungan, dan finansial.
+3. Ketentuan lebih lanjut mengenai persyaratan untuk melakukan kegiatan Operasi Produksi diatur lebih lanjut dengan Peraturan Pemerintah.
+
+</br>
+
+39. Ketentuan Pasal 47 diubah sehingga berbunyi sebagai
+berikut:
+
+### Pasal 47
+
+Jangka waktu kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 36 ayat (1) huruf b diberikan dengan ketentuan:
+* a. untuk Pertambangan Mineral logam paling lama 20 (dua puluh) tahun dan dijamin memperoleh perpanjangan 2 (dua) kali masing-masing 10 (sepuluh) tahun setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundangundangan.
+* b. untuk Pertambangan Mineral bukan logam paling lama 10 (sepuluh) tahun dan dijamin memperoleh perpanjangan 2 (dua) kali masing-masing 5 (lima) tahun setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
+* c. untuk Pertambangan Mineral bukan logam jenis tertentu paling lama 20 (dua puluh) tahun dan dijamin memperoleh perpanjangan 2 (dua) kali masing-masing 10 (sepuluh) tahun setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
+* d. untuk Pertambangan batuan paling lama 5 (lima) tahun dan dijamin memperoleh perpanjangan 2 (dua) kali masing-masing 5 (lima) tahun setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
+* e. untuk Pertambangan Batubara paling lama 20 (dua puluh) tahun dan dijamin memperoleh perpanjangan 2 (dua) kali masing-masing 10 (sepuluh) tahun setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundangundangan.
+* f. untuk Pertambangan Mineral logam yang terintegrasi dengan fasilitas pengolahan dan/atau pemurnian selama 30 (tiga puluh) tahun dan dijamin memperoleh perpanjangan selama 10 (sepuluh) tahun setiap kali perpanjangan setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
+* g. untuk Pertambangan Batubara yang terintegrasi dengan kegiatan Pengembangan dan/atau Pemanfaatan selama 30 (tiga puluh) tahun dan dijamin memperoleh perpanjangan selama 10 (sepuluh) tahun setiap kali perpanjangan setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
+
+</br>
+
+40. Ketentuan Pasal 48 dihapus.
+
+41. Ketentuan Pasal 51 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 51
+
+1. WIUP Mineral logam diberikan kepada Badan Usaha, koperasi, atau perusahaan perseorangan dengan cara lelang.
+2. Lelang WIUP Mineral logam sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mempertimbangkan:
+    * a. luas WIUP Mineral logam yang akan dilelang;
+    * b. kemampuan administratif/manajemen;
+    * c. kemampuan teknis dan pengelolaan lingkungan; dan
+    * d. kemampuan finansial.
+3. Ketentuan lebih lanjut mengenai lelang WIUP Mineral logam diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+42. Ketentuan Pasal 52 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 52
+
+1. Pemegang IUP pada tahap kegiatan Eksplorasi Mineral logam diberi WIUP paling luas 100.000 (seratus ribu) hektare.
+2. Pada wilayah yang telah diberikan IUP Mineral logam dapat diberikan IUP kepada pihak lain untuk mengusahakan komoditas tambang lain yang keterdapatannya berbeda.
+3. Pemberian IUP sebagaimana dimaksud pada ayat (2) dilakukan setelah mendapatkan persetujuan dari pemegang IUP pertama.
+4. Dalam hal tidak terdapat pihak lain untuk mengusahakan komoditas tambang lain yang keterdapatannya berbeda sebagaimana dimaksud pada ayat (2), pemegang IUP sebagaimana dimaksud pada ayat (1) wajib memiliki IUP untuk mengusahakan komoditas tambang lain yang keterdapatannya berbeda sebagaimana dimaksud pada ayat (2).
+
+</br>
+
+43. Ketentuan Pasal 54 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 54
+
+WIUP Mineral bukan logam diberikan kepada Badan Usaha, koperasi, atau perusahaan perseorangan dengan cara permohonan wilayah kepada Menteri.
+
+</br>
+
+44. Ketentuan Pasal 55 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 55
+1. Pemegang IUP pada tahap kegiatan Eksplorasi Mineral bukan logam diberi WIUP paling luas 25.000 (dua puluh lima ribu) hektare.
+2. Pada wilayah yang telah diberikan IUP Mineral bukan logam dapat diberikan IUP kepada pihak lain untuk mengusahakan komoditas Mineral bukan logam lain atau batuan yang keterdapatannya berbeda.
+3. Pemberian IUP sebagaimana dimaksud pada ayat (2) dilakukan setelah mendapatkan persetujuan dari pemegang IUP pertama.
+4. Dalam hal tidak terdapat pihak lain untuk mengusahakan Mineral bukan logam lain atau
+batuan yang keterdapatannya berbeda sebagaimana dimaksud pada ayat (2), pemegang IUP sebagaimana dimaksud pada ayat (1) wajib memiliki IUP untuk mengusahakan Mineral bukan logam lain atau batuan yang keterdapatannya berbeda sebagaimana dimaksud pada ayat (2).
+
+</br>
+
+45. Ketentuan Pasal 57 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 57
+
+WIUP batuan diberikan kepada Badan Usaha, koperasi, atau perusahaan perseorangan dengan cara permohonan wilayah kepada Menteri.
+
+</br>
+
+46. Ketentuan Pasal 58 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 58
+1. Pemegang IUP pada tahap kegiatan Eksplorasi batuan diberi WIUP paling luas 5.000 (lima ribu) hektare.
+2. Pada wilayah yang telah diberikan IUP batuan dapat diberikan IUP kepada pihak lain untuk mengusahakan komoditas tambang Mineral bukan logam atau batuan lain yang keterdapatannya berbeda.
+3. Pemberian IUP sebagaimana dimaksud pada ayat (2) dilakukan setelah mendapatkan persetujuan dari pemegang IUP pertama.
+4. Dalam hal tidak terdapat pihak lain untuk mengusahakan Mineral bukan logam atau batuan lain yang keterdapatannya berbeda sebagaimana dimaksud pada ayat (2), pemegang IUP sebagaimana dimaksud pada ayat (1) wajib memiliki IUP untuk mengusahakan Mineral bukan logam atau batuan lain yang keterdapatannya berbeda sebagaimana dimaksud pada ayat (2).
+
+</br>
+
+47. Ketentuan Pasal 60 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 60
+
+1. WIUP Batubara diberikan kepada Badan Usaha, koperasi, atau perusahaan perseorangan dengan cara lelang.
+2. Lelang WIUP Batubara sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mempertimbangkan:
+    * a. luas WIUP Batubara yang akan dilelang;
+    * b. kemampuan administratif/manajemen;
+    * c. kemampuan teknis dan pengelolaan lingkungan; dan
+    * d. kemampuan finansial.
+3. Ketentuan lebih lanjut mengenai lelang WIUP Batubara diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+48. Ketentuan Pasal 61 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 61
+
+1. Pemegang IUP pada tahap kegiatan Eksplorasi Batubara diberi WIUP paling luas 50.000 (lima puluh ribu) hektare.
+2. Pada wilayah yang telah diberikan IUP Batubara dapat diberikan IUP kepada pihak lain untuk mengusahakan komoditas tambang lain yang keterdapatannya berbeda.
+3. Pemberian IUP sebagaimana dimaksud pada ayat (2) dilakukan setelah mendapatkan persetujuan dari pemegang IUP pertama.
+4. Dalam hal tidak terdapat pihak lain untuk mengusahakan komoditas tambang lain yang keterdapatannya berbeda sebagaimana dimaksud pada ayat (2), pemegang IUP sebagaimana dimaksud pada ayat (1) wajib memiliki IUP untuk mengusahakan komoditas tambang lain yang keterdapatannya berbeda sebagaimana dimaksud pada ayat (2).
+
+</br>
+
+49. Di antara Pasal 62 dan Pasal 63 disisipkan 1 (satu) pasal, yakni Pasal 62A sehingga berbunyi sebagai berikut:
+
+### Pasal 62A
+
+1. Dalam rangka konservasi Mineral dan Batubara, Pemegang IUP untuk tahap kegiatan Operasi Produksi Mineral logam atau Batubara dapat mengajukan permohonan persetujuan perluasan WIUP kepada Menteri.
+2. Ketentuan lebih lanjut mengenai perluasan WIUP sebagaimana dimaksud pada ayat (1) diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+50. Ketentuan ayat (1) Pasal 65 diubah sehingga Pasal 65 berbunyi sebagai berikut:
+
+### Pasal 65
+
+1. Badan Usaha, koperasi, atau perusahaan perseorangan sebagaimana dimaksud dalam Pasal 51, Pasal 54, Pasal 57, dan Pasal 60 yang melakukan Usaha Pertambangan wajib memenuhi persyaratan administratif, teknis, lingkungan, dan finansial.
+2. Ketentuan lebih lanjut mengenai persyaratan administratif, teknis, lingkungan, dan finansial sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+</br>
+
+51. Ketentuan huruf d Pasal 66 dihapus sehingga Pasal 66 berbunyi sebagai berikut:
+
+### Pasal 66
+
+Kegiatan Pertambangan rakyat sebagaimana dimaksud dalam Pasal 20 dikelompokkan sebagai berikut:
+* a. Pertambangan Mineral logam;
+* b. Pertambangan Mineral bukan logam; atau
+* c. Pertambangan batuan.
+
+</br>
+
+52. Ketentuan Pasal 67 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 67
+
+1. IPR diberikan oleh Menteri kepada:
+    * a. orang perseorangan yang merupakan penduduk setempat; atau
+    * b. koperasi yang anggotanya merupakan penduduk setempat.
+2. Untuk memperoleh IPR sebagaimana dimaksud pada ayat (1), pemohon harus menyampaikan permohonan kepada Menteri.
+
+</br>
+
+53. Ketentuan Pasal 68 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 68
+1. Luas wilayah untuk 1 (satu) IPR yang dapat diberikan kepada:
+    * a. orang perseorangan paling luas 5 (lima) hektare; atau
+    * b. koperasi paling luas 10 (sepuluh) hektare.
+2. IPR diberikan untuk jangka waktu paling lama 10 (sepuluh) tahun dan dapat diperpanjang 2 (dua) kali masing-masing 5 (lima) tahun.
+
+</br>
+
+54. Ketentuan Pasal 70 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 70
+
+Pemegang IPR wajib:
+* a.
 
 ---
 
