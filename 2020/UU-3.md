@@ -455,7 +455,7 @@ IUP sebagaimana dimaksud dalam Pasal 36 ayat (1) paling sedikit memuat:
 
 1. IUP sebagaimana dimaksud dalam Pasal 36 ayat (1) diberikan untuk 1 (satu) jenis Mineral atau Batubara.
 2. Pemegang IUP sebagaimana dimaksud pada ayat (1) dapat memiliki lebih dari 1 (satu) IUP dan/atau IUPK.
-
+3. 
 
 </br>
 
