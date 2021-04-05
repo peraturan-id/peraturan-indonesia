@@ -665,7 +665,258 @@ Kegiatan Pertambangan rakyat sebagaimana dimaksud dalam Pasal 20 dikelompokkan s
 ### Pasal 70
 
 Pemegang IPR wajib:
-* a.
+* a. melakukan kegiatan Penambangan paling lambat 3 (tiga) bulan setelah IPR diterbitkan;
+* b. mematuhi peraturan perundang-undangan di bidang keselamatan Pertambangan, pengelolaan lingkungan, dan memenuhi standar yang berlaku;
+* c. mengelola lingkungan hidup bersama Menteri;
+* d. membayar iuran Pertambangan rakyat; dan
+* e. menyampaikan laporan pelaksanaan kegiatan Usaha Pertambangan rakyat secara berkala kepada Menteri.
+
+</br>
+
+55. Di antara Pasal 70 dan Pasal 71 disisipkan 1 (satu) pasal, yakni Pasal 70A sehingga berbunyi sebagai berikut:
+
+### Pasal 70A
+
+Pemegang IPR dilarang memindahtangankan IPR kepada pihak lain.
+
+</br>
+
+56. Ketentuan Pasal 72 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 72
+
+Ketentuan lebih lanjut mengenai tata cara dan syarat pemberian IPR diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+57. Ketentuan Pasal 73 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 73
+
+1. Menteri melaksanakan pembinaan di bidang pengusahaan, teknologi Pertambangan, serta permodalan dan pemasaran dalam usaha meningkatkan kemampuan IPR.
+2. Menteri bertanggung jawab terhadap pelaksanaan kaidah teknis pada IPR yang meliputi:
+    * a. keselamatan Pertambangan; dan
+    * b. pengelolaan lingkungan hidup termasuk Reklamasi dan Pascatambang.
+
+</br>
+
+58. Ketentuan Pasal 75 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 75
+
+1. Pemberian IUPK sebagaimana dimaksud dalam Pasal 74 ayat (1) dilakukan berdasarkan pertimbangan sebagaimana dimaksud dalam Pasal 28.
+2. IUPK sebagaimana dimaksud pada ayat (1) dapat diberikan kepada BUMN, badan usaha milik daerah, atau Badan Usaha swasta.
+3. BUMN dan badan usaha milik daerah sebagaimana dimaksud pada ayat (2) mendapat prioritas dalam mendapatkan IUPK.
+4. Badan Usaha swasta sebagaimana dimaksud pada ayat (2) untuk mendapatkan IUPK dilaksanakan dengan cara lelang WIUPK.
+5. Lelang WIUPK sebagaimana dimaksud pada ayat (4) dilakukan oleh Menteri dan dilaksanakan dengan mempertimbangkan:
+    * a. luas WIUPK yang akan dilelang;
+    * b. kemampuan administratif/manajemen;
+    * c. kemampuan teknis dan pengelolaan lingkungan; dan
+    * d. kemampuan finansial.
+6. Ketentuan lebih lanjut mengenai lelang sebagaimana dimaksud pada ayat (4) diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+59. Ketentuan Pasal 81 dihapus.
+
+60. Ketentuan Pasal 82 dihapus.
+
+61. Ketentuan Pasal 83 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 83
+
+Persyaratan luas wilayah dan jangka waktu sesuai dengan kelompok Usaha Pertambangan yang berlaku bagi pemegang IUPK meliputi:
+* a. luas 1 (satu) WIUPK untuk tahap kegiatan Eksplorasi Pertambangan Mineral logam diberikan paling luas 100.000 (seratus ribu) hektare;
+* b. luas 1 (satu) WIUPK untuk tahap kegiatan Eksplorasi Pertambangan Batubara diberikan paling luas 50.000 (lima puluh ribu) hektare;
+* c. luas 1 (satu) WIUPK untuk tahap kegiatan Operasi Produksi Pertambangan Mineral logam atau Batubara diberikan berdasarkan hasil evaluasi Menteri terhadap rencana pengembangan seluruh wilayah yang diusulkan oleh pemegang IUPK;
+* d. jangka waktu kegiatan Eksplorasi Pertambangan Mineral logam dapat diberikan selama 8 (delapan) tahun;
+* e. jangka waktu kegiatan Eksplorasi Pertambangan Batubara dapat diberikan selama 7 (tujuh) tahun;
+* f. jangka waktu kegiatan Operasi Produksi Mineral logam atau Batubara dapat diberikan paling lama 20 (dua puluh) tahun dan dijamin memperoleh perpanjangan 2 (dua) kali masing-masing 10 (sepuluh) tahun setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundangundangan;
+* g. jangka waktu kegiatan Operasi Produksi Mineral logam yang terintegrasi dengan fasilitas pengolahan dan/atau pemurnian diberikan jangka waktu selama 30 (tiga puluh) tahun dan dijamin memperoleh perpanjangan selama 10 (sepuluh) tahun setiap kali perpanjangan setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan; dan
+* h. jangka waktu kegiatan Operasi Produksi Batubara yang terintegrasi dengan kegiatan Pengembangan dan/atau Pemanfaatan Batubara diberikan jangka waktu selama 30 (tiga puluh) tahun dan dijamin memperoleh perpanjangan selama 10 (sepuluh) tahun setiap kali perpanjangan setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
+
+</br>
+
+62. Di antara Pasal 83 dan Pasal 84 disisipkan 2 (dua) pasal, yakni Pasal 83A dan Pasal 83B sehingga berbunyi sebagai berikut:
+
+### Pasal 83A
+
+1. Jangka waktu kegiatan Eksplorasi sebagaimana dimaksud dalam Pasal 83 huruf d dan huruf e dapat diberikan perpanjangan selama 1 (satu) tahun setiap kali perpanjangan setelah memenuhi persyaratan.
+2. Ketentuan lebih lanjut mengenai pemberian perpanjangan jangka waktu kegiatan Eksplorasi sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+### Pasal 83B
+
+1. Dalam rangka konservasi Mineral dan Batubara, Pemegang IUPK pada tahap kegiatan Operasi Produksi Mineral logam atau Batubara dapat mengajukan permohonan persetujuan perluasan WIUPK kepada Menteri.
+2. Ketentuan lebih lanjut mengenai perluasan WIUPK sebagaimana dimaksud pada ayat (1) diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+63. Di antara Bab XI dan Bab XII disisipkan 1 (satu) bab, yakni Bab XIA sehingga berbunyi sebagai berikut:
+
+Bab XI A Surat Izin Penambangan Batuan
+
+64. Di antara Pasal 86 dan Pasal 87 disisipkan 8 (delapan) pasal, yakni Pasal 86A, Pasal 86B, Pasal 86C, Pasal 86D, Pasal 86E, Pasal 86F, Pasal 86G, dan Pasal 86H sehingga berbunyi sebagai berikut:
+
+### Pasal 86A
+
+1. SIPB diberikan untuk pengusahaan pertambangan batuan jenis tertentu atau untuk keperluan tertentu.
+2. SIPB sebagaimana dimaksud pada ayat (1) dapat diterbitkan kepada:
+    * a. badan usaha milik daerah/badan usaha milik desa;
+    * b. Badan Usaha swasta dalam rangka penanaman modal dalam negeri;
+    * c. koperasi; atau
+    * d. perusahaan perseorangan.
+3. Ketentuan lebih lanjut mengenai batuan jenis tertentu atau untuk keperluan tertentu sebagaimana dimaksud pada ayat (1) diatur dengan atau berdasarkan Peraturan Pemerintah.
+4. SIPB sebagaimana dimaksud pada ayat (1) diberikan oleh Menteri berdasarkan permohonan dari badan usaha milik daerah/badan usaha milik desa, Badan Usaha swasta dalam rangka penanaman modal dalam negeri, koperasi, atau perusahaan perseorangan, yang telah memenuhi persyaratan administratif, teknis, lingkungan, dan finansial.
+5. Selain persyaratan administratif, teknis, lingkungan, dan finansial sebagaimana dimaksud pada ayat (4), permohonan SIPB harus dilengkapi dengan koordinat dan luas wilayah batuan jenis tertentu atau untuk keperluan tertentu yang dimohon.
+6. SIPB sebagaimana dimaksud pada ayat (1) terdiri atas tahap kegiatan perencanaan, Penambangan, Pengolahan, serta Pengangkutan dan Penjualan.
+7. Pemegang SIPB dapat langsung melakukan Penambangan setelah memiliki dokumen perencanaan Penambangan.
+8. Dokumen perencanaan sebagaimana dimaksud pada ayat (7) terdiri atas:
+    * a. dokumen teknis yang memuat paling sedikit informasi cadangan dan rencana Penambangan; dan
+    * b. dokumen lingkungan hidup.
+
+### Pasal 86B
+
+SIPB sebagaimana dimaksud dalam Pasal 86A harus memuat paling sedikit:
+* a. nama pemegang SIPB;
+* b. nomor pokok wajib pajak;
+* c. lokasi dan luas wilayah;
+* d. modal kerja;
+* e. jenis komoditas tambang;
+* f. jangka waktu berlakunya SIPB; dan
+* g. hak dan kewajiban pemegang SIPB.
+
+### Pasal 86C
+
+Pemegang SIPB dapat diberikan wilayah paling luas 50 (lima puluh) hektare.
+ 
+### Pasal 86D
+
+SIPB sebagaimana dimaksud dalam Pasal 86A tidak dapat digunakan selain yang dimaksud dalam pemberian SIPB.
+
+### Pasal 86E
+
+Pemegang SIPB berhak:
+* a. mendapat pembinaan di bidang keselamatan Pertambangan, lingkungan, teknis Pertambangan, dan manajemen dari Menteri;
+* b. memiliki batuan jenis tertentu atau untuk keperluan tertentu yang telah diproduksi setelah membayar pajak daerah sesuai dengan ketentuan peraturan perundang-undangan; dan
+* c. melakukan Usaha Pertambangan sesuai dengan ketentuan peraturan perundang-undangan.
+
+### Pasal 86F
+
+Pemegang SIPB wajib:
+* a. menerapkan kaidah Pertambangan yang baik;
+* b. menyelesaikan hak atas tanah dengan pemegang hak sesuai dengan ketentuan peraturan perundang- undangan; dan
+* c. menyampaikan laporan pelaksanaan kegiatan SIPB kepada Menteri.
+
+### Pasal 86G
+
+Pemegang SIPB dilarang:
+* a. memindahtangankan SIPB kepada pihak lain; atau
+* b. menggunakan bahan peledak dalam pelaksanaan kegiatan Penambangan;
+
+### Pasal 86H
+
+Ketentuan lebih lanjut mengenai tata cara pemberian SIPB diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+65. Di antara Pasal 87 dan Pasal 88 disisipkan 4 (empat) pasal, yakni Pasal 87A, Pasal 87B, Pasal 87C, dan Pasal 87D sehingga berbunyi sebagai berikut:
+
+### Pasal 87A
+
+Menteri wajib menyediakan data dan informasi Pertambangan untuk:
+* a. menunjang penyiapan WP;
+* b. mengembangkan ilmu pengetahuan dan teknologi; dan
+* c. melakukan alih teknologi Pertambangan.
+
+### Pasal 87B
+
+1. Penyediaan data dan informasi Pertambangan sebagaimana dimaksud dalam Pasal 87A dilakukan oleh pusat data dan informasi Pertambangan yang dikelola oleh Menteri.
+2. Pusat data dan informasi Pertambangan sebagaimana dimaksud pada ayat (1) mengelola informasi paling sedikit tentang:
+    * a. peta informasi geospasial dasar dan tematik;
+    * b. peta WP;
+    * c. jumlah pemegang IUP, IUPK, IPR, dan SIPB;
+    * d. potensi sumber daya;
+    * e. sebaran potensi;
+    * f. jumlah investasi;
+    * g. informasi peruntukan dan tata ruang wilayah;
+    * h. volume produksi;
+    * i. Reklamasi dan Pascatambang;
+    * j. data geologi;
+    * k. sarana dan prasarana Usaha Pertambangan;
+    * l. peluang dan tantangan investasi; dan
+    * m. pendidikan, pelatihan, penyuluhan, dan pendampingan.
+
+### Pasal 87C
+
+Hasil Penyelidikan dan Penelitian sebagaimana dimaksud dalam Pasal 87 wajib disampaikan kepada Menteri.
+
+### Pasal 87D
+
+1. Pusat data dan informasi Pertambangan sebagaimana dimaksud dalam Pasal 87B ayat (1) wajib menyajikan informasi Pertambangan secara akurat, mutakhir, dan dapat diakses dengan mudah dan cepat oleh pemegang Perizinan Berusaha dan masyarakat.
+2. Jenis data dan informasi Pertambangan yang dapat diakses sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan di bidang keterbukaan informasi publik.
+
+</br>
+
+66. Ketentuan Pasal 89 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 89
+
+Ketentuan lebih lanjut mengenai tata cara penugasan Penyelidikan dan Penelitian sebagaimana dimaksud dalam Pasal 87, data dan informasi sebagaimana dimaksud dalam Pasal 87A, pengelolaan data dan informasi sebagaimana dimaksud dalam Pasal 87B, jenis data yang dapat diakses atau tidak dapat diakses sebagaimana dimaksud dalam Pasal 87D ayat (2), dan pengelolaan data sebagaimana dimaksud dalam Pasal 88 diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+67. Ketentuan Pasal 91 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 91
+
+1. Pemegang IUP dan IUPK wajib menggunakan jalan Pertambangan dalam pelaksanaan kegiatan Usaha Pertambangan.
+2. Jalan Pertambangan sebagaimana dimaksud pada ayat (1) dapat dibangun sendiri oleh pemegang IUP dan IUPK atau bekerjasama dengan:
+    * a. pemegang IUP atau IUPK lain yang membangun jalan Pertambangan; atau
+    * b. pihak lain yang memiliki jalan yang dapat diperuntukkan sebagai jalan Pertambangan, setelah memenuhi aspek keselamatan Pertambangan.
+3. Dalam hal jalan Pertambangan sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak tersedia, pemegang IUP dan IUPK dapat memanfaatkan sarana dan prasarana umum termasuk jalan umum untuk keperluan Pertambangan setelah memenuhi ketentuan peraturan perundangundangan.
+4. Pemegang IUP dan IUPK dapat memberikan akses kepada masyarakat untuk menggunakan jalan Pertambangan setelah mendapat persetujuan dari penanggung jawab aspek keselamatan Pertambangan pada IUP dan IUPK.
+5. Ketentuan lebih lanjut mengenai pelaksanaan kewajiban penggunaan jalan Pertambangan diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+68. Ketentuan Pasal 92 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 92
+
+Pemegang IUP dan IUPK berhak memiliki Mineral, termasuk Mineral ikutannya, atau Batubara yang telah diproduksi setelah memenuhi iuran produksi, kecuali Mineral ikutan radioaktif.
+
+</br>
+
+69. Ketentuan Pasal 93 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 93
+
+1. Pemegang IUP dan IUPK dilarang memindahtangankan IUP dan IUPK kepada pihak lain tanpa persetujuan Menteri.
+2. Persetujuan sebagaimana dimaksud pada ayat (1) dapat diberikan setelah Pemegang IUP dan IUPK memenuhi persyaratan paling sedikit:
+    * a. telah selesai melakukan kegiatan Eksplorasi yang dibuktikan dengan ketersediaan data sumber daya dan cadangan; dan
+    * b. memenuhi persyaratan administratif, teknis, lingkungan, dan finansial.
+
+</br>
+
+70. Di antara Pasal 93 dan Pasal 94 disisipkan 3 (tiga) pasal, yakni Pasal 93A, Pasal 93B, dan Pasal 93C
+sehingga berbunyi sebagai berikut:
+
+### Pasal 93A
+
+1. Badan Usaha pemegang IUP atau IUPK dilarang mengalihkan kepemilikan saham tanpa persetujuan Menteri.
+2. Persetujuan sebagaimana dimaksud pada ayat (1) dapat diberikan setelah memenuhi persyaratan paling sedikit:
+    * a. telah selesai melakukan kegiatan Eksplorasi yang dibuktikan dengan ketersediaan data sumber daya dan cadangan; dan
+    * b. memenuhi persyaratan administratif, teknis, lingkungan, dan finansial.
+
+### Pasal 93B
+Ketentuan lebih lanjut mengenai tata cara pemindahtanganan IUP atau IUPK sebagaimana dimaksud dalam Pasal 93 serta pengalihan saham sebagaimana dimaksud dalam Pasal 93A diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+### Pasal 93C
+Pemegang IUP atau IUPK dilarang menjaminkan IUP atau IUPK, termasuk komoditas tambangnya, kepada pihak lain.
+
+</br>
+
+71.
 
 ---
 
