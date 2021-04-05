@@ -1359,8 +1359,6 @@ Setiap orang yang menampung, memanfaatkan, melakukan Pengolahan dan/atau Pemurni
 
 Setiap pemegang IUP, IUPK, IPR, atau SIPB yang memindahtangankan IUP, IUPK, IPR, atau SIPB sebagaimana dimaksud Pasal 70A, Pasal 86G huruf a, dan Pasal 93 ayat (1) dipidana dengan pindana penjara paling lama 2 (dua) tahun dan denda paling banyak Rp5.000.000.000,00 (lima miliar rupiah).
 
-</br>
-
 ### Pasal 161B
 1. Setiap orang yang IUP atau IUPK dicabut atau berakhir dan tidak melaksanakan:
     * a. Reklamasi dan/atau Pascatambang; dan/atau
@@ -1406,6 +1404,108 @@ Untuk meningkatkan investasi di bidang Pertambangan, Pemerintah Pusat dapat memb
 ### Pasal 169A
 
 1. KK dan PKP2B sebagaimana dimaksud dalam Pasal 169 diberikan jaminan perpanjangan menjadi IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian setelah memenuhi persyaratan dengan ketentuan:
+    * a. kontrak/perjanjian yang belum memperoleh perpanjangan dijamin mendapatkan 2 (dua) kali perpanjangan dalam bentuk IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian masing-masing untuk jangka waktu paling lama 10 (sepuluh) tahun sebagai kelanjutan operasi setelah berakhirnya KK atau PKP2B dengan mempertimbangkan upaya peningkatan penerimaan negara.
+    * b. kontrak/perjanjian yang telah memperoleh perpanjangan pertama dijamin untuk diberikan perpanjangan kedua dalam bentuk IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian untuk jangka waktu paling lama 10 (sepuluh) tahun sebagai kelanjutan operasi setelah berakhirnya perpanjangan pertama KK atau PKP2B dengan mempertimbangkan upaya peningkatan penerimaan negara.
+2. Upaya peningkatan penerimaan negara sebagaimana dimaksud pada ayat (1) huruf a dan huruf b dilakukan melalui:
+    * a. pengaturan kembali pengenaan penerimaan pajak dan penerimaan negara bukan pajak; dan/atau;
+    * b. luas wilayah IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian sesuai rencana pengembangan seluruh wilayah kontrak atau perjanjian yang disetujui Menteri.
+3. Dalam pelaksanaan perpanjangan IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian, seluruh barang yang diperoleh selama masa pelaksanaan PKP2B yang ditetapkan menjadi barang milik negara tetap dapat dimanfaatkan dalam kegiatan pengusahaan Pertambangan Batubara sesuai dengan ketentuan peraturan perundangundangan.
+4. Pemegang IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian sebagaimana dimaksud pada ayat (1) untuk komoditas tambang Batubara wajib melaksanakan kegiatan Pengembangan dan/atau Pemanfaatan Batubara di dalam negeri sesuai dengan ketentuan peraturan perundangundangan.
+5. Pemegang IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian untuk komoditas tambang Batubara yang telah melaksanakan kewajiban Pengembangan dan/atau Pemanfaatan Batubara secara terintegrasi di dalam negeri sesuai rencana pengembangan seluruh wilayah perjanjian yang disetujui Menteri diberikan perpanjangan selama 10 (sepuluh) tahun setiap kali perpanjangan setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
+
+### Pasal 169B
+
+1. Pada saat IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian sebagaimana dimaksud dalam Pasal 169A diberikan, wilayah rencana pengembangan seluruh wilayah yang disetujui Menteri menjadi WIUPK untuk tahap kegiatan Operasi Produksi.
+2. Untuk memperoleh IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian sebagaimana dimaksud pada ayat (1), pemegang KK dan PKP2B harus mengajukan permohonan kepada Menteri paling cepat dalam jangka waktu 5 (lima) tahun dan paling lambat dalam jangka waktu 1 (satu) tahun sebelum KK dan PKP2B berakhir.
+3. Menteri dalam memberikan IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian sebagaimana dimaksud pada ayat (1) dengan mempertimbangkan keberlanjutan operasi, optimalisasi potensi cadangan Mineral atau Batubara dalam rangka konservasi Mineral atau Batubara dari WIUPK untuk tahap kegiatan Operasi Produksi, serta kepentingan nasional.
+4. Menteri dapat menolak permohonan IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian sebagaimana dimaksud pada ayat (1), jika berdasarkan hasil evaluasi, pemegang KK dan PKP2B tidak menunjukkan kinerja pengusahaan Pertambangan yang baik.
+5. Pemegang KK dan PKP2B dalam mengajukan permohonan IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian dapat mengajukan permohonan wilayah di luar WIUPK untuk tahap kegiatan Operasi Produksi kepada Menteri untuk menunjang kegiatan Usaha Pertambangannya.
+
+### Pasal 169C
+
+Pada saat Undang-Undang ini mulai berlaku:
+* a. IUP, IUPK, IPR, IUP Operasi Produksi khusus untuk pengangkutan dan penjualan, IUP Operasi Produksi untuk penjualan, dan IUJP yang telah ada sebelum berlakunya Undang-Undang ini dinyatakan tetap berlaku sampai berakhirnya izin.
+* b. IUP, IUPK, IPR, IUP Operasi Produksi khusus untuk pengangkutan dan penjualan, IUP Operasi Produksi
+untuk penjualan, dan IUJP yang telah ada sebelum berlakunya Undang-Undang ini wajib memenuhi ketentuan terkait Perizinan Berusaha sesuai dengan ketentuan dalam Undang-Undang ini dalam jangka waktu 2 (dua) tahun sejak Undang-Undang ini berlaku.
+* c. gubernur wajib menyerahkan dokumen IUP Eksplorasi, IUP Operasi Produksi, IPR, IUP Operasi Produksi khusus untuk pengangkutan dan penjualan, IUP Operasi Produksi untuk penjualan, dan IUJP yang menjadi kewenangannya sebelum berlakunya Undang-Undang ini kepada Menteri dalam jangka waktu paling lambat 2 (dua) tahun sejak Undang-Undang ini berlaku untuk diperbarui oleh Menteri.
+* d. ketentuan yang tercantum dalam IUP dan IUPK sebagaimana dimaksud pada huruf a harus disesuaikan dengan ketentuan Undang-Undang ini dalam jangka waktu paling lambat 2 (dua) tahun sejak Undang-Undang ini berlaku.
+* e. IUP Operasi Produksi khusus untuk pengolahan dan pemurnian yang diterbitkan sebelum berlakunya Undang-Undang ini disesuaikan menjadi perizinan usaha industri yang diterbitkan berdasarkan peraturan perundang-undangan di bidang perindustrian dalam jangka waktu paling lambat 1 (satu) tahun sejak Undang-Undang ini berlaku.
+* f. Dalam hal belum terdapat pejabat pengawas Pertambangan sebagaimana dimaksud dalam Pasal 141 ayat (4), pengawasan atas kegiatan Usaha Pertambangan yang dilakukan oleh pemegang IUP, IUPK, IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian, IPR, atau SIPB dilakukan oleh pejabat yang ditunjuk oleh Menteri.
+* g. seluruh kewenangan Pemerintah Daerah dalam Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 4959) dan Undang-Undang lain yang mengatur tentang kewenangan Pemerintah Daerah di bidang Pertambangan Mineral dan Batubara wajib dimaknai sebagai kewenangan Pemerintah Pusat kecuali ditentukan lain dalam Undang-Undang ini.
+
+</br>
+
+120. Di antara Pasal 170 dan Pasal 171 disisipkan 1 ( satu) pasal, yakni Pasal 170A sehingga berbunyi sebagai berikut:
+
+### Pasal 170A
+
+1. Pemegang KK, IUP Operasi Produksi, atau IUPK Operasi Produksi Mineral logam yang:
+    * a. telah melakukan kegiatan Pengolahan dan Pemurnian;
+    * b. dalam proses pembangunan fasilitas Pengolahan dan/atau Pemurnian; dan/atau
+    * c. telah melakukan kerjasama Pengolahan dan/atau Pemurnian dengan pemegang IUP Operasi Produksi, IUPK Operasi Produksi lainnya, atau IUP Operasi Produksi khusus untuk Pengolahan dan Pemurnian atau pihak lain yang melakukan kegiatan Pengolahan dan/atau Pemurnian, dapat melakukan Penjualan produk Mineral logam tertentu yang belum dimurnikan dalam jumlah tertentu ke luar negeri dalam jangka waktu paling lama 3 (tiga) tahun sejak Undang-Undang ini mulai berlaku.
+2. Pemegang KK, IUP Operasi Produksi, atau IUPK Operasi Produksi Mineral logam yang melakukan Penjualan produk Mineral logam tertentu ke luar negeri sebagaimana dimaksud pada ayat (1) wajib membayar bea keluar sesuai dengan ketentuan peraturan perundang-undangan.
+3. Ketentuan lebih lanjut mengenai Penjualan produk Mineral logam tertentu yang belum dimurnikan dalam jumlah tertentu ke luar negeri sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Menteri.
+
+</br>
+
+121. Di antara Pasal 171 dan Pasal 172 disisipkan 1 ( satu) pasal, yakni Pasal 171A sehingga berbunyi sebagai berikut:
+
+### Pasal 171A
+
+Wilayah eks KK atau PKP2B dapat ditetapkan menjadi WUPK atau WPN sesuai hasil evaluasi Menteri.
+
+</br>
+
+122. Di antara Pasal 172 dan Pasal 173 disisipkan 5 (lima) pasal, yakni Pasal 172A, Pasal 172B, Pasal 172C, Pasal 172D, dan Pasal 172E sehingga berbunyi sebagai berikut:
+
+### Pasal 172A
+
+Ketentuan terkait hak, kewajiban, dan larangan bagi pemegang IUPK pada tahap kegiatan Operasi Produksi sebagaimana diatur dalam Undang-Undang ini berlaku secara mutatis mutandis terhadap IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian kecuali yang ditentukan lain dalam Undang-Undang ini.
+
+### Pasal 172B
+
+1. WIUP, WIUPK, atau WPR yang telah diberikan izinnya dalam bentuk IUP, IUPK, atau IPR wajib didelineasi sesuai dengan pemanfaatan ruang dan kawasan untuk kegiatan Usaha Pertambangan sesuai dengan ketentuan peraturan perundangundangan.
+2. Pemerintah Pusat dan Pemerintah Daerah menjamin tidak ada perubahan pemanfaatan ruang dan kawasan sebagaimana dimaksud pada ayat (1) pada WIUP, WIUPK, atau WPR yang telah diberikan izinnya.
+
+### Pasal 172C
+
+Luas wilayah IUP Operasi Produksi hasil penyesuaian kuasa pertambangan yang diberikan kepada BUMN, berlaku sampai dengan berakhirnya jangka waktu IUP Operasi Produksi.
+
+### Pasal 172D
+
+Pemegang IUP atau IUPK yang melakukan peningkatan nilai tambah Mineral logam atau Batubara secara terintegrasi sebelum berlakunya Undang-Undang ini diberikan jangka waktu dan luas wilayah IUP atau IUPK sesuai dengan ketentuan Undang-Undang ini.
+
+### Pasal 172E
+
+Rencana pengelolaan Mineral dan Batubara nasional sebagaimana dimaksud dalam Pasal 8A wajib ditetapkan oleh Menteri dalam jangka waktu paling lambat 2 (dua) tahun sejak Undang-Undang ini mulai berlaku.
+
+</br>
+
+123. Di antara Pasal 173 dan Pasal 174 disisipkan 3 (tiga) pasal, yakni Pasal 173A, Pasal 173B, dan Pasal 173C sehingga berbunyi sebagai berikut:
+
+### Pasal 173A
+
+Ketentuan dalam Undang-Undang ini berlaku juga bagi Provinsi Daerah Istimewa Yogyakarta, Provinsi Daerah Khusus Ibukota Jakarta, Provinsi Aceh, Provinsi Papua Barat, dan Provinsi Papua sepanjang tidak diatur secara khusus dalam Undang-Undang yang mengatur keistimewaan dan kekhususan Daerah tersebut.
+
+### Pasal 173B
+
+Pada saat Undang-Undang ini mulai berlaku, ketentuan mengenai pembagian urusan pemerintahan konkuren antara Pemerintah Pusat dan Pemerintah Daerah provinsi dan Pemerintah Daerah kabupaten/kota pada Angka I Matriks Pembagian Urusan Pemerintahan Konkuren Antara Pemerintah Pusat dan Daerah provinsi dan Daerah Kabupaten/Kota huruf CC Pembagian Urusan Pemerintahan Bidang Energi dan Sumber Daya Mineral Nomor 2 Sub Urusan Mineral dan Batubara yang tertuang dalam Lampiran yang merupakan bagian tidak terpisahkan dari Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679), dicabut dan dinyatakan tidak berlaku.
+
+### Pasal 173C
+
+1. Pelaksanaan kewenangan pengelolaan Pertambangan Mineral dan Batubara oleh Pemerintah Daerah provinsi yang telah dilaksanakan berdasarkan Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 4959) dan Undang-Undang lain yang mengatur tentang kewenangan Pemerintah Daerah di bidang Pertambangan Mineral dan Batubara tetap berlaku untuk jangka waktu paling lama 6 (enam) bulan terhitung sejak Undang-Undang ini mulai berlaku atau sampai dengan diterbitkannya peraturan pelaksanaan Undang-Undang ini.
+2. Dalam jangka waktu pelaksanaan kewenangan pengelolaan Pertambangan Mineral dan Batubara sebagaimana dimaksud pada ayat (1) Menteri atau gubernur tidak dapat menerbitkan perizinan yang baru sebagaimana diatur dalam Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 4959) dan Undang-Undang lain yang mengatur tentang kewenangan Pemerintah Daerah di bidang Pertambangan Mineral dan Batubara.
+
+</br>
+
+124. Ketentuan Pasal 174 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 174
+Peraturan pelaksanaan Undang-Undang ini harus telah ditetapkan dalam waktu 1 (satu) tahun sejak Undang-Undang ini mulai berlaku.
+
+## Pasal II
+
+Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
 ---
 
