@@ -916,7 +916,121 @@ Pemegang IUP atau IUPK dilarang menjaminkan IUP atau IUPK, termasuk komoditas ta
 
 </br>
 
-71.
+71. Ketentuan Pasal 96 diubah sehingga Pasal 96 berbunyi sebagai berikut:
+
+### Pasal 96
+
+Dalam penerapan kaidah teknik Pertambangan yang baik, pemegang IUP atau IUPK wajib melaksanakan:
+    * a. ketentuan keselamatan Pertambangan;
+    * b. pengelolaan dan pemantauan lingkungan Pertambangan, termasuk kegiatan Reklamasi dan/atau Pascatambang;
+    * c. upaya konservasi Mineral dan Batubara; dan
+    * d. pengelolaan sisa tambang dari suatu kegiatan Usaha Pertambangan dalam bentuk padat, cair, atau gas sampai memenuhi standar baku mutu lingkungan sebelum dilepas ke media lingkungan.
+
+</br>
+
+72. Ketentuan Pasal 99 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 99
+
+1. Pemegang IUP atau IUPK wajib menyusun dan menyerahkan rencana Reklamasi dan/atau rencana Pascatambang.
+2. Pelaksanaan Reklamasi dan Pascatambang dilakukan sesuai dengan peruntukan lahan Pascatambang.
+3. Dalam pelaksanaan Reklamasi yang dilakukan sepanjang tahapan Usaha Pertambangan, pemegang IUP atau IUPK wajib:
+    * a. memenuhi keseimbangan antara lahan yang akan dibuka dan lahan yang sudah direklamasi; dan
+    * b. melakukan pengelolaan lubang bekas tambang akhir dengan batas paling luas sesuai dengan ketentuan peraturan perundang-undangan.
+4. Pemegang IUP atau IUPK wajib menyerahkan lahan yang telah dilakukan Reklamasi dan/atau Pascatambang kepada pihak yang berhak melalui Menteri sesuai dengan ketentuan peraturan perundang-undangan.
+
+73. Ketentuan Pasal 100 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 100
+
+1. Pemegang IUP atau IUPK wajib menyediakan dan menempatkan dana jaminan Reklamasi dan/atau dana jaminan Pascatambang.
+2. Menteri dapat menetapkan pihak ketiga untuk melakukan Reklamasi dan/atau Pascatambang dengan dana jaminan sebagaimana dimaksud pada ayat (1).
+3. Ketentuan sebagaimana dimaksud pada ayat (2) diberlakukan apabila pemegang IUP atau IUPK tidak melaksanakan Reklamasi dan/atau Pascatambang sesuai dengan rencana yang telah disetujui.
+
+</br>
+
+74. Ketentuan Pasal 101 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 101
+
+Ketentuan lebih lanjut mengenai kewajiban pengelolaan dan pemantauan lingkungan Pertambangan termasuk kegiatan Reklamasi dan/atau Pascatambang sebagaimana dimaksud dalam Pasal 96 huruf b, penyusunan dan penyerahan rencana Reklamasi dan/atau rencana Pascatambang sebagaimana dimaksud dalam Pasal 99, dan dana jaminan Reklamasi dan/atau dana jaminan Pascatambang sebagaimana dimaksud dalam Pasal 100 diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+75. Di antara Pasal 101 dan Pasal 102 disisipkan 1 (satu) pasal, yakni Pasal 101A sehingga berbunyi sebagai berikut:
+
+### Pasal 101A
+
+Pemegang IUP atau IUPK wajib memenuhi ketentuan penetapan jumlah produksi dan penjualan nasional.
+
+</br>
+
+76. Ketentuan Pasal 102 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 102
+1. Pemegang IUP atau IUPK pada tahap kegiatan Operasi Produksi wajib meningkatkan nilai tambah Mineral dalam kegiatan Usaha Pertambangan melalui:
+    * a. Pengolahan dan Pemurnian untuk komoditas tambang Mineral logam;
+    * b. Pengolahan untuk komoditas tambang Mineral bukan logam; dan/atau
+    * c. Pengolahan untuk komoditas tambang batuan.
+2. Pemegang IUP atau IUPK pada tahap kegiatan Operasi Produksi dapat melakukan Pengembangan dan/atau Pemanfaatan Batubara.
+3. Peningkatan nilai tambah Mineral melalui kegiatan Pengolahan dan/atau Pemurnian sebagaimana dimaksud pada ayat (1) wajib memenuhi batasan minimum Pengolahan dan/atau Pemurnian, dengan mempertimbangkan antara lain:
+    * a. peningkatan nilai ekonomi; dan/atau
+    * b. kebutuhan pasar.
+4. Ketentuan lebih lanjut mengenai batasan minimum Pengolahan dan/atau Pemurnian diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+77. Ketentuan Pasal 103 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 103
+
+1. Pemegang IUP atau IUPK pada tahap kegiatan Operasi Produksi Mineral sebagaimana dimaksud dalam Pasal 102 wajib melakukan Pengolahan dan/atau Pemurnian Mineral hasil Penambangan di dalam negeri.
+2. Dalam hal pemegang IUP atau IUPK pada tahap kegiatan Operasi Produksi telah melakukan Pengolahan dan/atau Pemurnian sebagaimana dimaksud pada ayat (1), Pemerintah menjamin keberlangsungan pemanfaatan hasil Pengolahan dan/atau Pemurnian.
+
+</br>
+
+78. Ketentuan Pasal 104 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 104
+
+1. Pemegang IUP atau IUPK pada tahap kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 103 dapat melakukan Pengolahan dan/atau Pemurnian sendiri secara terintegrasi atau bekerja sama dengan:
+    * a. pemegang IUP atau IUPK lain pada tahap kegiatan Operasi Produksi yang memiliki fasilitas Pengolahan dan/atau Pemurnian secara terintegrasi; atau
+    * b. pihak lain yang melakukan kegiatan usaha Pengolahan dan/atau Pemurnian yang tidak terintegrasi dengan kegiatan Penambangan yang perizinannya diterbitkan berdasarkan ketentuan peraturan perundang-undangan di bidang perindustrian.
+2. Pemegang IUP atau IUPK pada tahap kegiatan Operasi Produksi sebagaimana dimaksud dalam Pasal 103 dapat melakukan kerjasama Pengembangan dan/atau Pemanfaatan Batubara dengan pemegang IUP atau IUPK lain pada tahap kegiatan Operasi Produksi, atau pihak lain yang melakukan kegiatan Pengembangan dan/atau Pemanfaatan Batubara.
+
+</br>
+
+79. Di antara Pasal 104 dan Pasal 105 disisipkan 2 (dua) pasal, yakni Pasal 104A dan Pasal 104B sehingga berbunyi sebagai berikut:
+
+### Pasal 104A
+
+1. Dalam rangka Pengembangan dan/atau Pemanfaatan Batubara, Pemerintah dapat memberikan penugasan kepada lembaga riset negara, lembaga riset daerah, BUMN, badan usaha milik daerah, atau Badan Usaha swasta untuk melakukan Penyelidikan dan Penelitian dan/atau kegiatan pengembangan proyek pada wilayah penugasan.
+2. BUMN, badan usaha milik daerah, atau Badan Usaha swasta yang telah melakukan Penyelidikan dan Penelitian dan/atau kegiatan dalam rangka pengembangan proyek pada wilayah penugasan mendapatkan hak menyamai penawaran dalam lelang WIUP atau WIUPK Batubara.
+
+### Pasal 104B
+
+Ketentuan lebih lanjut mengenai peningkatan nilai tambah sebagaimana dimaksud dalam Pasal 102, Pengolahan dan/atau Pemurnian sebagaimana dimaksud dalam Pasal 103 dan Pasal 104, dan tata cara pemberian penugasan sebagaimana dimaksud dalam Pasal 104A, diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+80. Ketentuan Pasal 105 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 105
+
+1. Badan usaha yang tidak bergerak pada Usaha Pertambangan yang akan menjual Mineral dan/atau Batubara yang tergali wajib memiliki IUP untuk Penjualan.
+2. IUP untuk Penjualan sebagaimana dimaksud pada ayat (1) diberikan oleh Menteri untuk 1 (satu) kali Penjualan.
+3. Penjualan Mineral dan/atau Batubara yang tergali sebagaimana dimaksud pada ayat (1) dikenai iuran produksi atau pajak daerah sesuai dengan ketentuan peraturan perundang-undangan.
+4. Badan usaha sebagaimana dimaksud pada ayat (1) wajib menyampaikan laporan hasil Penjualan Mineral dan/atau Batubara yang tergali kepada Menteri.
+
+</br>
+
+81. Ketentuan Pasal 106 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 106
+
+Pemegang IUP dan IUPK wajib mengutamakan pemanfaatan tenaga kerja setempat, barang, dan jasa dalam negeri sesuai dengan ketentuan peraturan perundang-undangan.
+
+</br>
 
 ---
 
