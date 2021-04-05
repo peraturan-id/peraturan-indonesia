@@ -1365,6 +1365,7 @@ Setiap pemegang IUP, IUPK, IPR, atau SIPB yang memindahtangankan IUP, IUPK, IPR,
 1. Setiap orang yang IUP atau IUPK dicabut atau berakhir dan tidak melaksanakan:
     * a. Reklamasi dan/atau Pascatambang; dan/atau
     * b. penempatan dana jaminan Reklamasi dan/atau dana jaminan Pascatambang,
+
 dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp100.000.000.000,00 (seratus miliar rupiah).
 2. Selain sanksi pidana sebagaimana dimaksud pada ayat (1), eks pemegang IUP atau IUPK dapat dijatuhi pidana tambahan berupa pembayaran dana dalam rangka pelaksanaan kewajiban Reklamasi dan/atau Pascatambang yang menjadi kewajibannya.
 
