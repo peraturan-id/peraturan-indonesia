@@ -1327,6 +1327,8 @@ Ketentuan lebih lanjut mengenai jenis, besaran denda, tata cara, dan mekanisme p
 
 Setiap orang yang melakukan Penambangan tanpa izin sebagaimana dimaksud dalam Pasal 35 dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp100.000.000.000,00 (seratus miliar rupiah).
 
+</br>
+
 111. Ketentuan Pasal 159 diubah sehingga berbunyi sebagai berikut:
 
 ### Pasal 159
@@ -1335,7 +1337,73 @@ Pemegang IUP, IUPK, IPR, atau SIPB yang dengan sengaja menyampaikan laporan seba
 
 </br>
 
-112. 
+112. Ketentuan ayat (1) Pasal 160 dihapus sehingga Pasal 160 berbunyi sebagai berikut:
+
+### Pasal 160
+
+1. Dihapus.
+2. Setiap orang yang mempunyai IUP atau IUPK pada tahap kegiatan Eksplorasi tetapi melakukan kegiatan Operasi Produksi dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp100.000.000.000,00 (seratus miliar rupiah).
+
+</br>
+
+113. Ketentuan Pasal 161 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 161
+Setiap orang yang menampung, memanfaatkan, melakukan Pengolahan dan/atau Pemurnian, Pengembangan dan/atau Pemanfaatan, Pengangkutan, Penjualan Mineral dan/atau Batubara yang tidak berasal dari pemegang IUP, IUPK, IPR, SIPB atau izin sebagaimana dimaksud dalam Pasal 35 ayat (3) huruf c dan huruf g, Pasal 104, atau Pasal 105 dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp100.000.000.000,00 (seratus miliar rupiah).
+
+</br>
+
+114. Di antara Pasal 161 dan Pasal 162 disisipkan 2 (dua) pasal, yakni Pasal 161A dan Pasal 161B sehingga berbunyi sebagai berikut:
+
+### Pasal 161A
+
+Setiap pemegang IUP, IUPK, IPR, atau SIPB yang memindahtangankan IUP, IUPK, IPR, atau SIPB sebagaimana dimaksud Pasal 70A, Pasal 86G huruf a, dan Pasal 93 ayat (1) dipidana dengan pindana penjara paling lama 2 (dua) tahun dan denda paling banyak Rp5.000.000.000,00 (lima miliar rupiah).
+
+</br>
+
+### Pasal 161B
+1. Setiap orang yang IUP atau IUPK dicabut atau berakhir dan tidak melaksanakan:
+    * a. Reklamasi dan/atau Pascatambang; dan/atau
+    * b. penempatan dana jaminan Reklamasi dan/atau dana jaminan Pascatambang,
+dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp100.000.000.000,00 (seratus miliar rupiah).
+2. Selain sanksi pidana sebagaimana dimaksud pada ayat (1), eks pemegang IUP atau IUPK dapat dijatuhi pidana tambahan berupa pembayaran dana dalam rangka pelaksanaan kewajiban Reklamasi dan/atau Pascatambang yang menjadi kewajibannya.
+
+</br>
+
+115. Ketentuan Pasal 162 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 162
+
+Setiap orang yang merintangi atau mengganggu kegiatan Usaha Pertambangan dari pemegang IUP, IUPK, IPR, atau SIPB yang telah memenuhi syarat-syarat sebagaimana dimaksud dalam Pasal 136 ayat (2) dipidana dengan pidana kurungan paling lama 1 (satu) tahun atau denda paling banyak Rp100.000.000,00 (seratus juta rupiah).
+
+</br>
+
+116. Ketentuan Pasal 164 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 164
+
+Selain ketentuan sebagaimana dimaksud dalam Pasal 158, Pasal 159, Pasal 160, Pasal 161, Pasal 161A, Pasal 161B, dan Pasal 162 kepada pelaku tindak pidana dapat dikenai pidana tambahan berupa:
+    * a. perampasan barang yang digunakan dalam melakukan tindak pidana;
+    * b. perampasan keuntungan yang diperoleh dari tindak pidana; dan/atau
+    * c. kewajiban membayar biaya yang timbul akibat tindak pidana.
+
+</br>
+
+117. Ketentuan Pasal 165 dihapus.
+
+118. Ketentuan Pasal 168 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 168
+
+Untuk meningkatkan investasi di bidang Pertambangan, Pemerintah Pusat dapat memberikan keringanan dan fasilitas perpajakan sesuai dengan ketentuan peraturan perundang-undangan.
+
+</br>
+
+119. Di antara Pasal 169 dan Pasal 170 disisipkan 3 (tiga) pasal, yakni Pasal 169A, Pasal 169B, dan Pasal 169C sehingga berbunyi sebagai berikut:
+
+### Pasal 169A
+
+1. KK dan PKP2B sebagaimana dimaksud dalam Pasal 169 diberikan jaminan perpanjangan menjadi IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian setelah memenuhi persyaratan dengan ketentuan:
 
 ---
 
