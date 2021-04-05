@@ -1230,7 +1230,112 @@ Dalam hal IUP atau IUPK berakhir, eks pemegang IUP atau IUPK wajib menyerahkan s
 
 ### Pasal 137A
 
-1. 
+1. Pemerintah Pusat melakukan penyelesaian permasalahan hak atas tanah untuk kegiatan Usaha Pertambangan sebagaimana dimaksud dalam Pasal 134, Pasal 135, Pasal 136, dan Pasal 137.
+2. Ketentuan lebih lanjut mengenai penyelesaian hak atas tanah sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+</br>
+
+99. Ketentuan Pasal 139 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 139
+
+Menteri bertanggung jawab melakukan pembinaan atas pelaksanaan kegiatan Usaha Pertambangan yang dilakukan oleh pemegang IUP, IUPK, IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian, IPR, SIPB, Izin Pengangkutan dan Penjualan, atau IUJP.
+
+</br>
+
+100. Ketentuan Pasal 140 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 140
+
+Menteri melakukan pengawasan atas pelaksanaan kegiatan Usaha Pertambangan yang dilakukan oleh pemegang IUP, IUPK, IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian, IPR, SIPB, Izin Pengangkutan dan Penjualan, atau IUJP.
+
+</br>
+
+101. Ketentuan Pasal 141 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 141
+
+1. Pengawasan atas kegiatan Usaha Pertambangan yang dilakukan oleh pemegang IUP, IUPK, IUPK sebagai Kelanjutan Operasi Kontrak/Perjanjian, IPR, atau SIPB sebagaimana dimaksud dalam Pasal 140, antara lain:
+    * a. teknis Pertambangan;
+    * b. produksi dan pemasaran;
+    * c. keuangan;
+    * d. pengolahan data Mineral dan Batubara;
+    * e. konservasi sumber daya Mineral dan Batubara;
+    * f. keselamatan Pertambangan;
+    * g. pengelolaan lingkungan hidup, Reklamasi, dan Pascatambang;
+    * h. pemanfaatan barang, jasa, teknologi, dan kemampuan rekayasa dan rancang bangun dalam negeri;
+    * i. pengembangan tenaga kerja teknis Pertambangan;
+    * j. pengembangan dan pemberdayaan masyarakat setempat; dan
+    * k. penguasaan, pengembangan, dan penerapan teknologi Pertambangan.
+2. Pengawasan sebagaimana dimaksud pada ayat (1) huruf a, huruf e, huruf f, huruf g, dan huruf k dilakukan oleh inspektur tambang sesuai dengan ketentuan peraturan perundang-undangan.
+3. Tanggung jawab pengelolaan anggaran, sarana dan prasarana, serta operasional inspektur tambang sebagaimana dimaksud pada ayat (2) dibebankan kepada Menteri.
+4. Pengawasan sebagaimana dimaksud pada ayat (1) huruf b, huruf c, huruf d, huruf, h, huruf i, dan huruf j, dilakukan oleh pejabat pengawas Pertambangan sesuai dengan ketentuan peraturan perundang-undangan.
+5. Tanggung jawab pengelolaan anggaran, sarana dan prasarana, serta operasional pejabat pengawas pertambangan sebagaimana dimaksud pada ayat (4) dibebankan kepada Menteri.
+6. Pengawasan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (4) dilakukan secara berkala dan laporan hasil pengawasannya disampaikan kepada publik sesuai dengan ketentuan peraturan perundang-undangan.
+
+</br>
+
+102. Di antara Pasal 141 dan Pasal 142 disisipkan 1 (satu) pasal, yakni Pasal 141A sehingga berbunyi sebagai berikut:
+
+### Pasal 141A
+
+Ketentuan lebih lanjut mengenai pembinaan dan pengawasan atas pelaksanaan kegiatan Usaha Pertambangan sebagaimana dimaksud dalam Pasal 139 dan Pasal 140 diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+103. Ketentuan Pasal 142 dihapus.
+
+104. Ketentuan Pasal 143 dihapus.
+
+105. Ketentuan Pasal 145 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 145
+
+1. Masyarakat yang terkena dampak negatif langsung dari kegiatan Usaha Pertambangan berhak:
+    * a. memperoleh ganti rugi yang layak akibat kesalahan dalam pengusahaan kegiatan Pertambangan sesuai dengan ketentuan peraturan perundang-undangan; dan/atau
+    * b. mengajukan gugatan melalui pengadilan terhadap kerugian akibat pengusahaan Pertambangan yang menyalahi ketentuan.
+2. Ketentuan mengenai hak masyarakat yang terkena dampak negatif langsung dari kegiatan Usaha Pertambangan sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+
+</br>
+
+106. Ketentuan Pasal 151 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 151
+
+1. Menteri berhak memberikan sanksi administratif kepada pemegang IUP, IUPK, IPR, SIPB, atau IUP untuk Penjualan atas pelanggaran ketentuan sebagaimana dimaksud dalam Pasal 36A, Pasal 41, Pasal 52 ayat (4), Pasal 55 ayat (4), Pasal 58 ayat (4), Pasal 61 ayat (4), Pasal 70, Pasal 70A, Pasal 71 ayat (1), Pasal 74 ayat (4), Pasal 74 ayat (6), Pasal 86F, Pasal 86G huruf b, Pasal 91 ayat (1), Pasal 93A, Pasal 93C, Pasal 95, Pasal 96, Pasal 97, Pasal 98, Pasal 99 ayat (1), ayat (3), dan ayat (4), Pasal 100 ayat (1), Pasal 101A, Pasal 102 ayat (1), Pasal 103 ayat (1), Pasal 105 ayat (1) dan ayat (4), Pasal 106, Pasal 107, Pasal 108 ayat (1) dan ayat (2), Pasal 110, Pasal 111 ayat (1), Pasal 112 ayat (1), Pasal 112A ayat (1), Pasal 114 ayat (2), Pasal 115 ayat (2), Pasal 123, Pasal 123A ayat (1) dan ayat (2), Pasal 124 ayat (1), Pasal 125 ayat (3), Pasal 126 ayat (1), Pasal 128 ayat (1), Pasal 129 ayat (1), Pasal 130 ayat (2), atau Pasal 136 ayat (1).
+2. Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:
+    * a. peringatan tertulis;
+    * b. denda;
+    * c. penghentian sementara sebagian atau seluruh kegiatan Eksplorasi atau Operasi Produksi; dan/atau
+    * d. pencabutan IUP, IUPK, IPR, SIPB, atau IUP untuk Penjualan.
+
+</br>
+
+107. Ketentuan Pasal 152 dihapus.
+
+108. Ketentuan Pasal 156 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 156
+
+Ketentuan lebih lanjut mengenai jenis, besaran denda, tata cara, dan mekanisme pengenaan sanksi administratif sebagaimana dimaksud dalam Pasal 151 diatur dengan Peraturan Pemerintah.
+
+</br>
+
+109. Ketentuan Pasal 157 dihapus.
+
+110. Ketentuan Pasal 158 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 158
+
+Setiap orang yang melakukan Penambangan tanpa izin sebagaimana dimaksud dalam Pasal 35 dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp100.000.000.000,00 (seratus miliar rupiah).
+
+111. Ketentuan Pasal 159 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 159
+
+Pemegang IUP, IUPK, IPR, atau SIPB yang dengan sengaja menyampaikan laporan sebagaimana dimaksud dalam Pasal 70 huruf e, Pasal 105 ayat (4), Pasal 110, atau Pasal 111 ayat (1) dengan tidak benar atau menyampaikan keterangan palsu dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp100.000.000.000,00 (seratus miliar rupiah).
+
+</br>
+
+112. 
 
 ---
 
