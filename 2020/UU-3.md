@@ -1032,6 +1032,206 @@ Pemegang IUP dan IUPK wajib mengutamakan pemanfaatan tenaga kerja setempat, bara
 
 </br>
 
+82. Ketentuan Pasal 108 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 108
+
+1. Pemegang IUP dan IUPK wajib menyusun program pengembangan dan pemberdayaan masyarakat.
+2. Pemegang IUP dan IUPK wajib mengalokasikan dana untuk pelaksanaan program pengembangan dan pemberdayaan masyarakat yang besaran minimumnya ditetapkan oleh Menteri.
+3. Penyusunan program sebagaimana dimaksud pada ayat (1) dikonsultasikan kepada Menteri, Pemerintah Daerah, dan masyarakat.
+
+</br>
+
+83. Ketentuan Pasal 112 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 112
+
+1. Badan Usaha pemegang IUP atau IUPK pada tahap kegiatan Operasi Produksi yang sahamnya dimiliki oleh asing wajib melakukan divestasi saham sebesar 51% (lima puluh satu persen) secara berjenjang kepada Pemerintah Pusat, Pemerintah Daerah, BUMN, badan usaha milik daerah, dan/atau Badan Usaha swasta nasional.
+2. Pemerintah Pusat sebagaimana dimaksud pada ayat (1) melalui Menteri dapat secara bersamasama dengan Pemerintah Daerah provinsi, Pemerintah Daerah kabupaten/kota, BUMN, dan/atau badan usaha milik daerah mengkoordinasikan penentuan skema divestasi dan komposisi besaran saham divestasi yang akan dibeli.
+3. Dalam hal pelaksanaan divestasi saham secara berjenjang sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak dapat terlaksana, penawaran divestasi saham dilakukan melalui bursa saham Indonesia.
+4. Ketentuan lebih lanjut mengenai tata cara pelaksanaan dan jangka waktu divestasi saham diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+84. Di antara Pasal 112 dan Pasal 113 disisipkan 1 (satu) pasal, yakni Pasal 112A sehingga berbunyi sebagai berikut:
+
+### Pasal 112A
+
+1. Pemegang IUP atau IUPK pada tahap kegiatan Operasi Produksi wajib menyediakan dana ketahanan cadangan Mineral dan Batubara.
+2. Dana ketahanan cadangan Mineral dan Batubara sebagaimana dimaksud pada ayat (1) digunakan untuk kegiatan penemuan cadangan baru.
+3. Ketentuan lebih lanjut mengenai dana ketahanan cadangan Mineral dan Batubara diatur dengan Peraturan Pemerintah.
+
+</br>
+
+85. Ketentuan Pasal 113 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 113
+1. Suspensi kegiatan Usaha Pertambangan dapat diberikan kepada pemegang IUP dan IUPK jika terjadi:
+    * a. keadaan kahar;
+    * b. keadaan yang menghalangi sehingga menimbulkan penghentian sebagian atau seluruh kegiatan Usaha Pertambangan; dan/atau
+    * c. kondisi daya dukung lingkungan wilayah tersebut tidak dapat menanggung beban kegiatan Operasi Produksi sumber daya Mineral dan/atau Batubara yang dilakukan di wilayahnya.
+2. Suspensi kegiatan Usaha Pertambangan sebagaimana dimaksud pada ayat (1) tidak mengurangi masa berlaku IUP atau IUPK.
+3. Permohonan suspensi kegiatan Usaha Pertambangan sebagaimana dimaksud pada ayat (1) huruf a dan huruf b disampaikan kepada Menteri.
+4. Menteri wajib mengeluarkan keputusan tertulis tentang persetujuan atau penolakan permohonan sebagaimana dimaksud pada ayat (3) disertai dengan alasannya paling lama 30 (tiga puluh) hari sejak diterimanya permohonan.
+
+</br>
+
+86. Ketentuan Pasal 114 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 114
+
+1. Jangka waktu suspensi sebagaimana dimaksud dalam Pasal 113 ayat (1) ditetapkan sebagai berikut:
+    * a. diberikan paling lama 1 (satu) tahun dan dapat diberikan perpanjangan paling lama 1 (satu) tahun untuk setiap kali perpanjangan untuk keadaan kahar sebagaimana dimaksud dalam Pasal 113 ayat (1) huruf a dan/atau keadaan yang menghalangi sebagaimana dimaksud dalam Pasal 113 ayat (1) huruf b; dan
+    * b. diberikan paling lama 2 (dua) tahun untuk kondisi daya dukung lingkungan sebagaimana dimaksud dalam Pasal 113 ayat (1) huruf c.
+2. Apabila dalam jangka waktu suspensi sebagaimana dimaksud pada ayat (1) pemegang IUP atau IUPK sudah siap melakukan kegiatan operasinya, kegiatan dimaksud wajib dilaporkan kepada Menteri.
+3. Apabila sampai dengan jangka waktu suspensi berakhir karena kondisi daya dukung lingkungan pemegang IUP atau IUPK belum dapat melakukan kegiatan operasinya, pemegang IUP atau IUPK wajib mengembalikan IUP atau IUPK kepada Menteri dalam jangka waktu paling lambat 1 (satu) bulan sejak berakhirnya jangka waktu suspensi.
+4. Apabila dalam jangka waktu 1 (satu) bulan sejak berakhirnya jangka waktu suspensi, pemegang IUP atau IUPK tidak mengembalikan IUP atau IUPK, Menteri dapat mencabut IUP atau IUPK.
+5. Menteri mencabut keputusan suspensi setelah menerima laporan sebagaimana dimaksud pada ayat (2).
+
+</br>
+
+87. Ketentuan Pasal 118 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 118
+
+1. Pemegang IUP atau IUPK dapat mengembalikan IUP atau IUPK dengan pernyataan tertulis kepada Menteri disertai dengan alasan yang jelas.
+2. Pengembalian IUP atau IUPK sebagaimana dimaksud pada ayat (1) dinyatakan sah setelah pemegang IUP atau IUPK memenuhi kewajibannya dan disetujui oleh Menteri.
+
+</br>
+
+88. Ketentuan Pasal 119 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 119
+
+IUP atau IUPK dapat dicabut oleh Menteri jika:
+* a. pemegang IUP atau IUPK tidak memenuhi kewajiban yang ditetapkan dalam IUP atau IUPK serta ketentuan peraturan perundang-undangan;
+* b. pemegang IUP atau IUPK melakukan tindak pidana sebagaimana dimaksud dalam UndangUndang ini; atau
+* c. pemegang IUP atau IUPK dinyatakan pailit.
+
+</br>
+
+89. Ketentuan Pasal 121 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 121
+
+1. Dalam hal IUP atau IUPK berakhir sebagaimana dimaksud dalam Pasal 117, Pasal 118, Pasal 119, dan Pasal 120, eks pemegang IUP atau IUPK wajib memenuhi dan menyelesaikan kewajiban sesuai dengan ketentuan peraturan perundangundangan.
+2. Pemegang IUP atau IUPK yang telah memenuhi dan menyelesaikan kewajiban sebagaimana dimaksud pada ayat (1) mendapat surat keterangan dari Menteri.
+
+</br>
+
+90. Ketentuan Pasal 122 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 122
+1. IUP atau IUPK yang telah berakhir sebagaimana dimaksud dalam Pasal 121 ayat (1) dikembalikan kepada Menteri.
+2. WIUP atau WIUPK yang IUP atau IUPK berakhir sebagaimana dimaksud pada ayat (1) ditawarkan kepada BUMN, badan usaha milik daerah, Badan Usaha swasta, koperasi, atau perusahaan perseorangan melalui mekanisme sesuai dengan ketentuan dalam Undang-Undang ini.
+
+</br>
+
+91. Ketentuan Pasal 123 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 123
+
+Dalam hal IUP atau IUPK berakhir, eks pemegang IUP atau IUPK wajib menyerahkan seluruh data yang diperoleh dari hasil kegiatan Eksplorasi dan Operasi Produksi kepada Menteri.
+
+</br>
+
+92. Di antara Pasal 123 dan Pasal 124 disisipkan 2 (dua) pasal, yakni Pasal 123A dan Pasal 123B sehingga berbunyi sebagai berikut:
+
+### Pasal 123A
+
+1. Pemegang IUP atau IUPK pada tahap kegiatan Operasi Produksi sebelum menciutkan atau mengembalikan WIUP atau WIUPK wajib melaksanakan Reklamasi dan Pascatambang hingga mencapai tingkat keberhasilan 100% (seratus persen).
+2. Eks pemegang IUP atau IUPK yang IUP atau IUPK berakhir sebagaimana dimaksud dalam Pasal 121 ayat (1) wajib melaksanakan Reklamasi dan Pascatambang hingga mencapai tingkat keberhasilan 100% (seratus persen) serta menempatkan dana jaminan Reklamasi dan/atau dana jaminan Pascatambang.
+3. Dalam hal WIUP atau WIUPK sebagaimana dimaksud pada ayat (1) memenuhi kriteria untuk diusahakan kembali, dana jaminan Reklamasi dan/atau dana jaminan Pascatambang yang telah ditempatkan ditetapkan menjadi milik Pemerintah Pusat sesuai dengan ketentuan peraturan perundang-undangan.
+4. Ketentuan lebih lanjut mengenai pelaksanaan Reklamasi dan Pascatambang serta penempatan dana jaminan Reklamasi dan/atau dana jaminan Pascatambang pada WIUP atau WIUPK yang memenuhi kriteria untuk diusahakan kembali sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+### Pasal 123B
+
+1. Mineral dan/atau Batubara yang diperoleh dari kegiatan Penambangan tanpa IUP, IUPK, IPR, atau SIPB ditetapkan sebagai benda sitaan dan/atau barang milik negara sesuai dengan ketentuan peraturan perundang-undangan.
+2. Mineral atau Batubara yang berada pada fasilitas penimbunan pemegang IUP, IUPK, IPR, atau SIPB yang telah berakhir jangka waktunya atau dicabut, dapat dilakukan Penjualan setelah memenuhi persyaratan yang ditetapkan sesuai dengan ketentuan peraturan perundang-undangan.
+3. Ketentuan lebih lanjut mengenai persyaratan Penjualan sebagaimana dimaksud pada ayat (2) diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+93. Ketentuan Pasal 124 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 124
+
+1. Pemegang IUP atau IUPK wajib menggunakan perusahaan Jasa Pertambangan lokal dan/atau nasional.
+2. Dalam hal tidak terdapat perusahaan Jasa Pertambangan sebagaimana dimaksud pada ayat (1), pemegang IUP atau IUPK dapat menggunakan perusahaan Jasa Pertambangan yang berbadan hukum Indonesia dalam rangka penanaman modal asing.
+3. Jenis usaha Jasa Pertambangan yaitu pelaksanaan di bidang:
+    * a. Penyelidikan Umum;
+    * b. Eksplorasi;
+    * c. Studi Kelayakan;
+    * d. Konstruksi Pertambangan;
+    * e. Pengangkutan;
+    * f. lingkungan Pertambangan;
+    * g. Reklamasi dan Pascatambang;
+    * h. keselamatan Pertambangan; dan/atau
+    * i. Penambangan.
+4. Ketentuan lebih lanjut mengenai penggunaan perusahaan Jasa Pertambangan lokal dan/atau nasional diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+94. Ketentuan ayat (2) Pasal 125 diubah sehingga Pasal 125 berbunyi sebagai berikut:
+
+### Pasal 125
+1. Dalam hal pemegang IUP atau IUPK menggunakan Jasa Pertambangan, tanggung jawab kegiatan Usaha Pertambangan tetap dibebankan kepada pemegang IUP atau IUPK.
+2. Kegiatan usaha Jasa Pertambangan dapat dilakukan oleh BUMN, badan usaha milik daerah, Badan Usaha swasta, koperasi, atau perusahaan perseorangan sesuai dengan klasifikasi dan kualifikasi yang ditetapkan oleh Menteri.
+3. Pelaku usaha Jasa Pertambangan wajib mengutamakan penggunaan kontraktor lokal dan tenaga kerja lokal.
+
+</br>
+
+95. Ketentuan Pasal 128 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 128
+
+1. Pemegang IUP, IUPK, IPR, atau SIPB wajib membayar pendapatan negara dan pendapatan daerah.
+2. Pendapatan negara sebagaimana dimaksud pada ayat (1) terdiri atas penerimaan pajak dan penerimaan negara bukan pajak.
+3. Penerimaan pajak sebagaimana dimaksud pada ayat (2) terdiri atas:
+    * a. pajak yang menjadi kewenangan Pemerintah Pusat sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan; dan
+    * b. bea dan cukai sesuai dengan ketentuan peraturan perundang-undangan di bidang kepabeanan dan cukai.
+4. Penerimaan negara bukan pajak sebagaimana dimaksud pada ayat (2) terdiri atas:
+    * a. iuran tetap;
+    * b. iuran produksi;
+    * c. kompensasi data informasi; dan
+    * d. penerimaan negara bukan pajak lain yang sah berdasarkan ketentuan peraturan perundang-undangan.
+5. Pendapatan daerah sebagaimana dimaksud pada ayat (1) terdiri atas:
+    * a. pajak daerah;
+    * b. retribusi daerah;
+    * c. iuran pertambangan rakyat; dan
+    * d. lain-lain pendapatan daerah yang sah berdasarkan ketentuan peraturan perundangundangan.
+6. Iuran pertambangan rakyat sebagaimana dimaksud pada ayat (5) huruf c menjadi bagian dari struktur pendapatan daerah berupa pajak dan/atau retribusi daerah yang penggunaannya untuk pengelolaan tambang rakyat sesuai dengan ketentuan peraturan perundang-undangan.
+
+</br>
+
+96. Ketentuan Pasal 129 diubah sehingga Pasal 129 berbunyi sebagai berikut:
+
+### Pasal 129
+
+1. Pemegang IUPK pada tahap kegiatan Operasi Produksi untuk Pertambangan Mineral logam dan Batubara wajib membayar sebesar 4% (empat persen) kepada Pemerintah Pusat dan 6% (enam persen) kepada Pemerintah Daerah dari keuntungan bersih sejak berproduksi.
+2. Bagian Pemerintah Daerah sebagaimana dimaksud pada ayat (1) diatur sebagai berikut:
+    * a. Pemerintah Daerah provinsi mendapat bagian sebesar 1,5% (satu koma lima persen);
+    * b. Pemerintah Daerah kabupaten/kota penghasil mendapat bagian sebesar 2,5% (dua koma lima persen); dan
+    * c. Pemerintah Daerah kabupaten/kota lainnya dalam provinsi yang sama mendapat bagian sebesar 2% (dua persen).
+3. Ketentuan lebih lanjut mengenai penghitungan, pelaporan, dan pembayaran bagian Pemerintah Pusat dan Pemerintah Daerah diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+</br>
+
+97. Ketentuan Pasal 133 diubah sehingga berbunyi sebagai berikut:
+
+### Pasal 133
+
+1. Penerimaan negara bukan pajak sebagaimana dimaksud dalam Pasal 128 ayat (4) merupakan pendapatan negara dan daerah yang pembagiannya berdasarkan prinsip keadilan dan memperhatikan dampak kegiatan Pertambangan bagi daerah.
+2. Penerimaan negara bukan pajak yang merupakan bagian daerah disetor ke kas daerah setelah disetor ke kas negara sesuai dengan ketentuan peraturan perundang-undangan.
+
+</br>
+
+98. Di antara Pasal 137 dan Pasal 138 disisipkan 1 (satu) pasal, yakni Pasal 137A sehingga berbunyi sebagai berikut:
+
+### Pasal 137A
+
+1. 
+
 ---
 
 Tambahan Lembaran Negara Republik Indonesia
