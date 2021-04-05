@@ -1507,16 +1507,42 @@ Peraturan pelaksanaan Undang-Undang ini harus telah ditetapkan dalam waktu 1 (sa
 
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
+</br>
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+</br>
+
+Disahkan di Jakarta </br>
+pada tanggal 10 Juni 2020
+
+Presiden Republik Indonesia </br>
+ttd </br>
+Joko Widodo
+
+</br>
+
+Diundangkan di Jakarta </br>
+pada tanggal 10 Juni 2020 </br>
+
+Menteri Hukum dan Hak Asasi Manusia Republik Indonesia, </br>
+ttd </br>
+Yasonna H. Laoly
+
 ---
 
 Tambahan Lembaran Negara Republik Indonesia
 
-Nomor
+Nomor 6525
 
 Pertambangan. </br>
-Mineral dan Batubara. Perubahan. 
+Mineral dan Batubara. Perubahan. (Penjelasan atas Lembaran Negara Republik Indonesia Tahun 2020 Nomor 147)
 
-# Penjelasan atas Undang-Undang
+# Penjelasan atas Undang-Undang Republik Indonesia Nomor 3 Tahun 2020 tentang Perubahan Atas Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara
+
+## I. Umum
+
+Mineral dan Batubara sebagai salah satu kekayaan alam yang terkandung di dalam bumi merupakan sumber daya alam yang tidak terbarukan, sesuai dengan ketentuan Pasal 33 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dikuasai oleh negara dan digunakan untuk sebesar-besarnya kemakmuran rakyat. Negara melalui Pemerintah Pusat bertanggung jawab atas penggunaan Mineral dan Batubara yang ada di wilayah Hukum Negara Kesatuan Republik Indonesia melalui pengelolaan dan pemanfaatan Mineral dan Batubara secara optimal, efektif, dan efisien sehingga dapat mendorong dan mendukung perkembangan serta kemandirian pembangunan industri nasional berbasis sumber daya Mineral dan/atau energi Batubara.
 
 ---
 
