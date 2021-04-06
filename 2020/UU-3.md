@@ -909,9 +909,11 @@ sehingga berbunyi sebagai berikut:
     * b. memenuhi persyaratan administratif, teknis, lingkungan, dan finansial.
 
 ### Pasal 93B
+
 Ketentuan lebih lanjut mengenai tata cara pemindahtanganan IUP atau IUPK sebagaimana dimaksud dalam Pasal 93 serta pengalihan saham sebagaimana dimaksud dalam Pasal 93A diatur dengan atau berdasarkan Peraturan Pemerintah.
 
 ### Pasal 93C
+
 Pemegang IUP atau IUPK dilarang menjaminkan IUP atau IUPK, termasuk komoditas tambangnya, kepada pihak lain.
 
 </br>
@@ -921,10 +923,10 @@ Pemegang IUP atau IUPK dilarang menjaminkan IUP atau IUPK, termasuk komoditas ta
 ### Pasal 96
 
 Dalam penerapan kaidah teknik Pertambangan yang baik, pemegang IUP atau IUPK wajib melaksanakan:
-    * a. ketentuan keselamatan Pertambangan;
-    * b. pengelolaan dan pemantauan lingkungan Pertambangan, termasuk kegiatan Reklamasi dan/atau Pascatambang;
-    * c. upaya konservasi Mineral dan Batubara; dan
-    * d. pengelolaan sisa tambang dari suatu kegiatan Usaha Pertambangan dalam bentuk padat, cair, atau gas sampai memenuhi standar baku mutu lingkungan sebelum dilepas ke media lingkungan.
+* a. ketentuan keselamatan Pertambangan;
+* b. pengelolaan dan pemantauan lingkungan Pertambangan, termasuk kegiatan Reklamasi dan/atau Pascatambang;
+* c. upaya konservasi Mineral dan Batubara; dan
+* d. pengelolaan sisa tambang dari suatu kegiatan Usaha Pertambangan dalam bentuk padat, cair, atau gas sampai memenuhi standar baku mutu lingkungan sebelum dilepas ke media lingkungan.
 
 </br>
 
@@ -1830,6 +1832,59 @@ Cukup jelas.
 
 > Huruf d
 >> Cukup jelas.
+
+#### Angka 24
+
+##### Pasal 28
+
+Cukup jelas.
+
+#### Angka 25
+
+##### Pasal 31A
+
+Cukup jelas.
+
+#### Angka 26
+
+##### Pasal 35
+
+> Ayat (1)
+>> Cukup jelas.
+
+> Ayat (2)
+>> Cukup jelas.
+
+> Ayat (3)
+>> Huruf a
+>>> Cukup jelas 
+
+>> Huruf b
+>>> Cukup jelas.
+
+>> Huruf c
+>>> Cukup jelas.
+
+>> Huruf d
+>>> Cukup jelas.
+
+>> Huruf e
+>>> Cukup jelas.
+
+>> Huruf f
+>>> Yang dimaksud dengan “izin penugasan” adalah izin dalam rangka pengusahaan Mineral radioaktif sesuai dengan ketentuan peraturan perundang-undangan di bidang ketenaganukliran.
+
+>> Huruf g
+>>> Cukup jelas.
+
+>> Huruf h
+>>> Cukup jelas.
+
+>> Huruf i
+>>> Cukup jelas.
+
+> Ayat (4)
+>> Pendelegasian kewenangan Perizinan Berusaha oleh Pemerintah Pusat kepada Pemerintah Daerah provinsi didasarkan pada prinsip efektivitas, efisiensi, akuntabilitas, dan eksternalitas dalam penyelenggaraan urusan Pemerintahan, antara lain dalam pemberian IPR dan SIPB.
 
 ---
 
