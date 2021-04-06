@@ -1538,11 +1538,54 @@ Nomor 6525
 Pertambangan. </br>
 Mineral dan Batubara. Perubahan. (Penjelasan atas Lembaran Negara Republik Indonesia Tahun 2020 Nomor 147)
 
-# Penjelasan atas Undang-Undang Republik Indonesia Nomor 3 Tahun 2020 tentang Perubahan Atas Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara
+# Penjelasan
+atas Undang-Undang Republik Indonesia Nomor 3 Tahun 2020 tentang Perubahan Atas Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara
 
 ## I. Umum
 
 Mineral dan Batubara sebagai salah satu kekayaan alam yang terkandung di dalam bumi merupakan sumber daya alam yang tidak terbarukan, sesuai dengan ketentuan Pasal 33 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dikuasai oleh negara dan digunakan untuk sebesar-besarnya kemakmuran rakyat. Negara melalui Pemerintah Pusat bertanggung jawab atas penggunaan Mineral dan Batubara yang ada di wilayah Hukum Negara Kesatuan Republik Indonesia melalui pengelolaan dan pemanfaatan Mineral dan Batubara secara optimal, efektif, dan efisien sehingga dapat mendorong dan mendukung perkembangan serta kemandirian pembangunan industri nasional berbasis sumber daya Mineral dan/atau energi Batubara.
+
+Dalam perkembangannya, landasan hukum yang ada, yaitu Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara dan peraturan pelaksanaannya belum dapat menjawab permasalahan serta kondisi aktual dalam pelaksanaan pengusahaan Pertambangan Mineral dan Batubara, termasuk permasalahan lintas sektoral antara sektor Pertambangan dan sektor nonpertambangan. Berdasarkan hal tersebut, perlu dilakukan penyempurnaan terhadap Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara untuk memberikan kepastian hukum dalam kegiatan pengelolaan dan pengusahaan Pertambangan Mineral dan Batubara bagi pelaku usaha di bidang Mineral dan Batubara.
+
+Sebagai penyempurnaan terhadap Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara, terdapat materi muatan baru yang ditambahkan dalam Undang-Undang ini yaitu:
+1. pengaturan terkait konsep Wilayah Hukum Pertambangan;
+2. kewenangan pengelolaan Mineral dan Batubara;
+3. rencana pengelolaan Mineral dan Batubara;
+4. penugasan kepada lembaga riset negara, BUMN, badan usaha milik daerah, atau Badan Usaha untuk melakukan Penyelidikan dan Penelitian dalam rangka penyiapan WIUP.
+5. penguatan peran BUMN;
+6. pengaturan kembali perizinan dalam pengusahaan Mineral dan Batubara termasuk di dalamnya, konsep perizinan baru terkait pengusahaan batuan untuk jenis tertentu atau untuk keperluan tertentu, serta perizinan untuk pertambangan rakyat; dan
+7. penguatan kebijakan terkait pengelolaan lingkungan hidup pada kegiatan usaha Pertambangan, termasuk pelaksanaan Reklamasi dan Pascatambang.
+
+Dalam Undang-Undang ini juga dilakukan pengaturan kembali terkait kebijakan peningkatan nilai tambah Mineral dan Batubara, divestasi saham, pembinaan dan pengawasan, penggunaan lahan, data dan informasi, Pemberdayaan Masyarakat, dan kelanjutan operasi bagi pemegang KK atau PKP2B.
+
+## II. Pasal demi Pasal
+
+### Pasal I
+
+#### Angka 1
+
+##### Pasal 1
+
+Cukup jelas.
+
+### Angka 2
+
+#### Pasal 4
+
+Cukup jelas.
+
+#### Angka 3
+
+##### Pasal 5
+
+> Ayat (1)
+>> Cukup jelas.
+
+> Ayat (2)
+>> Yang dimaksud dengan “Mineral bukan logam jenis tertentu” adalah Mineral bukan logam yang bernilai tinggi dan tidak mudah didapatkan (antara lain intan dan batu mulia) atau Mineral bukan logam yang dibutuhkan untuk menjamin pasokan industri strategis (antara lain batu gamping, clay, dan pasir kuarsa untuk industri semen).
+
+> Ayat (3)
+>> Cukup jelas.
 
 ---
 
