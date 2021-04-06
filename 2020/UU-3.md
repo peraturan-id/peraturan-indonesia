@@ -1568,9 +1568,9 @@ Dalam Undang-Undang ini juga dilakukan pengaturan kembali terkait kebijakan peni
 
 Cukup jelas.
 
-### Angka 2
+#### Angka 2
 
-#### Pasal 4
+##### Pasal 4
 
 Cukup jelas.
 
@@ -1585,6 +1585,250 @@ Cukup jelas.
 >> Yang dimaksud dengan “Mineral bukan logam jenis tertentu” adalah Mineral bukan logam yang bernilai tinggi dan tidak mudah didapatkan (antara lain intan dan batu mulia) atau Mineral bukan logam yang dibutuhkan untuk menjamin pasokan industri strategis (antara lain batu gamping, clay, dan pasir kuarsa untuk industri semen).
 
 > Ayat (3)
+>> Cukup jelas.
+
+#### Angka 4
+
+##### Pasal 6
+
+> Ayat (1)
+>> Huruf a
+>>> Cukup jelas.
+
+>> Huruf b
+>>> Cukup jelas.
+
+>> Huruf c
+>>> Cukup jelas.
+
+>> Huruf d
+>>> Cukup jelas.
+
+>> Huruf e
+>>> Cukup jelas.
+
+>> Huruf f
+>>> Cukup jelas.
+
+>> Huruf g
+>>> Cukup jelas.
+
+>> Huruf h
+>>> Cukup jelas.
+
+>> Huruf i
+>>> Cukup jelas.
+
+>> Huruf j
+>>> Cukup jelas.
+
+>> Huruf k
+>>> Cukup jelas.
+
+>> Huruf l
+>>> Cukup jelas.
+
+>> Huruf m
+>>> Cukup jelas.
+
+>> Huruf n
+>>> Cukup jelas.
+
+>> Huruf o
+>>> Pengelolaan penerimaan negara bukan pajak mencakup perencanaan, pelaksanaan, pertanggungjawaban dan pengawasan berdasarkan ketentuan peraturan perundangundangan.
+>>> Penetapan penerimaan negara bukan pajak merupakan bagian dari pelaksanaan penerimaan negara bukan pajak berdasarkan ketentuan peraturan perundang-undangan.
+
+>> Huruf p
+>>> Cukup jelas.
+
+>> Huruf q
+>>> Cukup jelas.
+
+>> Huruf r
+>>> Cukup jelas.
+
+>> Huruf s
+>>> Cukup jelas.
+
+>> Huruf t
+>>> Cukup jelas.
+
+>> Huruf u
+>>> Cukup jelas.
+
+>> Huruf v
+>>> Cukup jelas.
+
+>> Huruf w
+>>> Cukup jelas.
+
+> Ayat (2)
+>> Cukup jelas.
+
+> Ayat (3)
+>> Cukup jelas.
+
+#### Angka 5
+
+##### Pasal 7
+
+Dihapus.
+
+#### Angka 6
+
+##### Pasal 8
+
+Dihapus.
+
+#### Angka 7
+
+##### BAB IV A
+
+Cukup jelas.
+
+#### Angka 8
+
+##### Pasal 8A
+
+Cukup jelas.
+
+#### Pasal 8B
+
+Cukup jelas.
+
+#### Angka 9
+
+##### Pasal 9
+
+Cukup jelas.
+
+#### Angka 10
+
+##### Pasal 10
+
+Cukup jelas.
+
+#### Angka 11
+
+##### Pasal 11
+
+Cukup jelas.
+
+#### Angka 12
+
+##### Pasal 13
+
+Dihapus.
+
+#### Angka 13
+
+##### Pasal 14
+
+Dihapus.
+
+#### Angka 14
+
+##### Pasal 14A
+
+Cukup jelas.
+
+#### Angka 15
+
+##### Pasal 15
+
+Dihapus.
+
+#### Angka 16
+
+##### Pasal 17
+
+Cukup jelas.
+
+#### Angka 17
+
+##### Pasal 17A
+
+Cukup jelas.
+
+##### Pasal 17B
+
+> Ayat (1)
+>> Pelaksanaan Penyelidikan dan Penelitian oleh lembaga riset negara yang mendapatkan penugasan dibiayai oleh Pemerintah Pusat.
+
+> Ayat (2)
+>> Cukup jelas.
+
+> Ayat (3)
+>> Cukup jelas.
+
+> Ayat (4)
+>> Cukup jelas.
+
+#### Angka 18
+
+##### Pasal 18
+
+> Ayat (1)
+>> Cukup jelas.
+
+> Ayat (2)
+>> Huruf a
+>>> Penyelidikan dan Penelitian yang dilakukan oleh Menteri termasuk Penyelidikan dan Penelitian yang dilakukan oleh lembaga riset negara, BUMN, badan usaha milik daerah, dan Badan Usaha berdasarkan penugasan.
+
+>> Huruf b
+>>> Cukup jelas.
+
+>> Huruf c
+>>> Cukup jelas.
+
+#### Angka 19
+
+##### Pasal 21
+
+Dihapus.
+
+#### Angka 20
+
+##### Pasal 22
+
+Cukup jelas.
+
+#### Angka 21
+
+##### Pasal 22A
+
+Cukup jelas.
+
+#### Angka 22
+
+##### Pasal 27
+
+> Ayat (1)
+>> Dihapus.
+
+> Ayat (2)
+>> Yang dimaksud dengan “sebagian atau seluruh luas wilayahnya” adalah untuk menentukan persentase besaran luas dan batas wilayah yang akan di usahakan pada suatu wilayah yang telah ditetapkan menjadi WPN. Wilayah yang didelineasi dan ditetapkan menjadi WPN merupakan wilayah yang memiliki cadangan atau sumber daya komoditas Mineral logam dan/atau Batubara dan berada di wilayah konservasi, lindung, atau wilayah lain yang tidak dapat diusahakan untuk Pertambangan, sehingga persetujuan Dewan Perwakilan Rakyat Republik Indonesia diperlukan sekaligus dalam rangka persetujuan perubahan fungsi kawasan atau peruntukan tata ruang. Prinsip pemilihan sebagian atau seluruh wilayah meliputi kaidah-kaidah daya dukung lingkungan, daya tampung kegiatan, konservasi sumber daya dan cadangan, dan kebutuhan negara yang mendesak.
+
+> Ayat (3)
+>> Dihapus.
+
+> Ayat (4)
+>> Cukup jelas.
+
+#### Angka 23
+
+##### Pasal 27A
+
+> Huruf a
+>> Mineral logam termasuk Mineral logam tanah jarang.
+
+> Huruf b
+>> Cukup jelas.
+
+> Huruf c
+>> Cukup jelas.
+
+> Huruf d
 >> Cukup jelas.
 
 ---
