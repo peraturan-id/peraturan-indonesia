@@ -2549,11 +2549,10 @@ Cukup jelas.
 
 Cukup jelas.
 
-#### Pasal 123B
+##### Pasal 123B
 
-##### Ayat (1)
-
-Cukup jelas.
+> Ayat (1)
+>> Cukup jelas.
 
 > Ayat (2)
 >> Yang dimaksud dengan “fasilitas penimbunan” adalah fasilitas untuk melakukan penimbunan Mineral dan/atau Batubara yang lazim disebut *stockpile*.
