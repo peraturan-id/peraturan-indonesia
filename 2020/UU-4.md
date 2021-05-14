@@ -67,6 +67,13 @@ Yasonna H. Laoly
 
 Tambahan Lembaran Negara Republik Indonesia
 
+Nomor 6543
+
+Pengesahan. <br>
+Pemerintah Republik Indonesia-Kabinet Menteri Ukraina. Kerjasama Bidang Pertahanan. <br>
+(Penjelasan atas Lembaran Negara Republik Indonesia Tahun 2020 Nomor 187)
+
+
 # Penjelasan
 atas <br>
 Undang-Undang Republik Indonesia Nomor 4 Tahun 2020 <br>
@@ -112,5 +119,5 @@ Cukup jelas.
 
 Sumber:
 * <https://peraturan.go.id/peraturan/view.html?id=50bf425e21f4eae14fa4cbac972593ba>
-* [LN 187](https://peraturan.go.id/common/dokumen/ln/2020/uu4-2020bt.pdf)
-* [TLN 6543](https://peraturan.go.id/common/dokumen/ln/2020/uu4-2020pjl.pdf)
+* LN 187 <https://peraturan.go.id/common/dokumen/ln/2020/uu4-2020bt.pdf>
+* TLN 6543 <https://peraturan.go.id/common/dokumen/ln/2020/uu4-2020pjl.pdf>
