@@ -1886,6 +1886,939 @@ Cukup jelas.
 > Ayat (4)
 >> Pendelegasian kewenangan Perizinan Berusaha oleh Pemerintah Pusat kepada Pemerintah Daerah provinsi didasarkan pada prinsip efektivitas, efisiensi, akuntabilitas, dan eksternalitas dalam penyelenggaraan urusan Pemerintahan, antara lain dalam pemberian IPR dan SIPB.
 
+#### Angka 27
+
+##### Pasal 36
+
+> Ayat (1)
+>> Huruf a
+>>> Cukup jelas.
+
+>> Huruf b
+>>> Kegiatan Kegiatan Pengolahan dan Pemurnian dilakukan terhadap Mineral logam. Kegiatan Pengolahan dilakukan terhadap Mineral bukan logam dan batuan.
+
+> Ayat (2)
+>> Cukup jelas.
+
+#### Angka 28
+
+##### Pasal 36A
+
+Yang dimaksud dengan “Eksplorasi lanjutan” adalah kegiatan untuk meningkatkan status keyakinan data dan informasi geologi berupa sumber daya dan/atau cadangan pada tahap Operasi Produksi.
+
+#### Angka 29
+
+#### Pasal 37
+
+Dihapus.
+
+#### Angka 30
+
+##### Pasal 38
+
+Cukup jelas.
+
+#### Angka 31
+
+#### Pasal 39
+
+> Huruf a
+>> Profil perusahaan paling sedikit terdiri atas nama, alamat, pemegang saham, direksi, komisaris, dan nomor pokok wajib pajak.
+
+> Huruf b
+>> Cukup jelas.
+
+> Huruf c
+>> Cukup jelas.
+
+> Huruf d
+>> Cukup jelas.
+
+> Huruf e
+>> Yang dimaksud dengan “modal kerja” adalah modal yang harus dimiliki pemegang IUP untuk melakukan kegiatan Eksplorasi.
+
+> Huruf f
+>> Cukup jelas.
+
+> Huruf g
+>> Cukup jelas.
+
+> Huruf h
+>> Cukup jelas.
+
+> Huruf i
+>> Cukup jelas.
+
+> Huruf j
+>> Cukup jelas.
+
+> Huruf k
+>> Cukup jelas.
+
+> Huruf l
+>> Yang dimaksud dengan “dokumen lingkungan” adalah dokumen yang disusun untuk melaksanakan tahap Operasi Produksi.
+
+> Huruf m
+>> Cukup jelas.
+
+#### Angka 32
+
+#### Pasal 40
+
+Cukup jelas.
+
+#### Angka 33
+#### Pasal 42
+
+> Huruf a
+>> Cukup jelas.
+
+> Huruf b
+>> Cukup jelas.
+
+> Huruf c
+>> Yang dimaksud dengan “Mineral bukan logam jenis tertentu” adalah Mineral bukan logam yang bernilai tinggi dan tidak mudah didapatkan (antara lain intan dan batu mulia) atau Mineral bukan logam yang dibutuhkan untuk menjamin pasokan industi strategis (antara lain batu gamping, clay, dan pasir kuarsa untuk industri semen).
+
+> Huruf d
+>> Cukup jelas.
+
+> Huruf e
+>> Cukup jelas.
+
+#### Angka 34
+
+##### Pasal 42A
+
+Cukup jelas.
+
+#### Angka 35
+
+##### Pasal 43
+
+Dihapus.
+
+#### Angka 36
+
+##### Pasal 44
+
+Dihapus.
+
+#### Angka 37
+
+##### Pasal 45
+
+Dihapus.
+
+#### Angka 38
+
+##### Pasal 46
+
+> Ayat (1)
+>> Jaminan diberikan setelah memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan.
+ 
+> Ayat (2)
+>> Cukup jelas.
+
+> Ayat (3)
+>> Cukup jelas.
+
+#### Angka 39
+
+##### Pasal 47
+
+Cukup jelas.
+
+#### Angka 40
+
+##### Pasal 48
+
+Dihapus.
+
+#### Angka 41
+
+##### Pasal 51
+
+Cukup jelas.
+
+#### Angka 42
+
+##### Pasal 52
+
+Cukup jelas.
+
+#### Angka 43
+
+##### Pasal 54
+
+Cukup jelas.
+
+#### Angka 44
+
+##### Pasal 55
+
+Cukup jelas.
+
+#### Angka 45
+
+##### Pasal 57
+
+Cukup jelas.
+
+#### Angka 46
+
+##### Pasal 58
+
+Cukup jelas.
+
+#### Angka 47
+
+##### Pasal 60
+
+Cukup jelas.
+
+#### Angka 48
+
+##### Pasal 61
+
+> Ayat (1)
+>> Cukup jelas.
+
+> Ayat (2)
+>> Apabila dalam WIUP terdapat komoditas tambang lain yang keterdapatannya berbeda secara vertikal maupun horizontal, pihak lain dapat mengusahakan komoditas tambang lain tersebut. Komoditas tambang lain dapat berupa Mineral logam, Mineral bukan logam, batuan, kecuali Mineral radioaktif.
+
+> Ayat (3)
+>> Cukup jelas.
+
+> Ayat (4)
+>> Cukup jelas.
+
+#### Angka 49
+
+##### Pasal 62A
+
+> Ayat (1)
+>> Yang dimaksud dengan “konservasi” adalah optimalisasi dan efisiensi cadangan.
+
+> Ayat (2)
+>> Cukup jelas.
+
+#### Angka 50
+
+##### Pasal 65
+
+Cukup jelas.
+
+#### Angka 51
+
+##### Pasal 66
+
+Cukup jelas.
+
+#### Angka 52
+
+##### Pasal 67
+
+Cukup jelas.
+
+#### Angka 53
+
+##### Pasal 68
+
+Cukup jelas.
+
+#### Angka 54
+
+##### Pasal 70
+
+Cukup jelas.
+
+#### Angka 55
+
+##### Pasal 70A
+
+Cukup jelas.
+
+#### Angka 56
+
+##### Pasal 72
+
+Cukup jelas.
+
+#### Angka 57
+
+##### Pasal 73
+
+Cukup jelas.
+
+#### Angka 58
+
+##### Pasal 75
+
+Cukup jelas.
+
+#### Angka 59
+
+##### Pasal 81
+
+Dihapus.
+
+#### Angka 60
+
+##### Pasal 82
+
+Dihapus.
+
+#### Angka 61
+
+##### Pasal 83
+
+> Huruf a
+>> Cukup jelas.
+
+> Huruf b
+>> Cukup jelas.
+
+> Huruf c
+>> Rencana pengembangan seluruh wilayah disusun berdasarkan hasil kegiatan Eksplorasi dan Studi Kelayakan.
+
+> Huruf d
+>> Cukup jelas.
+
+> Huruf e
+>> Cukup jelas.
+
+> Huruf f
+>> Cukup jelas.
+
+> Huruf g
+>> Cukup jelas.
+
+> Huruf h
+>> Cukup jelas.
+
+#### Angka 62
+
+##### Pasal 83A
+
+Cukup jelas.
+
+#### Pasal 83B
+
+> Ayat (1)
+>> Yang dimaksud dengan “konservasi” adalah optimalisasi dan efisiensi cadangan.
+
+> Ayat (2)
+>> Cukup jelas.
+
+#### Angka 63
+
+##### Bab XI A
+
+Cukup jelas.
+
+#### Angka 64
+
+##### Pasal 86A
+
+> Ayat (1)
+>> Yang dimaksud dengan “batuan jenis tertentu” adalah batuan yang digunakan untuk kebutuhan konstruksi.
+>> Yang dimaksud dengan “untuk keperluan tertentu” adalah keperluan untuk mendukung proyek pembangunan yang dibiayai oleh Pemerintah Pusat dan/atau Pemerintah Daerah.
+
+> Ayat (2)
+>> Cukup jelas.
+
+> Ayat (3)
+>> Cukup jelas.
+
+> Ayat (4)
+>> Cukup jelas.
+
+> Ayat (5)
+>> Cukup jelas.
+
+> Ayat (6)
+>> Cukup jelas.
+
+> Ayat (7)
+>> Cukup jelas.
+
+> Ayat (8)
+>> Cukup jelas.
+
+##### Pasal 86B
+
+Cukup jelas.
+
+##### Pasal 86C
+
+Cukup jelas.
+
+##### Pasal 86D
+
+Cukup jelas.
+
+##### Pasal 86E
+
+Cukup jelas.
+
+##### Pasal 86F
+
+> Huruf a
+>> Yang dimaksud dengan “kaidah Pertambangan yang baik” adalah pemenuhan keselamatan Pertambangan dan perlindungan lingkungan hidup.
+
+> Huruf b
+>> Cukup jelas.
+
+> Huruf c
+>> Cukup jelas.
+
+##### Pasal 86G
+
+Cukup jelas.
+
+##### Pasal 86H
+
+Cukup jelas.
+
+#### Angka 65
+
+##### Pasal 87A
+
+Cukup jelas.
+
+##### Pasal 87B
+
+Cukup jelas.
+
+##### Pasal 87C
+
+Cukup jelas.
+
+##### Pasal 87D
+
+Cukup jelas.
+
+#### Angka 66
+
+##### Pasal 89
+
+Cukup jelas.
+
+#### Angka 67
+
+##### Pasal 91
+
+> Ayat (1)
+>> Yang dimaksud dengan “jalan Pertambangan” adalah jalan khusus yang diperuntukkan untuk kegiatan Pertambangan dan berada di area Pertambangan atau area proyek yang terdiri atas jalan penunjang dan jalan tambang.
+
+> Ayat (2)
+>> Cukup jelas.
+
+> Ayat (3)
+>> Cukup jelas.
+
+> Ayat (4)
+>> Cukup jelas.
+
+> Ayat (5)
+>> Cukup jelas.
+
+#### Angka 68
+
+##### Pasal 92
+
+Cukup jelas.
+
+#### Angka 69
+
+##### Pasal 93
+
+Cukup jelas.
+
+#### Angka 70
+
+##### Pasal 93A
+
+> Ayat (1)
+>> Yang dimaksud dengan “saham” adalah saham yang tidak terdaftar di bursa saham Indonesia.
+
+> Ayat (2)
+>> Cukup jelas.
+
+##### Pasal 93B
+
+Cukup jelas.
+
+##### Pasal 93C
+
+Cukup jelas.
+
+#### Angka 71
+
+##### Pasal 96
+
+Cukup jelas.
+
+#### Angka 72
+
+##### Pasal 99
+
+Cukup jelas.
+
+#### Angka 73
+
+##### Pasal 100
+
+Cukup jelas.
+
+#### Angka 74
+
+##### Pasal 101
+
+Cukup jelas.
+
+#### Angka 75
+
+##### Pasal 101A
+
+Cukup jelas.
+
+#### Angka 76
+
+##### Pasal 102
+
+> Ayat (1)
+>> Cukup jelas.
+
+> Ayat (2)
+>> Pengembangan Batubara antara lain dapat berupa:
+>> * a. peningkatan mutu Batubara (*coal upgrading*);
+>> * b. pembuatan briket Batubara (*coal briquetting*);
+>> * c. pembuatan kokas (*coking*);
+>> * d. pencairan Batubara (*coal liquefaction*);
+>> * e. gasifikasi Batubara (*coal gasification*) termasuk *underground coal gasification*; dan
+>> * f. campuran Batubara-air (*coal slurry/coal water mixture*).
+
+>> Pemanfaatan Batubara antara lain dengan membangun sendiri Pembangkit Listrik Tenaga Uap (PLTU) di mulut tambang.
+
+> Ayat (3)
+>> Huruf a
+>>> Peningkatan nilai ekonomi adalah peningkatan nilai tambah atas produk mineral di dalam negeri yang mampu memberikan manfaat ekonomi secara optimal bagi negara, penyediaan rantai pasok (supply chain) Mineral dalam rangka penyediaan dan pengembangan industri dalam negeri dengan mempertimbangkan keunggulan komparatif sumber daya Mineral, dan kelanjutan operasi Pertambangan.
+
+>> Huruf b
+>>> Cukup jelas.
+
+> Ayat (4)
+>> Cukup jelas.
+
+#### Angka 77
+
+##### Pasal 103
+
+Cukup jelas.
+
+#### Angka 78
+
+##### Pasal 104
+
+> Ayat (1)
+>> Huruf a
+>>> Cukup jelas.
+
+> Huruf b
+>> Yang dimaksud dengan “pihak lain” adalah pihak yang mendapatkan perizinan untuk kegiatan Pengolahan dan/atau Pemurnian yang diterbitkan berdasarkan ketentuan peraturan perundang-undangan di bidang perindustrian.
+
+> Ayat (2)
+>> Yang dimaksud dengan “pihak lain” adalah pihak yang mendapatkan perizinan untuk kegiatan Pengembangan dan/atau Pemanfaatan Batubara yang diterbitkan berdasarkan ketentuan peraturan perundangundangan di bidang perindustrian.
+
+#### Angka 79
+
+##### Pasal 104A
+
+Cukup jelas.
+
+##### Pasal 104B
+
+Cukup jelas.
+
+#### Angka 80
+
+##### Pasal 105
+
+Cukup jelas.
+
+#### Angka 81
+
+##### Pasal 106
+
+Pemanfaatan tenaga kerja setempat dilakukan dengan tetap mempertimbangkan kompetensi dan keahlian tenaga kerja yang tersedia.
+
+Ketentuan ini dimaksudkan untuk mendukung dan menumbuhkembangkan kemampuan nasional agar lebih mampu bersaing.
+
+#### Angka 82
+
+##### Pasal 108
+
+Cukup jelas.
+
+#### Angka 83
+
+##### Pasal 112
+
+> Ayat (1)
+>> Yang dimaksud dengan “Badan Usaha swasta nasional” adalah badan usaha yang berbadan hukum Indonesia yang kepemilikan sahamnya 100% (seratus persen) dalam negeri.
+
+> Ayat (2)
+>> Cukup jelas.
+
+> Ayat (3)
+>> Cukup jelas.
+
+> Ayat (4)
+>> Cukup jelas.
+
+#### Angka 84
+
+##### Pasal 112A
+
+Cukup jelas.
+
+#### Angka 85
+
+##### Pasal 113
+
+> Ayat (1)
+>> Yang dimaksud dengan “suspensi” adalah pelaksanaan penundaan atau penangguhan kegiatan usaha Pertambangan untuk sementara waktu.
+>>> Huruf a
+>>>> Keadaan kahar antara lain perang, kerusuhan sipil, pemberontakan, epidemi, gempa bumi, banjir, kebakaran, dan bencana alam atau non-alam di luar kemampuan manusia.
+
+>>> Huruf b
+>>>> Keadaan yang menghalangi antara lain blokade, pemogokan, perselisihan perburuhan di luar kesalahan pemegang IUP atau IUPK, dan ketentuan peraturan perundang-undangan atau perizinan terkait yang diterbitkan oleh Pemerintah Pusat atau Pemerintah Daerah sehingga menyebabkan tidak dapat dilakukannya kegiatan usaha Pertambangan Mineral atau Batubara yang sedang berjalan.
+
+>>> Huruf c
+>>>> Yang dimaksud dengan “kondisi daya dukung lingkungan” adalah apabila kondisi daya dukung lingkungan wilayah tersebut tidak dapat menanggung beban kegiatan operasi produksi Mineral dan/atau Batubara yang dilakukan di wilayahnya pada kondisi saat ini.
+
+> Ayat (2)
+>> Cukup jelas.
+
+> Ayat (3)
+>> Cukup jelas.
+
+> Ayat (4)
+>> Cukup jelas.
+
+#### Angka 86
+
+##### Pasal 114
+
+Cukup jelas.
+
+#### Angka 87
+
+##### Pasal 118
+
+Cukup jelas.
+
+#### Angka 88
+
+##### Pasal 119
+
+Cukup jelas.
+
+#### Angka 89
+
+##### Pasal 121
+
+Cukup jelas.
+
+#### Angka 90
+
+##### Pasal 122
+
+Cukup jelas.
+
+#### Angka 91
+
+##### Pasal 123
+
+Cukup jelas.
+
+#### Angka 92
+
+##### Pasal 123A
+
+Cukup jelas.
+
+#### Pasal 123B
+
+##### Ayat (1)
+
+Cukup jelas.
+
+> Ayat (2)
+>> Yang dimaksud dengan “fasilitas penimbunan” adalah fasilitas untuk melakukan penimbunan Mineral dan/atau Batubara yang lazim disebut *stockpile*.
+
+> Ayat (3)
+>> Cukup jelas.
+
+#### Angka 93
+
+##### Pasal 124
+
+Cukup jelas.
+
+#### Angka 94
+
+##### Pasal 125
+
+Cukup jelas.
+
+#### Angka 95
+
+##### Pasal 128
+
+Cukup jelas.
+
+#### Angka 96
+
+##### Pasal 129
+
+Cukup jelas.
+
+#### Angka 97
+
+##### Pasal 133
+
+> Ayat (1)
+>> Yang dimaksud dengan “prinsip keadilan dan memperhatikan dampak kegiatan Pertambangan bagi daerah” adalah membagihasilkan penerimaan negara bukan pajak secara proporsional baik pada daerah penghasil, provinsi, dan daerah lainnya termasuk daerah terdampak sesuai dengan ketentuan peraturan perundang-undangan.
+
+> Ayat (2)
+>> Yang dimaksud dengan “ketentuan peraturan perundang-undangan” antara lain peraturan perundang-undangan di bidang penerimaan negara
+bukan pajak. 
+
+#### Angka 98
+
+##### Pasal 137A
+
+> Ayat (1)
+>> Penyelesaian permasalahan hak atas tanah dilakukan oleh Pemerintah Pusat melalui mediasi dalam hal tidak tercapainya kesepakatan antara Pemegang IUP atau IUPK dengan pemegang hak atas tanah.
+
+> Ayat (2)
+>> Cukup jelas.
+
+#### Angka 99
+
+##### Pasal 139
+
+Cukup jelas.
+
+#### Angka 100
+
+##### Pasal 140
+
+Cukup jelas.
+
+#### Angka 101
+
+##### Pasal 141
+
+Cukup jelas.
+
+#### Angka 102
+
+##### Pasal 141A
+
+Cukup jelas.
+
+#### Angka 103
+
+##### Pasal 142
+
+Dihapus.
+
+#### Angka 104
+
+##### Pasal 143
+
+Dihapus.
+
+#### Angka 105
+
+##### Pasal 145
+
+Cukup jelas.
+
+#### Angka 106
+
+##### Pasal 151
+
+Cukup jelas.
+
+#### Angka 107
+
+##### Pasal 152
+
+Dihapus.
+
+#### Angka 108
+
+##### Pasal 156
+
+Cukup jelas.
+
+#### Angka 109
+
+##### Pasal 157
+
+Dihapus.
+
+#### Angka 110
+
+##### Pasal 158
+
+Cukup jelas.
+
+#### Angka 111
+
+##### Pasal 159
+
+Cukup jelas.
+
+#### Angka 112
+
+##### Pasal 160
+
+> Ayat (1)
+>> Dihapus.
+
+> Ayat (2)
+>> Cukup jelas.
+
+#### Angka 113
+
+##### Pasal 161
+
+Cukup jelas.
+
+#### Angka 114
+
+##### Pasal 161A
+
+Cukup jelas.
+
+##### Pasal 161B
+
+Cukup jelas.
+
+#### Angka 115
+
+##### Pasal 162
+
+Cukup jelas.
+
+#### Angka 116
+
+##### Pasal 164
+
+Cukup jelas.
+
+#### Angka 117
+
+##### Pasal 165
+
+Dihapus.
+
+#### Angka 118
+
+##### Pasal 168
+
+Cukup jelas.
+
+#### Angka 119
+
+##### Pasal 169A
+
+> Ayat (1)
+>> Cukup jelas.
+
+> Ayat (2)
+>> Cukup jelas.
+
+> Ayat (3)
+>> Seluruh barang yang diperoleh selama masa pelaksanaan PKP2B yang ditetapkan menjadi barang milik negara akan dikenakan sewa berupa tarif pemanfaatan barang milik negara yang merupakan bagian dari peningkatan tarif penerimaan negara bukan pajak atas penjualan Batubara.
+
+> Ayat (4)
+>> Cukup jelas.
+
+> Ayat (5)
+>> Cukup jelas.
+
+##### Pasal 169B
+
+Cukup jelas.
+
+##### Pasal 169C
+
+Cukup jelas.
+
+#### Angka 120
+
+##### Pasal 170A
+
+Cukup jelas.
+
+#### Angka 121
+
+##### Pasal 171A
+
+Yang dimaksud dengan “wilayah eks” adalah wilayah hasil penciutan, pengembalian, terminasi, atau pengakhiran sepihak.
+
+#### Angka 122
+
+##### Pasal 172A
+
+Cukup jelas.
+
+##### Pasal 172B
+
+Cukup jelas.
+
+##### Pasal 172C
+
+Ketentuan Pasal ini tidak mengurangi hak untuk melakukan penciutan wilayah sesuai dengan ketentuan peraturan perundang-undangan.
+
+##### Pasal 172D
+
+Cukup jelas.
+
+##### Pasal 172E
+
+Cukup jelas.
+
+#### Angka 123
+
+##### Pasal 173A
+
+Cukup jelas.
+
+##### Pasal 173B
+
+Cukup jelas.
+
+##### Pasal 173C
+
+Cukup jelas.
+
+#### Angka 124
+
+##### Pasal 174
+
+Cukup jelas.
+
+### Pasal II
+
+Cukup jelas.
+
 ---
 
 Sumber:
