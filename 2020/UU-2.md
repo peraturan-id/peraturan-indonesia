@@ -90,8 +90,10 @@ Stabilitas Sistem Keuangan untuk Penanganan Pandemi *Corona Virus Disease 2019*.
 
 # Penjelasan <br>
 atas Undang-Undang Republik Indonesia Nomor 2 Tahun 2020 </br>
-tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 </br>
-tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi *Corona Virus Disease 2019* (COVID-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan menjadi Undang-Undang
+tentang </br>
+Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 </br>
+tentang </br>
+Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi *Corona Virus Disease 2019* (COVID-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan menjadi Undang-Undang
 
 ## I. Umum
 
