@@ -82,7 +82,8 @@ Persetujuan Kemitraan Ekonomi Komprehensif Indonesia-Australia. </br>
 # Penjelasan
 atas </br>
 Undang-Undang Republik Indonesia Nomor 1 Tahun 2020 </br>
-tentang Pengesahan Persetujuan Kemitraan Ekonomi Komprehensif Indonesia–Australia (*Indonesia–Australia Comprehensive Economic   Partnership Agreement*)
+tentang </br>
+Pengesahan Persetujuan Kemitraan Ekonomi Komprehensif Indonesia–Australia (*Indonesia–Australia Comprehensive Economic   Partnership Agreement*)
 
 ## I. Umum
 
