@@ -7,11 +7,7 @@ Penetapan Perpu.
 Stabilitas Sistem Keuangan untuk Penanganan Pandemi *Corona Virus Disease 2019*. </br>
 (Penjelasan dalam Tambahan Lembaran Negara Republik Indonesia Nomor 6516).
 
-# Undang-Undang Republik Indonesia Nomor 2 Tahun 2020 </br>
-tentang </br>
-Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 </br>
-tentang </br>
-Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi *Corona Virus Disease 2019* (COVID-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan menjadi Undang-Undang
+# Undang-Undang Republik Indonesia Nomor 2 Tahun 2020 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi *Corona Virus Disease 2019* (COVID-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan menjadi Undang-Undang
 
 Dengan rahmat Tuhan yang Maha Esa,
 
