@@ -1541,7 +1541,11 @@ Pertambangan. </br>
 Mineral dan Batubara. Perubahan. (Penjelasan atas Lembaran Negara Republik Indonesia Tahun 2020 Nomor 147)
 
 # Penjelasan
-atas Undang-Undang Republik Indonesia Nomor 3 Tahun 2020 tentang Perubahan Atas Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara
+atas Undang-Undang Republik Indonesia Nomor 3 Tahun 2020 </br>
+tentang </br>
+Perubahan Atas Undang-Undang Nomor 4 Tahun 2009 </br>
+tentang </br>
+Pertambangan Mineral dan Batubara
 
 ## I. Umum
 
