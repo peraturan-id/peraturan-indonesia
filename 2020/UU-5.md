@@ -6,9 +6,7 @@ Pengesahan. <br>
 Republik Indonesia-Konfederasi Swiss. Bantuan Hukum Timbal Balik. Pidana. <br>
 (Penjelasan dalam Tambahan Lembaran Negara Republik Indonesia Nomor 6544)
 
-# Undang-Undang Republik Indonesia Nomor 5 Tahun 2020
-tentang <br>
-Pengesahan Perjanjian tentang Bantuan Hukum Timbal Balik dalam Masalah Pidana antara Republik Indonesia dan Konfederasi Swiss (*Treaty on Mutual Legal Assistance in Criminal Matters between the Republic of Indonesia and the Swiss Confederation*)
+# Undang-Undang Republik Indonesia Nomor 5 Tahun 2020 tentang Pengesahan Perjanjian tentang Bantuan Hukum Timbal Balik dalam Masalah Pidana antara Republik Indonesia dan Konfederasi Swiss (*Treaty on Mutual Legal Assistance in Criminal Matters between the Republic of Indonesia and the Swiss Confederation*)
 
 Dengan rahmat Tuhan Yang Maha Esa
 
