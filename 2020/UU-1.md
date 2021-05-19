@@ -6,9 +6,7 @@ Pengesahan. </br>
 Persetujuan Kemitraan Ekonomi Komprehensif Indonesia-Ausralia. </br>
 (Penjelasan dalam Tambahan Lembaran Negara Republik Indonesia Nomor 6476).
 
-# Undang-Undang Republik Indonesia Nomor 1 Tahun 2020
-tentang </br>
-Pengesahan Persetujuan Kemitraan Ekonomi Komprehensif Indonesia-Australia (*Indonesia-Australia Comprehensive Economic Partnership Agreement*)
+# Undang-Undang Republik Indonesia Nomor 1 Tahun 2020 tentang Pengesahan Persetujuan Kemitraan Ekonomi Komprehensif Indonesia-Australia (*Indonesia-Australia Comprehensive Economic Partnership Agreement*)
 
 Dengan rahmat Tuhan Yang Maha Esa,
 
