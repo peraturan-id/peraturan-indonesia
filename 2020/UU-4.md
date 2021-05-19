@@ -6,9 +6,7 @@ Pengesahan. <br>
 Pemerintah Republik Indonesia-Kabinet Menteri Ukraina. Kerjasama Bidang Pertahanan. <br>
 (Penjelasan dalam Tambahan Lembaran Negara Republik Indonesia Nomor 6543)
 
-# Undang-Undang Republik Indonesia Nomor 4 Tahun 2020
-tentang <br>
-Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Kabinet Menteri Ukraina tentang Kerja Sama dalam Bidang Pertahanan (*Agreement between the Government of the Republic of Indonesia and the Cabinet of Ministers of Ukraine on Cooperation in the Field of Defence*)
+# Undang-Undang Republik Indonesia Nomor 4 Tahun 2020 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Kabinet Menteri Ukraina tentang Kerja Sama dalam Bidang Pertahanan (*Agreement between the Government of the Republic of Indonesia and the Cabinet of Ministers of Ukraine on Cooperation in the Field of Defence*)
 
 Dengan rahmat Tuhan Yang Maha Esa
 
