@@ -41,6 +41,8 @@ Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2020 tentang Perubaha
 
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
+<br>
+
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
 <br>
