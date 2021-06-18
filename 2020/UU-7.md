@@ -63,9 +63,46 @@ Beberapa ketentuan dalam Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Kons
     
 <br>
     
-2. 
+2. Ketentuan ayat(1) Pasal 7A diubah sehingga Pasal 7A berbunyi sebagai berikut:
+
+### Pasal 7A
+
+1. Kepaniteraan sebagaimana dimaksud dalam Pasal 7 merupakan jabatan fungsional yang menjalankan tugas teknis administratif peradilan Mahkamah Konstitusi dengan usia pensiun 62 (enam puluh dua) tahun bagi panitera, panitera muda, dan panitera pengganti.
+2. Tugas teknis administratif peradilan sebagaimana dimaksud pada ayat (1) meliputi:
+    * a. koordinasi pelaksanaan teknis peradilan di Mahkamah Konstitusi;
+    * b. pembinaan dan pelaksanaan administrasi perkara;
+    * c. pembinaan pelayanan teknis kegiatan peradilan di Mahkamah Konstitusi; dan
+    * d. pelaksanaan tugas lain yang diberikan oleh Ketua Mahkamah Konstitusi sesuai dengan bidang tugasnya.
+
+<br>
+
+3. Ketentuan huruf b, huruf d,dan huruf h ayat (2) Pasal 15 diubah sehingga Pasal 15 berbunyi sebagai berikut:
+
+### Pasal 15
+
+1. Hakim konstitusi harus memenuhi syarat sebagai berikut:
+    * a. memiliki integritas dan kepribadian yang tidak tercela;
+    * b. adil; dan 
+    * c.negarawan yang menguasai konstitusi dan ketatanegaraan.
+2. Untuk dapat diangkat menjadi hakim  konstitusi, selain harus memenuhi syarat sebagaimana dimaksud pada ayat (1), seorang calon hakim konstitusi harus memenuhi syarat:
+     * a. warga negara Indonesia;
+     * b. berijazah doktor (strata tiga) dengan dasar sarjana (strata satu) yang berlatar belakang pendidikan di bidang hukum;
+     * c. bertakwa kepada Tuhan Yang Maha Esa dan berakhlak mulia;
+     * d. berusia paling rendah 55 (lima puluh lima) tahun;
+     * e. mampu secara jasmani dan rohani dalam menjalankan tugas dan kewajiban;
+     * f. tidak pernah dijatuhi pidana penjara berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap;
+     * g. tidak sedang dinyatakan pailit berdasarkan putusan pengadilan; dan
+     * h. mempunyai pengalaman kerja di bidang hukum paling sedikit 15 (lima belas) tahun dan/atau untuk calon hakim yang berasal dari lingkungan Mahkamah Agung, sedang menjabat sebagai hakim tinggi atau sebagai hakim agung.
+3. 
+4. 
 
 ---
+
+Tambahan Lembaran Negara Republik Indonesia
+
+Nomor
+
+()
 
 # Penjelasan
 
