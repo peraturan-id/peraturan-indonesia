@@ -35,4 +35,33 @@ Undang-Undang tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nom
 
 ## Pasal 1
 
+Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2020 tentang Perubahan Ketiga atas Undang-Undang Nomor 1 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan Walikota Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 128, Tambahan Lembaran Negara Republik Indonesia Nomor 6512) ditetapkan menjadi Undang-Undang dan melampirkannya sebagai bagian yang tidak terpisahkan dari Undang-Undang ini.
 
+## Pasal 2
+
+Undang-Undang ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Disahkan di Jakarta <br>
+pada tanggal 11 Agustus 2020
+
+Presiden Republik Indonesia, <br>
+ttd <br>
+Joko Widodo
+
+Diundangkan di Jakarta <br>
+pada tanggal 11 Agustus 2020
+
+Menteri Hukum dan Hak Asasi Manusia Republik Indonesia, <br>
+ttd <br>
+Yasonna H. Laoly
+
+---
+
+Penjelasan
+
+---
+
+Sumber:
+*
