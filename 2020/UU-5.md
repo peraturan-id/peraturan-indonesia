@@ -43,6 +43,8 @@ Mengesahkan Perjanjian tentang Bantuan Hukum Timbal Balik dalam Masalah Pidana a
 
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
+</br>
+
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
 <br>
