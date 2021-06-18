@@ -49,16 +49,16 @@ Beberapa ketentuan dalam Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Kons
 1. Mahkamah Konstitusi mempunyai 9 (sembilan) orang anggota hakim konstitusi yang ditetapkan dengan Keputusan Presiden.
 2. Susunan Mahkamah Konstitusi terdiri atas seorang Ketua merangkap anggota, seorang Wakil Ketua merangkap anggota, dan 7 (tujuh) orang anggota hakim konstitusi.
 3. Ketua dan Wakil Ketua Mahkamah Konstitusi dipilih dari dan oleh anggota hakim konstitusi untuk masa jabatan selama 5 (lima) tahun terhitung sejak tanggal pengangkatan Ketua dan Wakil Ketua Mahkamah Konstitusi. <br>
-3a. Ketua dan Wakil Ketua Mahkamah Konstitusi yang terpilih sebagaimana dimaksud pada ayat (3) dapat dipilih kembali dalam jabatan yang sama untuk 1 (satu) kali masa jabatan.
+    * 3a. Ketua dan Wakil Ketua Mahkamah Konstitusi yang terpilih sebagaimana dimaksud pada ayat (3) dapat dipilih kembali dalam jabatan yang sama untuk 1 (satu) kali masa jabatan.
 4. Sebelum Ketua dan Wakil Ketua Mahkamah Konstitusi sebagaimana dimaksud pada ayat (3) terpilih, rapat pemilihan Ketua dan Wakil Ketua Mahkamah Konstitusi dipimpin oleh hakim konstitusi yang tertua. <br>
-4a. Rapat pemilihan sebagaimana dimaksud pada ayat (4) dihadiri paling sedikit 7 (tujuh) orang anggota hakim konstitusi.
-4b. Dalam hal kuorum rapat sebagaimana dimaksud pada ayat (4a) tidak terpenuhi, rapat ditunda paling lama 2 (dua) jam.
-4c. Apabila penundaan rapat sebagaimana dimaksud pada ayat (4b) telah dilakukan dan kuorum rapat belum terpenuhi, rapat dapat mengambil keputusan tanpa kuorum.
-4d. Pengambilan keputusan dalam rapat pemilihan Ketua dan Wakil Ketua Mahkamah Konstitusi sebagaimana dimaksud pada ayat (4c) dilakukan secara musyawarah mufakat untuk mencapai aklamasi.
-4e. Apabila keputusan tidak dapat dicapai secara aklamasi sebagaimana dimaksud pada ayat (4d), keputusan diambil berdasarkan suara terbanyak melalui pemungutan suara yang dilakukan secara bebas dan rahasia.
-4f. Dihapus.
-4g. Dihapus.
-4h. Dihapus.
+    * 4a. Rapat pemilihan sebagaimana dimaksud pada ayat (4) dihadiri paling sedikit 7 (tujuh) orang anggota hakim konstitusi.
+    * 4b. Dalam hal kuorum rapat sebagaimana dimaksud pada ayat (4a) tidak terpenuhi, rapat ditunda paling lama 2 (dua) jam.
+    * 4c. Apabila penundaan rapat sebagaimana dimaksud pada ayat (4b) telah dilakukan dan kuorum rapat belum terpenuhi, rapat dapat mengambil keputusan tanpa kuorum.
+    * 4d. Pengambilan keputusan dalam rapat pemilihan Ketua dan Wakil Ketua Mahkamah Konstitusi sebagaimana dimaksud pada ayat (4c) dilakukan secara musyawarah mufakat untuk mencapai aklamasi.
+    * 4e. Apabila keputusan tidak dapat dicapai secara aklamasi sebagaimana dimaksud pada ayat (4d), keputusan diambil berdasarkan suara terbanyak melalui pemungutan suara yang dilakukan secara bebas dan rahasia.
+    * 4f. Dihapus.
+    * 4g. Dihapus.
+    * 4h. Dihapus.
 5. Ketentuan lebih lanjut mengenai tata cara pemilihan Ketua dan Wakil Ketua diatur dalam Peraturan Mahkamah Konstitusi.
     
 <br>
