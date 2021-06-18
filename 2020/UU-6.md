@@ -102,7 +102,6 @@ Cukup jelas.
 ---
 
 Sumber:
+* <https://peraturan.go.id/peraturan/view.html?id=3056b0ed14c806997a57e48842487475>
 * LN 193 <https://peraturan.go.id/common/dokumen/ln/2020/uu6-2020bt.pdf>
 * TLN 6547 <https://peraturan.go.id/common/dokumen/ln/2020/uu6-2020pjl.pdf>
-* <https://peraturan.go.id/peraturan/view.html?id=3056b0ed14c806997a57e48842487475>
-* <https://jdihn.go.id/search/all-categories/detail/1137566>
